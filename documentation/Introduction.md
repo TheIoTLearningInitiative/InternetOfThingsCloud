@@ -1,4 +1,3 @@
 # Introduction
 
 - Include Rackspace
-- 
