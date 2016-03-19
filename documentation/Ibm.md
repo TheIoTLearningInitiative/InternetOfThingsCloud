@@ -156,7 +156,7 @@ Deploy [Python Hello World Flask](https://github.com/IBM-Bluemix/python-hello-wo
     user@host:~$ cd python-hello-world-flask
     user@host:~$ cf push hellocloudpython
 
-### Embedded C Client Library - Introduction
+## Embedded C Client Library - Introduction
 
 > Embedded C client for interacting with the IBM Watson Internet of Things Platform.
 
