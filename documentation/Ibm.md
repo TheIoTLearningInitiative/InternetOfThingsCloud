@@ -1,6 +1,7 @@
-# IBM
+IBM
+==
 
-### Hands-On
+## Cloud Foundry Hands-On
 
 #### Hello Cloud Application Javascript
 
