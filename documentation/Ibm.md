@@ -3,7 +3,7 @@ IBM
 
 ## Cloud Foundry Hands-On
 
-#### Hello Cloud Application Javascript
+### Hello Cloud Application Javascript
 
 > __cf__ - A command line tool to interact with Cloud Foundry
 
@@ -146,7 +146,7 @@ IBM
 
 Credit to [Cloud Foundry Workshops](http://www.cloudworkshop.org/cloudfoundry/)
 
-#### Hello World Flask Python
+### Hello World Flask Python
 
 
 Deploy [Python Hello World Flask](https://github.com/IBM-Bluemix/python-hello-world-flask) to IBM Bluemix, Full recipe [Here](https://developer.ibm.com/bluemix/2015/03/30/simple-hello-world-python-app-using-flask/)
@@ -156,7 +156,7 @@ Deploy [Python Hello World Flask](https://github.com/IBM-Bluemix/python-hello-wo
     user@host:~$ cd python-hello-world-flask
     user@host:~$ cf push hellocloudpython
 
-#### Embedded C Client Library - Introduction
+### Embedded C Client Library - Introduction
 
 > Embedded C client for interacting with the IBM Watson Internet of Things Platform.
 
@@ -201,7 +201,7 @@ Deploy [Python Hello World Flask](https://github.com/IBM-Bluemix/python-hello-wo
     Quitting!!                                                                       root@board:~/iotf-embeddedc/samples# 
 ```
 
-### IBM Internet of Things Foundation for Python
+## IBM Internet of Things Foundation for Python
 
 ```sh
     root@board:~# pip install ibmiotf
