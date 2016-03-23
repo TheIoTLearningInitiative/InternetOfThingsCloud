@@ -7,7 +7,6 @@ Cloud Foundry
 
 > Cloud Foundry gives companies the speed, simplicity and control they need to develop and deploy applications faster and easier.
 
-
 - [Cloud Foundry Foundation Homepage](https://www.cloudfoundry.org/)
 - [Cloud Foundry Foundation Documentation](https://docs.cloudfoundry.org/)
 - [Cloud Foundry Foundation Keynote](https://www.youtube.com/watch?v=cvIjvbjB7qo)
