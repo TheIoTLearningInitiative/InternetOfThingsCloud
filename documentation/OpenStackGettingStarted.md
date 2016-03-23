@@ -48,4 +48,6 @@ xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd cffi-0.8.6
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ sudo python setup.py install
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd ..
 xe1gyq@jessie:~/openstack/devstack$ sudo apt-get remove python3
+xe1gyq@jessie:~/openstack/devstack$ sudo apt-get remove python
+xe1gyq@jessie:~/openstack/devstack$ sudo apt-get autoremove
 ```
