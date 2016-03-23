@@ -18,11 +18,11 @@ root@jessie:~# visudo
 stack  ALL=(ALL:ALL) ALL
 ...
 root@jessie:~# visudo
-xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ sudo apt-get remove python3
 xe1gyq@jessie:~$ sudo apt-get remove python
 xe1gyq@jessie:~$ sudo apt-get autoremove
 xe1gyq@jessie:~$ sudo apt-get install python3.4 python3.4-dev
+xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
 Cloning into 'devstack'...
