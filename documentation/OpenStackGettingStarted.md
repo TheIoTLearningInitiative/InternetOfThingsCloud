@@ -31,9 +31,16 @@ remote: Total 33001 (delta 0), reused 0 (delta 0), pack-reused 33000
 Receiving objects: 100% (33001/33001), 12.09 MiB | 495.00 KiB/s, done.
 Resolving deltas: 100% (22813/22813), done.
 Checking connectivity... done.
-xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
-xe1gyq@jessie:~/openstack$ su stack
 xe1gyq@jessie:~/openstack$ cd devstack
+xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
+...
+ENTER A PASSWORD TO USE FOR THE DATABASE.
+ENTER A PASSWORD TO USE FOR RABBIT.
+ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
+ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
+...
+xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
+
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
 ENTER A PASSWORD TO USE FOR THE DATABASE.
@@ -43,6 +50,9 @@ ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ...
 Error on exit
 ./stack.sh: line 488: generate-subunit: command not found
+
+xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
+xe1gyq@jessie:~/openstack$ su stack
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
 ...
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
