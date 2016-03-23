@@ -2,9 +2,9 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* [Cloud Foundry](documentation/CloudFoundry.md)
-   * [IBM](documentation/Ibm.md)
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
+* [Cloud Foundry](documentation/CloudFoundry.md)
+   * [IBM](documentation/Ibm.md)
 
