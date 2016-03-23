@@ -1,6 +1,8 @@
 Cloud Foundry
 ==
 
+> Cloud Foundry is an open source cloud computing platform as a service (PaaS) originally developed by VMware and now owned by Pivotal Software - a joint venture by EMC, VMware and General Electric. Cloud Foundry was designed and developed by a small team from Google led by Derek Collison and was originally called project B29. Cloud Foundry is primarily written in Ruby and Go. [Wikipedia](https://en.wikipedia.org/wiki/Cloud_Foundry)
+
 > The Cloud Foundry Certified PaaS program gives you the confidence of knowing your applications and skills are portable across certified providers.
 
 > Cloud Foundry gives companies the speed, simplicity and control they need to develop and deploy applications faster and easier.
