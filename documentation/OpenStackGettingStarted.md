@@ -10,6 +10,11 @@ Getting Started
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
 
 ```sh
+
+root@jessie:~# apt-get install sudo
+...
+Setting up sudo (1.8.10p3-1+deb8u3) ...
+xe1gyq@jessie:~$ 
 xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
