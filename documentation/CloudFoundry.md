@@ -7,7 +7,7 @@ Cloud Foundry
 
 > Cloud Foundry gives companies the speed, simplicity and control they need to develop and deploy applications faster and easier.
 
-- [What is IBM Bluemix? Cloud Foundry](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
+- [What is Cloud Foundry?](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
 
 Companies using the Cloud Foundry platform:
 
