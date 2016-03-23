@@ -7,6 +7,16 @@ Cloud Foundry
 
 > Cloud Foundry gives companies the speed, simplicity and control they need to develop and deploy applications faster and easier.
 
+Companies using the Cloud Foundry platform
+
+- GE's Predix
+- IBM Bluemix
+- CenturyLink
+- ActiveState
+- HP Helion
+- anynines
+- Swisscom
+
 Cloud Foundry Is Built On An Open Architecture offering the following features:
 
 > __Router__ 
