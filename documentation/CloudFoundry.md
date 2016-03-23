@@ -9,7 +9,6 @@ Cloud Foundry
 
 - [What is IBM Bluemix? Cloud Foundry](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
 
-
 Companies using the Cloud Foundry platform:
 
 - GE's Predix
