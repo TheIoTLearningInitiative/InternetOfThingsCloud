@@ -37,5 +37,6 @@ Error on exit
 ./stack.sh: line 488: generate-subunit: command not found
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
 ...
+xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 
 ```
