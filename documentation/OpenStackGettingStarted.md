@@ -14,7 +14,7 @@ Getting Started
 root@jessie:~# apt-get install sudo
 ...
 Setting up sudo (1.8.10p3-1+deb8u3) ...
-xe1gyq@jessie:~$ 
+root@jessie:~# 
 xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
