@@ -1,7 +1,9 @@
 Getting Started
 ==
 
-> DevStack - An OpenStack Community Production¶
+> DevStack
+> > An OpenStack Community Production¶
+> > DevStack's mission is to provide and maintain tools used for the installation of the central OpenStack services from source (git repository master, or specific branches) suitable for development and operational testing. It also demonstrates and documents examples of configuring and running services as well as command line client usage.
 
 - [Open Stack Wiki](https://wiki.openstack.org/wiki/Getting_Started)
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
