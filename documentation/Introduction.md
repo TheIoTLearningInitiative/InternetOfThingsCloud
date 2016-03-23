@@ -5,6 +5,12 @@
 
 - Include IBM BlueMix, Amazon Web Services, Microsoft Azure
 
+What is this?
+
+- Controller Node: 1 processor, 2 GB memory, and 5 GB storage
+- Network Node: 1 processor, 512 MB memory, and 5 GB storage
+- Compute Node: 1 processor, 2 GB memory, and 10 GB storage
+
 ## Hewlett Packard Helion Platform
 
 > Introducing the HPE Helion Platform, a combined Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) offering for cloud-native workloads. The HPE Helion Platform is based on industry-leading open source projects in OpenStack® and Cloud Foundry™ and provides enterprise customers with flexibility in software and hardware. Use the HPE Helion Platform to simplify the development, deployment, and delivery of applications that have been designed for the cloud.
