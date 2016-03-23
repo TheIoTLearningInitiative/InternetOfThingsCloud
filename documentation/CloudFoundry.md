@@ -14,6 +14,7 @@ Cloud Foundry
 - [Cloud Foundry Foundation Active Projects](https://github.com/cloudfoundry)
 - [Cloud Foundry Foundation Python Libraries](https://pypi.python.org/pypi?%3Aaction=search&term=cloud+foundry&submit=search)
 - [What is Cloud Foundry?](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
+- [Inside Cloud Foundry: An Architectural Review](https://www.youtube.com/watch?v=oXExLtmw0q4)
 
 Companies using the Cloud Foundry platform:
 
