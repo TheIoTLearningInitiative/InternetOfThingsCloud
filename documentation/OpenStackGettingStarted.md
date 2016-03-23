@@ -19,6 +19,10 @@ stack  ALL=(ALL:ALL) ALL
 ...
 root@jessie:~# visudo
 xe1gyq@jessie:~$ mkdir openstack
+xe1gyq@jessie:~$ sudo apt-get remove python3
+xe1gyq@jessie:~$ sudo apt-get remove python
+xe1gyq@jessie:~$ sudo apt-get autoremove
+xe1gyq@jessie:~$ sudo apt-get install python3.4 python3.4-dev
 xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
 Cloning into 'devstack'...
@@ -47,9 +51,5 @@ xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ tar xvf cffi-0.8.6.tar.gz
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd cffi-0.8.6
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ sudo python setup.py install
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd ..
-xe1gyq@jessie:~/openstack/devstack$ sudo apt-get remove python3
-xe1gyq@jessie:~/openstack/devstack$ sudo apt-get remove python
-xe1gyq@jessie:~/openstack/devstack$ sudo apt-get autoremove
-xe1gyq@jessie:~/openstack/devstack$ sudo apt-get install python3.4 python3.4-dev
 
 ```
