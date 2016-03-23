@@ -10,7 +10,6 @@ Getting Started
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
 
 ```sh
-
 root@jessie:~# apt-get install sudo
 ...
 Setting up sudo (1.8.10p3-1+deb8u3) ...
