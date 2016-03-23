@@ -47,7 +47,15 @@ ENTER A PASSWORD TO USE FOR RABBIT.
 ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
 ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ...
-xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
+This is your host IP address: 192.168.1.70
+This is your host IPv6 address: ::1
+Horizon is now available at http://192.168.1.70/dashboard
+Keystone is serving at http://192.168.1.70:5000/
+The default users are: admin and demo
+The password: 
+2016-03-23 18:07:45.117 | set lvm.conf device global_filter to: global_filter = [ "a|loop0|", "a|loop1|", "r|.*|" ] # from devstack
+2016-03-23 18:07:45.192 | stack.sh completed in 2446 seconds.
+xe1gyq@jessie:~/openstack/devstack$ devstack/tools/create-stack-user.sh
 ```
 
 ## DevStack - an OpenStack Community Production, Quick Start, Error
