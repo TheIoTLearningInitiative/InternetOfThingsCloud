@@ -6,5 +6,5 @@
    * [IBM](documentation/Ibm.md)
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
-   * Training
+   * [Training](documentation/OpenStackTraining.md)
 
