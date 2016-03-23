@@ -34,6 +34,11 @@ Receiving objects: 100% (33001/33001), 12.09 MiB | 495.00 KiB/s, done.
 Resolving deltas: 100% (22813/22813), done.
 Checking connectivity... done.
 xe1gyq@jessie:~/openstack$ cd devstack
+xe1gyq@jessie:~/openstack/devstack$ ls
+clean.sh      exerciserc   files             gate         LICENSE          pkg           setup.cfg  tests
+data          exercises    functions         HACKING.rst  MAINTAINERS.rst  README.md     setup.py   tools
+doc           exercise.sh  functions-common  inc          Makefile         run_tests.sh  stackrc    tox.ini
+driver_certs  extras.d     FUTURE.rst        lib          openrc           samples       stack.sh   unstack.sh
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
 ENTER A PASSWORD TO USE FOR THE DATABASE.
