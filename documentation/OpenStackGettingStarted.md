@@ -32,6 +32,9 @@ xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
 xe1gyq@jessie:~/openstack$ su stack
 xe1gyq@jessie:~/openstack$ cd devstack
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
+...
+Error on exit
+./stack.sh: line 488: generate-subunit: command not found
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
 ...
 
