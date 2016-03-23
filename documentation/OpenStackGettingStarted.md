@@ -38,5 +38,4 @@ Error on exit
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
 ...
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
-
 ```
