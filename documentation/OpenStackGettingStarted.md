@@ -40,7 +40,9 @@ ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
 ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ...
 xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
+```
 
+```sh
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
 ENTER A PASSWORD TO USE FOR THE DATABASE.
