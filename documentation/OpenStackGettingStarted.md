@@ -32,4 +32,6 @@ xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
 xe1gyq@jessie:~/openstack$ su stack
 xe1gyq@jessie:~/openstack$ cd devstack
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
+xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
+
 ```
