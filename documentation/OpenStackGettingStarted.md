@@ -3,6 +3,8 @@ Getting Started
 
 ## Public Clouds on the Marketplace
 
+[OpenStack Marketplace](https://www.openstack.org/marketplace/)
+
 ## DevStack
 
 > DevStack
