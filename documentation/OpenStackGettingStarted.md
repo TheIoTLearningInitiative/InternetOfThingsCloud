@@ -43,6 +43,7 @@ xe1gyq@jessie:~/openstack$ devstack/tools/create-stack-user.sh
 ```
 
 
+
 ```sh
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
