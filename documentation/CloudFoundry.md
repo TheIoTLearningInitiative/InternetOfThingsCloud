@@ -7,17 +7,33 @@ Cloud Foundry
 
 Cloud Foundry Is Built On An Open Architecture offering the following features:
 
-- __Router__ Routes incoming traffic to the appropriate component, usually the Cloud Controller or a running application on a DEA node.
-- __OAuth2 server authentication__ The OAuth2 server and Login Server work together to provide identity management.
-- __Cloud Controller__ The Cloud Controller is responsible for managing the lifecycle of applications.
-- __HM9000__ HM9000 monitors, determines and reconciles applications to determine their state, version and number of instances, and directs Cloud Controller to take action to correct any discrepancies.
+> __Router__ 
+> > Routes incoming traffic to the appropriate component, usually the Cloud Controller or a running application on a DEA node.
+> __OAuth2 server authentication__
+> > The OAuth2 server and Login Server work together to provide identity management.
+
+> __Cloud Controller__ 
+> > The Cloud Controller is responsible for managing the lifecycle of applications.
+
+> __HM9000__ 
+> > HM9000 monitors, determines and reconciles applications to determine their state, version and number of instances, and directs Cloud Controller to take action to correct any discrepancies.
 Droplet Execution Agent
-- __Application Execution (DEA)__ The Droplet Execution Agent manages application instances, tracks started instances, and broadcasts state messages.
-- __Blob Store__ The blob store holds, application code, buildpacks and droplets.
-- __Service Brokers__ When a developer provisions and binds a service to an application, the service broker for that service is responsible for providing the service instance.
-- __Message Bus__ Cloud Foundry uses NATS, a lightweight publish-subscribe and distributed queueing messaging system, for internal communication between components.
+
+> __Application Execution (DEA)__ 
+> > The Droplet Execution Agent manages application instances, tracks started instances, and broadcasts state messages.
+
+> __Blob Store__ 
+> > The blob store holds, application code, buildpacks and droplets.
+
+> __Service Brokers__ 
+> > When a developer provisions and binds a service to an application, the service broker for that service is responsible for providing the service instance.
+
+> __Message Bus__ 
+> > Cloud Foundry uses NATS, a lightweight publish-subscribe and distributed queueing messaging system, for internal communication between components.
 global perception study
-- __Logging and Statistics__ The metrics collector gathers metrics from the components. Operators can use this information to monitor an instance of Cloud Foundry.
+
+> __Logging and Statistics__ 
+> > The metrics collector gathers metrics from the components. Operators can use this information to monitor an instance of Cloud Foundry.
 
 ### Links
 
