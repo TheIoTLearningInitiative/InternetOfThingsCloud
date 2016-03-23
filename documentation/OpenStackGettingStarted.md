@@ -1,6 +1,8 @@
 Getting Started
 ==
 
+## Public Clouds on the Marketplace
+
 ## DevStack
 
 > DevStack
