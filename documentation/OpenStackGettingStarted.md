@@ -37,11 +37,8 @@ Error on exit
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
 ...
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
-
-
 xe1gyq@jessie:~/openstack/devstack/$ wget https://pypi.python.org/packages/source/c/cffi/cffi-0.8.6.tar.gz#md5=474b5a68299a6f05009171de1dc91be6
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ tar xvf cffi-0.8.6.tar.gz
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd cffi-0.8.6
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ sudo python setup.py install
-
 ```
