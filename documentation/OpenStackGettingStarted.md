@@ -32,6 +32,11 @@ xe1gyq@jessie:~/openstack$ su stack
 xe1gyq@jessie:~/openstack$ cd devstack
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
+ENTER A PASSWORD TO USE FOR THE DATABASE.
+ENTER A PASSWORD TO USE FOR RABBIT.
+ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
+ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
+...
 Error on exit
 ./stack.sh: line 488: generate-subunit: command not found
 xe1gyq@jessie:~/openstack/devstack$ sudo pip install -U os-testr
@@ -41,4 +46,6 @@ xe1gyq@jessie:~/openstack/devstack/$ wget https://pypi.python.org/packages/sourc
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ tar xvf cffi-0.8.6.tar.gz
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd cffi-0.8.6
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ sudo python setup.py install
+xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd ..
+xe1gyq@jessie:~/openstack/devstack$ sudo apt-get remove python3
 ```
