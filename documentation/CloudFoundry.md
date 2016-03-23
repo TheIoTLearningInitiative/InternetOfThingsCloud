@@ -7,6 +7,13 @@ Cloud Foundry
 
 > Cloud Foundry gives companies the speed, simplicity and control they need to develop and deploy applications faster and easier.
 
+
+- [Cloud Foundry Foundation Homepage](https://www.cloudfoundry.org/)
+- [Cloud Foundry Foundation Documentation](https://docs.cloudfoundry.org/)
+- [Cloud Foundry Foundation Keynote](https://www.youtube.com/watch?v=cvIjvbjB7qo)
+- [Cloud Foundry Foundation Incubator](https://github.com/cloudfoundry-incubator)
+- [Cloud Foundry Foundation Active Projects](https://github.com/cloudfoundry)
+- [Cloud Foundry Foundation Python Libraries](https://pypi.python.org/pypi?%3Aaction=search&term=cloud+foundry&submit=search)
 - [What is Cloud Foundry?](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
 
 Companies using the Cloud Foundry platform:
@@ -49,11 +56,3 @@ global perception study
 > __Logging and Statistics__ 
 > > The metrics collector gathers metrics from the components. Operators can use this information to monitor an instance of Cloud Foundry.
 
-### Links
-
-- [Cloud Foundry Foundation Homepage](https://www.cloudfoundry.org/)
-- [Cloud Foundry Foundation Documentation](https://docs.cloudfoundry.org/)
-- [Cloud Foundry Foundation Keynote](https://www.youtube.com/watch?v=cvIjvbjB7qo)
-- [Cloud Foundry Foundation Incubator](https://github.com/cloudfoundry-incubator)
-- [Cloud Foundry Foundation Active Projects](https://github.com/cloudfoundry)
-- [Cloud Foundry Foundation Python Libraries](https://pypi.python.org/pypi?%3Aaction=search&term=cloud+foundry&submit=search)
