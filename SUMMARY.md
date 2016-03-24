@@ -7,5 +7,5 @@
    * [Training](documentation/OpenStackTraining.md)
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
-* Intel
+* [Intel](documentation/Intel.md)
 
