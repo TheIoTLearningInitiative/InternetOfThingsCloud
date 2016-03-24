@@ -4,6 +4,7 @@
   Hermes Lopez
 
 - Include IBM BlueMix, Amazon Web Services, Microsoft Azure
+- [InitialState 12 of the Best IoT Platforms](http://blog.initialstate.com/iot-platforms)
 
 What is this?
 
