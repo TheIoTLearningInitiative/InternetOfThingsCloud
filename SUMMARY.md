@@ -9,4 +9,5 @@
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
 * CloudStack
+* Eucalyptus
 
