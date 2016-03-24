@@ -8,7 +8,7 @@
 
 - IaaS
 - PaaS
--SaaS
+- SaaS
 
 What is this?
 
