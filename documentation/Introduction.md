@@ -6,6 +6,11 @@
 - Include IBM BlueMix, Amazon Web Services, Microsoft Azure
 - [InitialState 12 of the Best IoT Platforms](http://blog.initialstate.com/iot-platforms)
 
+IaaS
+PaaS
+SaaS
+
+
 What is this?
 
 - Controller Node: 1 processor, 2 GB memory, and 5 GB storage
