@@ -8,4 +8,5 @@
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
+* CloudStack
 
