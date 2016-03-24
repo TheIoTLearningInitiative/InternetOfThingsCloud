@@ -6,10 +6,9 @@
 - Include IBM BlueMix, Amazon Web Services, Microsoft Azure
 - [InitialState 12 of the Best IoT Platforms](http://blog.initialstate.com/iot-platforms)
 
-IaaS
-PaaS
-SaaS
-
+- IaaS
+- PaaS
+-SaaS
 
 What is this?
 
