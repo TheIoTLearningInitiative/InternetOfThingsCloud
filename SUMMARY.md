@@ -10,4 +10,5 @@
 * [Intel](documentation/Intel.md)
 * CloudStack
 * Eucalyptus
+* Dockers
 
