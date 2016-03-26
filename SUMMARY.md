@@ -9,8 +9,8 @@
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
 * Sandbox
+   * [Dockers](documentation/Docker.md)
    * CloudStack
    * Eucalyptus
    * Temp
-* [Dockers](documentation/Docker.md)
 
