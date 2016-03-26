@@ -10,7 +10,7 @@
 * [Intel](documentation/Intel.md)
 * Sandbox
    * CloudStack
+   * Eucalyptus
    * Temp
-* Eucalyptus
 * [Dockers](documentation/Docker.md)
 
