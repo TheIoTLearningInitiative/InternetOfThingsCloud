@@ -13,4 +13,5 @@
    * CloudStack
    * Eucalyptus
    * Temp
+   * SoftLayer
 
