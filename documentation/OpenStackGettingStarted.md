@@ -1,6 +1,8 @@
 Getting Started
 ==
 
+- [Intel 01 OpenStack](https://01.org/openstack)
+
 ## Public Clouds on the Marketplace
 
 [OpenStack Marketplace](https://www.openstack.org/marketplace/)
