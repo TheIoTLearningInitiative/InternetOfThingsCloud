@@ -14,5 +14,5 @@
    * Eucalyptus
    * Temp
    * SoftLayer
-   * Mesos
+   * Apache Mesos
 
