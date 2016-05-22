@@ -8,6 +8,7 @@
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
+* Cluster
 * Sandbox
    * [Dockers](documentation/Docker.md)
    * CloudStack
@@ -15,5 +16,4 @@
    * Temp
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
-* Cluster
 
