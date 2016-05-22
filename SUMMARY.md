@@ -8,7 +8,7 @@
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
-* Cluster
+* [Cluster](documentation/Cluster.md)
 * Sandbox
    * [Dockers](documentation/Docker.md)
    * CloudStack
