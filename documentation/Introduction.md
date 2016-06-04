@@ -3,6 +3,8 @@
 - http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#402155b859d7
 - https://www.ibm.com/cloud-computing/what-is-cloud-computing
 
+https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/
+
 - Include Rackspace
   Hermes Lopez
 
