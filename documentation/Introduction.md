@@ -33,6 +33,8 @@ What is this?
 
 ## Private Cloud
 
+- 
+
 ## Hewlett Packard Helion Platform
 
 > Introducing the HPE Helion Platform, a combined Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) offering for cloud-native workloads. The HPE Helion Platform is based on industry-leading open source projects in OpenStack® and Cloud Foundry™ and provides enterprise customers with flexibility in software and hardware. Use the HPE Helion Platform to simplify the development, deployment, and delivery of applications that have been designed for the cloud.
