@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+   * Public Cloud
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
 * [OpenStack](documentation/OpenStack.md)
