@@ -14,4 +14,6 @@ https://webbluetoothcg.github.io/web-bluetooth/
 
 https://w3c.github.io/web-nfc/
 
+## The Physical Web
 
+https://google.github.io/physical-web/
