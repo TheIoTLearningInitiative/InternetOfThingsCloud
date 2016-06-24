@@ -47,3 +47,15 @@ Fetched 801 kB in 6s (124 kB/s)
 Reading package lists... Done
 root@debiando:~# 
 ```
+
+```
+root@debiando:~# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vda1        20G  1.1G   18G   6% /
+udev             10M     0   10M   0% /dev
+tmpfs            99M  4.4M   95M   5% /run
+tmpfs           248M     0  248M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           248M     0  248M   0% /sys/fs/cgroup
+root@debiando:~# 
+```
