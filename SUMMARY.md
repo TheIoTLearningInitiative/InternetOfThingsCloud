@@ -15,6 +15,7 @@
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
 * [Digital Ocean](documentation/DigitalOcean.md)
+* [Artik](documentation/Artik.md)
 * [Cluster](documentation/Cluster.md)
 * [Sandbox](documentation/Sandbox.md)
    * [Dockers](documentation/Docker.md)
@@ -23,5 +24,4 @@
    * Temp
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
-* [Artik](documentation/Artik.md)
 
