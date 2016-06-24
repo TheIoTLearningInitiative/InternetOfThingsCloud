@@ -7,4 +7,4 @@ Training
 
 # TryStack
 
-- [TryStack](http://trystack.org/)
+> The Easiest Way To Try Out OpenStack. We've set up a large, growing cluster of hardware running OpenStack on x86. The best part? It's totally free for you to try & test your apps—thanks to our generous individual and corporate contributors. [TryStack](http://trystack.org/)
