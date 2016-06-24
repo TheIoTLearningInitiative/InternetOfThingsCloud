@@ -23,5 +23,5 @@
    * Temp
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
-* Artik
+* [Artik](documentation/Artik.md)
 
