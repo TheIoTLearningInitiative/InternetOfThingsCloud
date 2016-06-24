@@ -2,6 +2,10 @@
 
 ```
 xe1gyq@jessie:~$ ssh root@188.179.78.13
+The authenticity of host '188.179.78.13 (188.179.78.13)' can't be established.
+ECDSA key fingerprint is 53:..:b8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '188.179.78.13' (ECDSA) to the list of known hosts.
 root@188.179.78.13's password: 
 You are required to change your password immediately (root enforced)
 
