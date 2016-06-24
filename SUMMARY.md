@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
    * Companies
-       * Rackspace
+       * [Rackspace](documentation/Rackspace.md)
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
