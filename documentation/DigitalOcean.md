@@ -1,5 +1,24 @@
 # Digital Ocean
 
+```
+xe1gyq@jessie:~$ ssh root@188.179.78.13
+root@188.179.78.13's password: 
+You are required to change your password immediately (root enforced)
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Jun 24 01:13:37 2016 from 162.101.37.71
+Changing password for root.
+(current) UNIX password: 
+Enter new UNIX password: 
+Retype new UNIX password: 
+root@debiando:~# 
+```
+
 ```sh
 root@debiando:~# apt-get update
 Get:1 http://security.debian.org jessie/updates InRelease [63.1 kB]
