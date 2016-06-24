@@ -14,6 +14,7 @@
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
+* [Digital Ocean](documentation/DigitalOcean.md)
 * [Cluster](documentation/Cluster.md)
 * [Sandbox](documentation/Sandbox.md)
    * [Dockers](documentation/Docker.md)
@@ -22,5 +23,4 @@
    * Temp
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
-* [Digital Ocean](documentation/DigitalOcean.md)
 
