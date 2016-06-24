@@ -5,6 +5,7 @@
    * [Concepts](documentation/Concepts.md)
    * Companies
        * [Rackspace](documentation/Rackspace.md)
+       * OVH
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
