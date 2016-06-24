@@ -7,6 +7,7 @@
        * [Rackspace](documentation/Rackspace.md)
        * [OVH](documentation/Ovh.md)
        * [Blue Box Cloud](documentation/BlueBoxCloud.md)
+       * DreamHost
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
