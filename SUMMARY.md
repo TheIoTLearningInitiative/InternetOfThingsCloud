@@ -22,4 +22,5 @@
    * Temp
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
+* Digital Ocean
 
