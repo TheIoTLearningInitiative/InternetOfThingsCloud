@@ -6,6 +6,7 @@
    * Companies
        * [Rackspace](documentation/Rackspace.md)
        * [OVH](documentation/Ovh.md)
+       * Blue Box Cloud
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
