@@ -1,7 +1,6 @@
 # Summary
 
 * [Cover](README.md)
-   * Services
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
    * Companies
