@@ -11,6 +11,7 @@
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
    * [Training](documentation/OpenStackTraining.md)
+   * Projects
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
 * [Intel](documentation/Intel.md)
