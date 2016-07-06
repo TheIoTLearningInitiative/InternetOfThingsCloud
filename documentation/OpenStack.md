@@ -7,3 +7,7 @@
 # OpenStack Innovation Center
 
 > Advancing the world’s leading Open Cloud OS. The OpenStack Innovation Center (OSIC), established by Intel and Rackspace, is designed to accelerate enterprise adoption of the world’s leading open source cloud operating system while supporting open source principles. [Homepage](https://osic.org/)
+
+# News
+
+[](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
