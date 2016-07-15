@@ -5,6 +5,7 @@ Training
 - [Linux Foundation OpenStack Training](https://training.linuxfoundation.org/linux-courses/system-administration-training/openstack-administration-fundamentals)
 - [Quora Where can I find best tutorials for openstack?](https://www.quora.com/Where-can-I-find-best-tutorials-for-openstack)
 - [OpenStack 101](https://youtu.be/qUVEkKG7HTM)
+- [Openstack Training](https://wiki.openstack.org/wiki/Documentation/training-labs)
 
 # TryStack
 
