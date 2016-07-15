@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
+   * IaaS
 * Companies
    * [Rackspace](documentation/Rackspace.md)
    * [OVH](documentation/Ovh.md)
