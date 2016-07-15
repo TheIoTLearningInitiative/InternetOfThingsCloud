@@ -11,3 +11,17 @@
 # News
 
 [OpenStack and Kubernetes join forces for an Internet of Things platform](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
+
+# Components
+
+## Glance
+
+> Images
+
+## Nova
+
+> Compute
+
+## Swift
+
+> Storage
