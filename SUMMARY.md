@@ -15,6 +15,7 @@
    * [Deployment Models](documentation/DeploymentModels.md)
        * [Public Cloud](documentation/PublicCloud.md)
        * [Private Cloud](documentation/PrivateCloud.md)
+       * Hybrid Cloud
    * [Service Models](documentation/ServiceModels.md)
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
