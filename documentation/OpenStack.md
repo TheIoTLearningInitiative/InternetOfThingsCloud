@@ -1,5 +1,4 @@
-
- # OpenStack
+# OpenStack
 
 > Open source software for creating private and public clouds
 
@@ -45,7 +44,9 @@
 
 ## Flow
 
-
+- Authentication
+- Flavors
+- Images
 
 # History
 
