@@ -4,6 +4,8 @@
 
 > A terminal server (also referred to as a serial server or console server network access server) enables organizations to connect devices with an RS-232, RS-422 or RS-485 serial interface to a local area network (LAN).  [Terminal Server](https://en.wikipedia.org/wiki/Terminal_server)
 
+> Thin Clients!
+
 # Web Applications
 
 > In computing, a web application or web app is a client–server software application which the client (or user interface) runs in a web browser [Wikipedia](https://en.wikipedia.org/wiki/Web_application)
