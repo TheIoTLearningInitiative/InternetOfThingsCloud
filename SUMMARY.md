@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
-       * Infrastructure
+       * [Infrastructure](documentation/ConceptsInfrastructure.md)
        * Hardware
        * Software
    * [Virtualization](documentation/Virtualization.md)
