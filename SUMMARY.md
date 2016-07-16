@@ -5,13 +5,13 @@
    * [Concepts](documentation/Concepts.md)
    * [IaaS](documentation/IaaS.md)
    * [Virtualization](documentation/Virtualization.md)
-   * [Brokers](documentation/Brokers.md)
 * Companies
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
    * [Intel](documentation/Intel.md)
+   * [Brokers](documentation/Brokers.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
