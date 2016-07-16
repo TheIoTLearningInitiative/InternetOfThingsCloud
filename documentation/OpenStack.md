@@ -12,7 +12,7 @@
 - [Rackspace invented Openstack - Now We’re perfecting it](https://www.rackspace.com/cloud/openstack)
 - [Public vs Private, Amazon compared to OpenStack](http://redhatstackblog.redhat.com/2015/05/13/public-vs-private-amazon-compared-to-openstack/)
 - [How we scaled OpenStack to launch 168,000 Cloud instances](https://javacruft.wordpress.com/2014/06/18/168k-instances/)
-- [Intel 01 OpenStack](https://01.org/openstack)
+- [Intel 01 Org OpenStack](https://01.org/openstack)
 
 ## Mission
 
