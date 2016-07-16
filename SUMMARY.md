@@ -16,8 +16,8 @@
 * Projects
    * [OpenStack](documentation/OpenStack.md)
        * Concepts
+           * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
            * [Brokers](documentation/Brokers.md)
-       * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
