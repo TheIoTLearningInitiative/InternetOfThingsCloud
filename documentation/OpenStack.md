@@ -23,3 +23,4 @@
 - Dashboard (Horizon)
 - Orchestration (Heat)
 - Workflow (Mistral)
+- Telemetry (Ceilometer)
