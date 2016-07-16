@@ -8,7 +8,7 @@
 
 # Public Vs Private Vs Hybrid Cloud
 
-- [](http://www.intel.com/content/www/us/en/cloud-computing/cloud-101-video.html)
+- [Public Cloud vs. Private Cloud vs. Hybrid Cloud](http://www.intel.com/content/www/us/en/cloud-computing/cloud-101-video.html)
 
 ## Public Cloud
 
