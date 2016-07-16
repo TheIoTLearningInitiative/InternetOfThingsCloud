@@ -31,3 +31,4 @@
 - Shared File System (Manila)
 - DNS (Designate)
 - Search (Searchlight)
+- Key Manager (Barbican)
