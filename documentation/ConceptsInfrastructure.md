@@ -6,7 +6,7 @@
 
 # High Availability Cluster
 
->  [](https://en.wikipedia.org/wiki/High-availability_cluster)
+> High-availability clusters (also known as HA clusters or fail-over clusters) are groups of computers that support server applications that can be reliably utilized with a minimum of down-time. They operate by using high availability software to harness redundant computers in groups or clusters that provide continued service when system components fail. [Wikipedia](https://en.wikipedia.org/wiki/High-availability_cluster)
 
 # Virtual LAN
 
