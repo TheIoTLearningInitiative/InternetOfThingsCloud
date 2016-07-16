@@ -5,6 +5,7 @@
    * [Concepts](documentation/Concepts.md)
    * [Virtualization](documentation/Virtualization.md)
    * [IaaS](documentation/IaaS.md)
+   * PaaS
 * Companies
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
