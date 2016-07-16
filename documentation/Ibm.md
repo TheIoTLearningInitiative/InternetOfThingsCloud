@@ -1,8 +1,8 @@
 # IBM
 
-## Cloud Foundry Hands-On
+# Cloud Foundry Hands-On
 
-### Hello Cloud Application Javascript
+## Hello Cloud Application Javascript
 
 > __cf__ - A command line tool to interact with Cloud Foundry
 
