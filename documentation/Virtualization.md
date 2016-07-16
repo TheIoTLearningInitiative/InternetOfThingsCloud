@@ -37,3 +37,6 @@ Way To Virtualize:
 
 # Hosted Instances
 
+- Amazon
+- Microsoft
+- Google
