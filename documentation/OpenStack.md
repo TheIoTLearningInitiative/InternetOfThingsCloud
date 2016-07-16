@@ -22,3 +22,4 @@
 - Object Storage (Swift)
 - Dashboard (Horizon)
 - Orchestration (Heat)
+- Workflow (Mistral)
