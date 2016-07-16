@@ -69,7 +69,7 @@ The default users are: admin and demo
 The password: 
 2016-03-23 18:07:45.117 | set lvm.conf device global_filter to: global_filter = [ "a|loop0|", "a|loop1|", "r|.*|" ] # from devstack
 2016-03-23 18:07:45.192 | stack.sh completed in 2446 seconds.
-xe1gyq@jessie:~/openstack/devstack$ devstack/tools/create-stack-user.sh
+
 ```
 
 ## DevStack - an OpenStack Community Production, Quick Start, Error
