@@ -10,6 +10,10 @@
 - [Openstack Homepage](http://www.openstack.org/)
 - [OpenStack Documentation](http://docs.openstack.org/)
 
+## Mission
+
+> What is OpenStack? Well, our mission statement says this: To produce the ubiquitous OpenSource Cloud Computing platform that will meet the needs of public and private clouds regardless of size, by being simple to implement and massively scalable.
+
 ## Components
 
 - __Compute__ (Nova)
