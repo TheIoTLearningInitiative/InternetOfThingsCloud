@@ -31,3 +31,6 @@
 
 
 # Fault Tolerant
+
+# Edge Location
+
