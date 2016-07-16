@@ -26,13 +26,13 @@
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
+   * Hewlett Packard
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
    * [KIO Networks](documentation/KioNetworks.md)
    * Microsoft
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
-   * Hewlett Packard
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
