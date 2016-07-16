@@ -52,7 +52,6 @@ stack@jessie:~/devstack$ cp samples/local.conf .
 stack@jessie:~/devstack$ nano local.conf 
 ```
 
-
 ```sh
 xe1gyq@jessie:~/openstack/devstack$ ./clean.sh
 xe1gyq@jessie:~/openstack/devstack$ ls
