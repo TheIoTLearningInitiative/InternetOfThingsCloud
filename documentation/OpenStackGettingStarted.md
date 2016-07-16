@@ -3,6 +3,13 @@
 # DevStack - an OpenStack Community Production, Quick Start
 
 ```sh
+xe1gyq@jessie:~$ sudo apt-get remove python3
+xe1gyq@jessie:~$ sudo apt-get remove python
+xe1gyq@jessie:~$ sudo apt-get autoremove
+xe1gyq@jessie:~$ sudo apt-get install python3.4 python3.4-dev
+```
+
+```sh
 root@jessie:~# apt-get install sudo
 ...
 Setting up sudo (1.8.10p3-1+deb8u3) ...
@@ -11,10 +18,11 @@ root@jessie:~# visudo
 stack ALL=(ALL) NOPASSWD: ALL
 ...
 root@jessie:~# su stack
-xe1gyq@jessie:~$ sudo apt-get remove python3
-xe1gyq@jessie:~$ sudo apt-get remove python
-xe1gyq@jessie:~$ sudo apt-get autoremove
-xe1gyq@jessie:~$ sudo apt-get install python3.4 python3.4-dev
+stack@jessie:/root$ cd
+stack@jessie:~$ 
+```
+
+```sh
 xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
