@@ -1,7 +1,7 @@
 
  # OpenStack
 
-> Open source software for creating private and public clouds.
+> Open source software for creating private and public clouds
 
 > OpenStack is a free and open-source software platform for cloud computing, mostly deployed as an infrastructure-as-a-service (IaaS). The software platform consists of interrelated components that control hardware pools of processing, storage, and networking resources throughout a data center. Users either manage it through a web-based dashboard, through command-line tools, or through a RESTful API. [Wikipedia](https://en.wikipedia.org/wiki/OpenStack)
 
