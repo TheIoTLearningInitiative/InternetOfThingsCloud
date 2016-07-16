@@ -14,4 +14,6 @@
 
 # Queuing Systems
 
+> Like a radio station!
+
 - [Message Queue](https://en.wikipedia.org/wiki/Message_queue)
