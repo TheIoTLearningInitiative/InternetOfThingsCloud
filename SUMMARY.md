@@ -27,7 +27,7 @@
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
 * [Services](documentation/Services.md)
-* [Open Compute Project](documentation/OpenComputeProject.md)
 * Projects
+   * [Open Compute Project](documentation/OpenComputeProject.md)
    * Tbd
 
