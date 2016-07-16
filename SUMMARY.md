@@ -5,6 +5,7 @@
 * About This Training
    * Objectives
    * Skills
+   * Prerequisites
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
        * [Hardware](documentation/ConceptsHardware.md)
