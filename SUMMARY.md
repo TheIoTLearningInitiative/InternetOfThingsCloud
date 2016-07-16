@@ -21,7 +21,6 @@
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
-   * [IBM](CompaniesIbm.md)
    * [Intel](documentation/Intel.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
