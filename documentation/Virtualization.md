@@ -7,7 +7,7 @@
 
 # Client Virtualization Software
 
->  [Wikipedia](https://en.wikipedia.org/wiki/Virtual_machine)
+> In computing, a virtual machine (VM) is an emulation of a particular computer system. Virtual machines operate based on the computer architecture and functions of a real or hypothetical computer, and their implementations may involve specialized hardware, software, or a combination of both. [Wikipedia](https://en.wikipedia.org/wiki/Virtual_machine)
 
 # Hypervisors
 
