@@ -21,9 +21,9 @@
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
+   * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
    * [OVH](documentation/Ovh.md)
-   * [IBM](documentation/Ibm.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
