@@ -5,7 +5,7 @@
    * [Concepts](documentation/Concepts.md)
    * [Virtualization](documentation/Virtualization.md)
    * [IaaS](documentation/IaaS.md)
-   * [PaaS](documentation/Paas.md)
+   * [PaaS](documentation/PaaS.md)
    * SaaS
 * Companies
    * [Artik](documentation/Artik.md)
