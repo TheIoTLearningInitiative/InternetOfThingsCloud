@@ -17,10 +17,11 @@
 > Like a radio station!
 
 - [Message Queue](https://en.wikipedia.org/wiki/Message_queue)
+- [](https://sbdevel.wordpress.com/2009/12/17/the-case-rpc-vs-messaging/)
 
 # Stubs
 
 > A stub is a small program routine that substitutes for a longer program, possibly to be loaded later or that is located remotely. For example, a program that uses Remote Procedure Calls ( RPC ) is compiled with stubs that substitute for the program that provides a requested procedure. [Whatis](http://whatis.techtarget.com/definition/stub)
 
  
->  [Wikipedia](https://en.wikipedia.org/wiki/Method_stub)
+>   [Wikipedia](https://en.wikipedia.org/wiki/Method_stub)
