@@ -20,6 +20,8 @@ Today IaaS/Cloud:
 Vendors:
 
 - Amazon
+  - Amazon Machine Image
+  - 
 
 Types Of Sevices, 4 Categories:
 
