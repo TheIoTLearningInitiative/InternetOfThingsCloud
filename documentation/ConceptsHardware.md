@@ -1,6 +1,6 @@
 # Hardware
 
-[](http://www.infoworld.com/article/2834636/hadoop/building-a-hadoop-cluster-start-with-these-five-vendors.html)
+[Building a Hadoop cluster? Start with these five vendors](http://www.infoworld.com/article/2834636/hadoop/building-a-hadoop-cluster-start-with-these-five-vendors.html)
 
 # IBM Cluster System
 
