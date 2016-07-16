@@ -22,4 +22,4 @@ Types Of Sevices, 4 Categories:
 - Private Cloud
 - Dedicated Hosting
 - Hybrid Hosting
-- 
+- Cloud Hosting
