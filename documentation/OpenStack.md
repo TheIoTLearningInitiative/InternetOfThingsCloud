@@ -10,12 +10,12 @@
 
 ## Components
 
-- Compute (Nova)
+- __Compute__ (Nova)
 - Networking (Neutron)
 - Block Storage (Cinder)
 - Identity (Keystone)
-- Image (Glance)
-- Object Storage (Swift)
+- __Image__ (Glance)
+- __Object Storage__ (Swift)
 - Dashboard (Horizon)
 - Orchestration (Heat)
 - Workflow (Mistral)
