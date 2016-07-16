@@ -29,9 +29,9 @@
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
    * [KIO Networks](documentation/KioNetworks.md)
+   * Microsoft
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
-   * Microsoft
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
