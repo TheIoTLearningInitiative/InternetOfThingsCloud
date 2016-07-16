@@ -7,7 +7,7 @@
 
 # Client Virtualization Software
 
-
+- [](https://en.wikipedia.org/wiki/Virtual_machine)
 
 # Hypervisors
 
