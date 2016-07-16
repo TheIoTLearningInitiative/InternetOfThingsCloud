@@ -2,6 +2,8 @@
 
 > Allow user to create their own cloud applications using suppliers-specific tools and languages
 
+- https://www.youtube.com/watch?v=lcIEBTBmtcI
+
 - Platform, Runtime Enviroment to create an deploy applications, org is only responsaible for development, maintenance and management of the application
 
 - Microsoft Azure Platform
