@@ -2,6 +2,8 @@
 
 > Allow users to run any applications they please on cloud hardware of their own choice
 
+- https://www.youtube.com/watch?v=GCGLYMeh75Y
+
 Today IaaS/Cloud:
 
 - vApps
