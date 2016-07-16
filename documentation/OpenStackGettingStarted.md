@@ -54,11 +54,6 @@ stack@jessie:~/devstack$ nano local.conf
 
 ```sh
 xe1gyq@jessie:~/openstack/devstack$ ./clean.sh
-xe1gyq@jessie:~/openstack/devstack$ ls
-clean.sh      exerciserc   files             gate         LICENSE          pkg           setup.cfg  tests
-data          exercises    functions         HACKING.rst  MAINTAINERS.rst  README.md     setup.py   tools
-doc           exercise.sh  functions-common  inc          Makefile         run_tests.sh  stackrc    tox.ini
-driver_certs  extras.d     FUTURE.rst        lib          openrc           samples       stack.sh   unstack.sh
 xe1gyq@jessie:~/openstack/devstack$ ./stack.sh
 ...
 ENTER A PASSWORD TO USE FOR THE DATABASE.
