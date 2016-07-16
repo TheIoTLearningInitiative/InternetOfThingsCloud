@@ -43,7 +43,11 @@
 
 > The nova scheduler has a bunch of filters [OpenStack Scheduler Filters](https://wiki.openstack.org/wiki/Scheduler_Filters)
 
-## History
+## Flow
+
+
+
+# History
 
 > OpenStack was created during the first months of 2010. Rackspace wanted to rewrite the infrastructure code running its Cloud servers offering, and considered open sourcing the existing Cloud files code. At the same time, Anso Labs (contracting for NASA) had published beta code for Nova, a Python-based “cloud computing fabric controller”. Both efforts converged and formed the base for OpenStack [Openstack Introduction: A Bit of OpenStack History](http://docs.openstack.org/project-team-guide/introduction.html)
 
