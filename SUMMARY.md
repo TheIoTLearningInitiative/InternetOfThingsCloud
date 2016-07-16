@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* Summary
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
        * [Hardware](documentation/ConceptsHardware.md)
@@ -40,5 +41,4 @@
    * Eucalyptus
    * Temp
    * SoftLayer
-* Summary
 
