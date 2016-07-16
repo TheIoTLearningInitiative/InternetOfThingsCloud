@@ -12,6 +12,10 @@
 
 > High-availability clusters (also known as HA clusters or fail-over clusters) are groups of computers that support server applications that can be reliably utilized with a minimum of down-time. They operate by using high availability software to harness redundant computers in groups or clusters that provide continued service when system components fail. [Wikipedia](https://en.wikipedia.org/wiki/High-availability_cluster)
 
+# Elastic Computing
+
+> Elastic computing is a concept in cloud computing in which computing resources can be scaled up and down easily by the cloud service provider. Elastic computing is the ability of a cloud service provider to provision flexible computing power when and wherever required.
+
 # Virtual LAN
 
 > A virtual LAN (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2). LAN is an abbreviation of local area network. To subdivide a network into virtual LANs, one configures a network switch or router. [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN)
