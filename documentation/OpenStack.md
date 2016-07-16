@@ -12,7 +12,7 @@
 
 ## Mission
 
-> What is OpenStack? Well, our mission statement says this: To produce the ubiquitous OpenSource Cloud Computing platform that will meet the needs of public and private clouds regardless of size, by being simple to implement and massively scalable. [](http://www.openstack.org/blog/2010/07/introducing-openstack/)
+> What is OpenStack? Well, our mission statement says this: To produce the ubiquitous OpenSource Cloud Computing platform that will meet the needs of public and private clouds regardless of size, by being simple to implement and massively scalable. [Introducing OpenStack](http://www.openstack.org/blog/2010/07/introducing-openstack/)
 
 ## Components
 
