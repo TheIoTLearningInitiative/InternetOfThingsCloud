@@ -19,7 +19,6 @@
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
-   * Tbd
 * [Artik](documentation/Artik.md)
 * [Cluster](documentation/Cluster.md)
 * [Sandbox](documentation/Sandbox.md)
