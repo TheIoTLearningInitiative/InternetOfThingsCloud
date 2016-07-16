@@ -14,4 +14,4 @@
 
 # Queuing Systems
 
-- [](https://en.wikipedia.org/wiki/Message_queue)
+- [Message queue](https://en.wikipedia.org/wiki/Message_queue)
