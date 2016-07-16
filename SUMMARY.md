@@ -5,6 +5,7 @@
    * [Concepts](documentation/Concepts.md)
        * Hardware
        * Software
+       * Infrastructure
    * [Virtualization](documentation/Virtualization.md)
    * [IaaS](documentation/IaaS.md)
    * [PaaS](documentation/PaaS.md)
