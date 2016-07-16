@@ -14,7 +14,7 @@
        * [Virtualization](documentation/Virtualization.md)
    * [Deployment Models](documentation/DeploymentModels.md)
        * [Public Cloud](documentation/PublicCloud.md)
-       * Private Cloud
+       * [Private Cloud](documentation/PrivateCloud.md)
    * [Service Models](documentation/ServiceModels.md)
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
