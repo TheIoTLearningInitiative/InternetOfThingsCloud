@@ -7,8 +7,9 @@
 
 > Open Source, Open Design, Open Development, Open Community
 
-- [Openstack Homepage](http://www.openstack.org/)
+- [OpenStack Homepage](http://www.openstack.org/)
 - [OpenStack Documentation](http://docs.openstack.org/)
+- [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [Rackspace invented Openstack - Now We’re perfecting it](https://www.rackspace.com/cloud/openstack)
 - [Public vs Private, Amazon compared to OpenStack](http://redhatstackblog.redhat.com/2015/05/13/public-vs-private-amazon-compared-to-openstack/)
 
