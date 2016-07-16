@@ -16,6 +16,7 @@
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
+   * [Apache Mesos](documentation/ApacheMesos.md)
    * [OpenStack](documentation/OpenStack.md)
        * Concepts
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
@@ -27,7 +28,6 @@
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
-   * [Apache Mesos](documentation/ApacheMesos.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
