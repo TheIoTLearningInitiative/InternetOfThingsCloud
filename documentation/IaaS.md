@@ -17,6 +17,10 @@ Today IaaS/Cloud:
   - Applications
 - Cons! Additional Staff
 
+Vendors:
+
+- Amazon
+
 Types Of Sevices, 4 Categories:
 
 - Private Cloud
