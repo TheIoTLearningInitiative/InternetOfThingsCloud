@@ -16,3 +16,10 @@ Today IaaS/Cloud:
   - Hosting
   - Applications
 - Cons! Additional Staff
+
+Types Of Sevices, 4 Categories:
+
+- Private Cloud
+- Dedicated Hosting
+- Hybrid Hosting
+- 
