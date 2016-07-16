@@ -25,3 +25,4 @@
 - Workflow (Mistral)
 - Telemetry (Ceilometer)
 - Database (Trove)
+- Elastic Map Reduce (Sahara)
