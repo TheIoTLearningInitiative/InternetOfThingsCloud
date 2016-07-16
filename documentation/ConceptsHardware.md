@@ -9,4 +9,4 @@
 - IBM Intelligent Cluster
   - An integrated, factory-built and -tested cluster solution with comprehensive warranty service for all cluster components including third-party options.
 - IBM Power Systems high performance computing
-  - IBM POWER6 and IBM POWER7 symmetric multiprocessing (SMP) servers and Blue Gene, running AIX or Linux. Power Systems HPC servers are highly scalable cluster solutions for large-scale computational simulation and modeling
+  - IBM POWER6 and IBM POWER7 symmetric multiprocessing (SMP) servers and Blue Gene, running AIX or Linux. Power Systems HPC servers are highly scalable cluster solutions for large-scale computational simulation and modeling.
