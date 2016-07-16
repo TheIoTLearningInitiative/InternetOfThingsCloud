@@ -47,8 +47,13 @@ extras.d     inc	       README.md	tests
 stack@jessie:~/devstack$ 
 ```
 
+```sh
+stack@jessie:~/devstack$ cp samples/local.conf .
+stack@jessie:~/devstack$ nano local.conf 
+```
 
 
+```sh
 xe1gyq@jessie:~/openstack/devstack$ ./clean.sh
 xe1gyq@jessie:~/openstack/devstack$ ls
 clean.sh      exerciserc   files             gate         LICENSE          pkg           setup.cfg  tests
