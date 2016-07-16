@@ -6,9 +6,9 @@
 
 > Cloud computing is a kind of Internet-based computing that provides shared processing resources and data to computers and other devices on demand. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications and services), which can be rapidly provisioned and released with minimal management effort. [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
 
-# Public vs. Private Cloud
+# Public Vs Private Vs Hybrid Cloud
 
-
+- [](http://www.intel.com/content/www/us/en/cloud-computing/cloud-101-video.html)
 
 ## Public Cloud
 
