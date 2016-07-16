@@ -23,9 +23,8 @@ stack@jessie:~$
 ```
 
 ```sh
-xe1gyq@jessie:~$ mkdir openstack
 xe1gyq@jessie:~$ cd openstack/
-xe1gyq@jessie:~/openstack$ git clone git://github.com/openstack-dev/devstack.git
+xe1gyq@jessie:~$ git clone git://github.com/openstack-dev/devstack.git
 Cloning into 'devstack'...
 remote: Counting objects: 33001, done.
 remote: Total 33001 (delta 0), reused 0 (delta 0), pack-reused 33000
