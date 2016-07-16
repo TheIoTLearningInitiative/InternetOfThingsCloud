@@ -7,7 +7,7 @@ Getting Started
 
 [OpenStack Marketplace](https://www.openstack.org/marketplace/)
 
-### DevStack - an OpenStack Community Production, Quick Start
+## DevStack - an OpenStack Community Production, Quick Start
 
 ```sh
 root@jessie:~# apt-get install sudo
