@@ -14,7 +14,7 @@
 
 # Elastic Computing
 
-> In cloud computing, elasticity is defined as "the degree to which a system is able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible" [Wikipedia](https://en.wikipedia.org/wiki/Elasticity_(cloud_computing))
+> In cloud computing, elasticity is defined as "the degree to which a system is able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible" [Wikipedia](https://en.wikipedia.org/wiki/Elasticity_(cloud_computing)
 
 # Virtual LAN
 
