@@ -45,5 +45,4 @@
 
 # Hosted Solutions
 
-- Gmail
-- 
+- Google Documents
