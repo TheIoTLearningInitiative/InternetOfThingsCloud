@@ -26,7 +26,7 @@
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
-   * Hewlett Packard
+   * Hewlett-Packard
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
    * [KIO Networks](documentation/KioNetworks.md)
