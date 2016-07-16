@@ -1,11 +1,5 @@
 # Getting Started
 
-- 
-
-# Public Clouds on the Marketplace
-
-[OpenStack Marketplace](https://www.openstack.org/marketplace/)
-
 ## DevStack - an OpenStack Community Production, Quick Start
 
 ```sh
