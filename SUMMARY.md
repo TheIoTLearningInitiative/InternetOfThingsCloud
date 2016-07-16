@@ -11,11 +11,11 @@
    * [Digital Ocean](documentation/DigitalOcean.md)
    * [DreamHost](documentation/DreamHost.md)
    * [Intel](documentation/Intel.md)
-   * [Brokers](documentation/Brokers.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [OpenStack](documentation/OpenStack.md)
+       * [Brokers](documentation/Brokers.md)
        * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
