@@ -1,5 +1,9 @@
 # Infrastructure
 
+# Redundant Power Supply
+
+> Redundant power is a critical component in high availability systems. In the simplest solution, two power supplies can drive a load through diodes to OR their outputs together. In this way, the power supplies can either share the load or have one active and the other in standby. []()
+
 # Compute Cluster
 
 > A computer cluster consists of a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software [Wikipedia](https://en.wikipedia.org/wiki/Computer_cluster)
