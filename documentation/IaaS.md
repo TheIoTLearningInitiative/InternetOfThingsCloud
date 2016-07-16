@@ -13,4 +13,4 @@ Today IaaS/Cloud:
 - Control over the entire IT infrastructure
   - Hosting
   - Applications
-
+- Cons! Additional Staff
