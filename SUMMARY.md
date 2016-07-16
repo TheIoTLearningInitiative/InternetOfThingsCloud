@@ -39,7 +39,6 @@
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
-* [Services](documentation/Services.md)
 * Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
