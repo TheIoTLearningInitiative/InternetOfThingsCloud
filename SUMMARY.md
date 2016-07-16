@@ -31,6 +31,7 @@
    * [KIO Networks](documentation/KioNetworks.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
+   * Microsoft
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
