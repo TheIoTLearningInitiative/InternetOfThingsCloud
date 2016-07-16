@@ -32,5 +32,7 @@
 
 # Fault Tolerant
 
-# Edge Location
+# Edge Location, Edge Services
+
+
 
