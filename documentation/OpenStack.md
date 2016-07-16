@@ -9,6 +9,7 @@
 
 - [Openstack Homepage](http://www.openstack.org/)
 - [OpenStack Documentation](http://docs.openstack.org/)
+- [Rackspace invented Openstack – Now We’re perfecting it](https://www.rackspace.com/cloud/openstack)
 
 ## Mission
 
