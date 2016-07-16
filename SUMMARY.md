@@ -22,7 +22,6 @@
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
-   * [Cluster](documentation/Cluster.md)
    * [Dockers](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
