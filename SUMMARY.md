@@ -33,7 +33,7 @@
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-   * Embedded
+   * [Embedded](documentation/Embedded.md)
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
