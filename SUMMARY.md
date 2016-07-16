@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
+* About This Training
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
        * [Hardware](documentation/ConceptsHardware.md)
@@ -41,5 +42,4 @@
    * Eucalyptus
    * Temp
    * SoftLayer
-* About This Training
 
