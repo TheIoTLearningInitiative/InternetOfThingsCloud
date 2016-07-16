@@ -13,6 +13,7 @@
        * [Infrastructure](documentation/ConceptsInfrastructure.md)
        * [Virtualization](documentation/Virtualization.md)
    * [Deployment Models](documentation/DeploymentModels.md)
+       * Public Cloud
    * [Service Models](documentation/ServiceModels.md)
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
