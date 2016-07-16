@@ -6,6 +6,22 @@
 
 > Cloud computing is a kind of Internet-based computing that provides shared processing resources and data to computers and other devices on demand. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications and services), which can be rapidly provisioned and released with minimal management effort. [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
 
+## Public Cloud
+
+- Amazon Web Services
+- Microsoft Azure
+- Google Cloud Platform
+- Heroku
+- IBM Bluemix
+- Oracle Cloud
+- Rackspace Cloud
+
+## Private Cloud
+
+- VMWare, vCoud, vSphere
+- OpenStack
+- CloudStack
+- Azure Pack/Stack
 - http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#402155b859d7
 - https://www.ibm.com/cloud-computing/what-is-cloud-computing
 - https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/
@@ -26,23 +42,7 @@ What is this?
 - Network Node: 1 processor, 512 MB memory, and 5 GB storage
 - Compute Node: 1 processor, 2 GB memory, and 10 GB storage
 
-## Public Cloud
 
-- Amazon Web Services
-- Microsoft Azure
-- Google Cloud Platform
-- Heroku
-- IBM Bluemix
-- Oracle Cloud
-- Rackspace Cloud
-- 
-
-## Private Cloud
-
-- VMWare, vCoud, vSphere
-- OpenStack
-- CloudStack
-- Azure Pack/Stack
 - 
 
 ## Hewlett Packard Helion Platform
