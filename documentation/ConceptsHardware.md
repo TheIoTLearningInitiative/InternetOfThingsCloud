@@ -1,5 +1,7 @@
 # Hardware
 
+[](http://www.infoworld.com/article/2834636/hadoop/building-a-hadoop-cluster-start-with-these-five-vendors.html)
+
 # IBM Cluster System
 
 > Drive performance while reducing energy and space with integrated cluster solutions
