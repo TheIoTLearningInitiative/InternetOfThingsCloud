@@ -1,5 +1,4 @@
-IBM
-==
+# IBM
 
 ## Cloud Foundry Hands-On
 
