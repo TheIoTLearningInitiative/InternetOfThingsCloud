@@ -27,6 +27,7 @@
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
+   * [Apache Mesos](documentation/ApacheMesos.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
@@ -35,5 +36,4 @@
    * Eucalyptus
    * Temp
    * SoftLayer
-   * [Apache Mesos](documentation/ApacheMesos.md)
 
