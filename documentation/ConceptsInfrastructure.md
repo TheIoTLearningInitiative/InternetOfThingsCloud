@@ -32,6 +32,6 @@
 
 # Fault Tolerant
 
-# Edge Location, Edge Services
+# Edge Location, Edge Server
 
 - [AWS Regions and Availability Zones](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
