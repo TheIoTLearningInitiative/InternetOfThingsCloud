@@ -6,9 +6,9 @@
    * [IaaS](documentation/IaaS.md)
 * Companies
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
+   * [DreamHost](documentation/DreamHost.md)
    * [Rackspace](documentation/Rackspace.md)
    * [OVH](documentation/Ovh.md)
-   * [DreamHost](documentation/DreamHost.md)
 * [Digital Ocean](documentation/DigitalOcean.md)
 * [Intel](documentation/Intel.md)
 * [OpenStack](documentation/OpenStack.md)
