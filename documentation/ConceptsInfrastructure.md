@@ -14,7 +14,7 @@
 
 # Elastic Computing
 
-> Elastic computing is a concept in cloud computing in which computing resources can be scaled up and down easily by the cloud service provider. Elastic computing is the ability of a cloud service provider to provision flexible computing power when and wherever required.
+> [](https://en.wikipedia.org/wiki/Elasticity_(cloud_computing))
 
 # Virtual LAN
 
