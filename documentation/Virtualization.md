@@ -11,6 +11,9 @@ Way To Virtualize:
 
 > In computing, a virtual machine (VM) is an emulation of a particular computer system. Virtual machines operate based on the computer architecture and functions of a real or hypothetical computer, and their implementations may involve specialized hardware, software, or a combination of both. [Wikipedia](https://en.wikipedia.org/wiki/Virtual_machine)
 
+- VirtualBox
+- 
+
 ## Hypervisors
 
 > A hypervisor or virtual machine monitor (VMM) is a piece of computer software, firmware or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a host machine; and each virtual machine is called a guest machine. [Wikipedia](https://en.wikipedia.org/wiki/Hypervisor)
