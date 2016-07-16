@@ -15,12 +15,12 @@
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [OpenStack](documentation/OpenStack.md)
+       * Concepts
        * [Brokers](documentation/Brokers.md)
        * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-       * Concepts
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
