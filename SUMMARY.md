@@ -20,6 +20,7 @@
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
+   * [Dockers](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
        * Concepts
@@ -31,7 +32,6 @@
        * [Projects](documentation/OpenStackProjects.md)
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
-   * [Dockers](documentation/Docker.md)
    * CloudStack
    * Eucalyptus
    * Temp
