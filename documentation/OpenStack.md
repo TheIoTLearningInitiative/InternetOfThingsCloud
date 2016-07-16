@@ -20,3 +20,5 @@
 - Identity (Keystone)
 - Image (Glance)
 - Object Storage (Swift)
+- Dashboard (Horizon)
+- Orchestration (Heat)
