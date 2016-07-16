@@ -2,10 +2,14 @@
 
 > In computing, virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, operating systems, storage devices, and computer network resources. [Wikipedia](https://en.wikipedia.org/wiki/Virtualization)
 
+> Platform Virtualization Software. Platform virtualization software, specifically emulators and hypervisors, are software packages that emulate the whole physical computer machine, often providing multiple virtual machines on one physical platform.
+
 Way To Virtualize:
 
 - Client Virtualization Software
 - Hypervisor
+
+
 
 ## Client Virtualization Software
 
