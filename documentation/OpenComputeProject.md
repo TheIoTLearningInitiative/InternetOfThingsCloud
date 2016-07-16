@@ -1,2 +1,3 @@
 # Open Compute Project
 
+> Take control of your technology future. The Open Compute Project (OCP) is reimagining hardware, making it more efficient, flexible, and scalable. Join our global community of technology leaders working together to break open the black box of proprietary IT infrastructure to achieve greater choice, customization, and cost savings. [Open Compute Project Homepage](http://www.opencompute.org/)
