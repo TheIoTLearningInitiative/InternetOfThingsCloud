@@ -11,3 +11,16 @@
 # Virtual LAN
 
 > A virtual LAN (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2). LAN is an abbreviation of local area network. To subdivide a network into virtual LANs, one configures a network switch or router. [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN)
+
+# Load Balancing
+
+> In computing, load balancing distributes workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overload of any single resource. [Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+
+# Real-Time Replication
+
+
+
+# Automatic Failover
+
+
+# Fault Tolerant
