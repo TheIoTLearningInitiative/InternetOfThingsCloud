@@ -27,3 +27,4 @@
 - Database (Trove)
 - Elastic Map Reduce (Sahara)
 - Bare Metal (Ironic)
+- Messaging (Zaqar)
