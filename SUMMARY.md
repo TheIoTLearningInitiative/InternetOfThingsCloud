@@ -19,8 +19,8 @@
 * Projects
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
+   * [Cluster](documentation/Cluster.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
-* [Cluster](documentation/Cluster.md)
 * [Sandbox](documentation/Sandbox.md)
    * [Dockers](documentation/Docker.md)
    * CloudStack
