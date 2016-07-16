@@ -26,6 +26,7 @@ Way To Virtualize:
   - Hyper-V
   - Docker
 - Management Software
+  - VSphere 
 
 ### Kernel Virtual Machine
 
