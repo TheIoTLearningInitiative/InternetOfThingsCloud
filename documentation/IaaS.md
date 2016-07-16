@@ -11,4 +11,5 @@ Today IaaS/Cloud:
 - Computing Power
 - Storage Capacity
 - Control over the entire IT infrastructure
-- 
+  - Hosting
+  - Applications
