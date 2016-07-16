@@ -14,10 +14,10 @@
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [OpenStack](documentation/OpenStack.md)
+       * Application Programming Interface
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-       * Application Programming Interface
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
