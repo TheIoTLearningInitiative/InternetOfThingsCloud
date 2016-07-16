@@ -4,7 +4,7 @@
 
 # Virtualization
 
-> In computing, virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, operating systems, storage devices, and computer network resources. [Wikipedia]()
+> In computing, virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, operating systems, storage devices, and computer network resources. [Wikipedia](https://en.wikipedia.org/wiki/Virtualization)
 
 # Hypervisors
 
