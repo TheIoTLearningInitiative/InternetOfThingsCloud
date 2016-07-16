@@ -29,3 +29,5 @@
 - Bare Metal (Ironic)
 - Messaging (Zaqar)
 - Shared File System (Manila)
+- DNS (Designate)
+- Search (Searchlight)
