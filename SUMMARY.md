@@ -7,7 +7,7 @@
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
-   * [Concepts](documentation/Concepts.md)
+   * [Architecture](documentation/Concepts.md)
        * [Hardware](documentation/ConceptsHardware.md)
        * [Software](documentation/ConceptsSoftware.md)
        * [Infrastructure](documentation/ConceptsInfrastructure.md)
