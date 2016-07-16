@@ -22,6 +22,7 @@ Vendors:
 - Amazon
   - Amazon Machine Image
 - Rackspace
+- GoGrid
 
 Types Of Sevices, 4 Categories:
 
