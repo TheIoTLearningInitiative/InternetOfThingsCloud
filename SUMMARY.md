@@ -40,4 +40,5 @@
    * Eucalyptus
    * Temp
    * SoftLayer
+* Summary
 
