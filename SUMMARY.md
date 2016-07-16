@@ -41,4 +41,5 @@
    * Eucalyptus
    * Temp
    * SoftLayer
+* About This Training
 
