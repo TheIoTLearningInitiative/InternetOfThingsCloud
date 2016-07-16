@@ -5,15 +5,7 @@
 - [Openstack Homepage](http://www.openstack.org/)
 - [OpenStack Documentation](http://docs.openstack.org/)
 
-# OpenStack Innovation Center
-
-> Advancing the world’s leading Open Cloud OS. The OpenStack Innovation Center (OSIC), established by Intel and Rackspace, is designed to accelerate enterprise adoption of the world’s leading open source cloud operating system while supporting open source principles. [Homepage](https://osic.org/)
-
-# News
-
-[OpenStack and Kubernetes join forces for an Internet of Things platform](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
-
-# Components
+## Components
 
 - Compute (Nova)
 - Networking (Neutron)
@@ -33,3 +25,11 @@
 - DNS (Designate)
 - Search (Searchlight)
 - Key Manager (Barbican)
+
+# OpenStack Innovation Center
+
+> Advancing the world’s leading Open Cloud OS. The OpenStack Innovation Center (OSIC), established by Intel and Rackspace, is designed to accelerate enterprise adoption of the world’s leading open source cloud operating system while supporting open source principles. [Homepage](https://osic.org/)
+
+# News
+
+[OpenStack and Kubernetes join forces for an Internet of Things platform](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
