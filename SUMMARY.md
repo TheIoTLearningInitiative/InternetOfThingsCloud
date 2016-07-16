@@ -3,9 +3,9 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
+       * Infrastructure
        * Hardware
        * Software
-       * Infrastructure
    * [Virtualization](documentation/Virtualization.md)
    * [IaaS](documentation/IaaS.md)
    * [PaaS](documentation/PaaS.md)
