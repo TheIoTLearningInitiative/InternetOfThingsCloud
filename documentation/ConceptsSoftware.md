@@ -12,4 +12,4 @@
 
 # Load Balancing
 
-> In computing, load balancing distributes workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overload of any single resource. [Wikipedia]()
+> In computing, load balancing distributes workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overload of any single resource. [Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
