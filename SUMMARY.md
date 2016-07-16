@@ -23,7 +23,7 @@
    * [DreamHost](documentation/DreamHost.md)
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
-   * KIO Networks
+   * [KIO Networks](documentation/KioNetworks.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
