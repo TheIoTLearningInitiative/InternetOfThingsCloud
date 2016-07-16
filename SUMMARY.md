@@ -15,6 +15,9 @@
    * [Projects](documentation/OpenStackProjects.md)
 * [Cloud Foundry](documentation/CloudFoundry.md)
    * [IBM](documentation/Ibm.md)
+* Projects
+   * [Open Compute Project](documentation/OpenComputeProject.md)
+   * Tbd
 * [Intel](documentation/Intel.md)
 * [Digital Ocean](documentation/DigitalOcean.md)
 * [Artik](documentation/Artik.md)
@@ -27,7 +30,4 @@
    * SoftLayer
    * [Apache Mesos](documentation/ApacheMesos.md)
 * [Services](documentation/Services.md)
-* Projects
-   * [Open Compute Project](documentation/OpenComputeProject.md)
-   * Tbd
 
