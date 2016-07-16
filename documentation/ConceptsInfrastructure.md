@@ -46,3 +46,4 @@
 # Hosted Solutions
 
 - Google Documents
+- Microsoft 360
