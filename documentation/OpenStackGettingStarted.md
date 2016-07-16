@@ -24,7 +24,25 @@ remote: Total 33001 (delta 0), reused 0 (delta 0), pack-reused 33000
 Receiving objects: 100% (33001/33001), 12.09 MiB | 495.00 KiB/s, done.
 Resolving deltas: 100% (22813/22813), done.
 Checking connectivity... done.
+xe1gyq@jessie:~/openstack$ 
+```
+
+```sh
 xe1gyq@jessie:~/openstack$ cd devstack
+stack@jessie:~$ cd devstack
+stack@jessie:~/devstack$ ls
+clean.sh     files	       lib		run_tests.sh  tools
+data	     functions	       LICENSE		samples       tox.ini
+doc	     functions-common  MAINTAINERS.rst	setup.cfg     unstack.sh
+exerciserc   FUTURE.rst        Makefile		setup.py
+exercises    gate	       openrc		stackrc
+exercise.sh  HACKING.rst       pkg		stack.sh
+extras.d     inc	       README.md	tests
+stack@jessie:~/devstack$ 
+```
+
+
+
 xe1gyq@jessie:~/openstack/devstack$ ./clean.sh
 xe1gyq@jessie:~/openstack/devstack$ ls
 clean.sh      exerciserc   files             gate         LICENSE          pkg           setup.cfg  tests
