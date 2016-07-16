@@ -24,3 +24,4 @@
 - Orchestration (Heat)
 - Workflow (Mistral)
 - Telemetry (Ceilometer)
+- Database (Trove)
