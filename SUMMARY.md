@@ -16,7 +16,7 @@
    * [PaaS](documentation/PaaS.md)
    * [SaaS](documentation/SaaS.md)
 * Companies
-   * Amazon
+   * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
