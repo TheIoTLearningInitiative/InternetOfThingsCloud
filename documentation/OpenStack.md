@@ -37,4 +37,4 @@
 
 # Ideas
 
-Compute Fabric, Hypervisors
+Compute Fabric, Hypervisors, The code that makes Virtualization happen
