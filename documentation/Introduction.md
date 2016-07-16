@@ -7,5 +7,5 @@
 > Cloud computing is a kind of Internet-based computing that provides shared processing resources and data to computers and other devices on demand. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications and services), which can be rapidly provisioned and released with minimal management effort. [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
 
 
-- [](http://www.intel.com/content/www/us/en/cloud-computing/cloud-computing-top-10-frequently-asked-questions.html)
+- [Intel 10 Things to Know about Cloud: Cloud Computing Models](http://www.intel.com/content/www/us/en/cloud-computing/cloud-computing-top-10-frequently-asked-questions.html)
 
