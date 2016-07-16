@@ -39,7 +39,7 @@
 
 ## Scheduler
 
-> [](https://wiki.openstack.org/wiki/Scheduler_Filters)
+>  [OpenStack Scheduler Filters](https://wiki.openstack.org/wiki/Scheduler_Filters)
 
 ## History
 
