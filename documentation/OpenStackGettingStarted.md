@@ -1,5 +1,7 @@
 # Getting Started
 
+- [](https://www.openstack.org/software/start/)
+
 # DevStack - an OpenStack Community Production, Quick Start
 
 ```sh
