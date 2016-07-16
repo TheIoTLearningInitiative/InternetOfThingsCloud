@@ -32,4 +32,4 @@
 
 # Compute Cluster
 
-> A computer cluster consists of a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software [](https://en.wikipedia.org/wiki/Computer_cluster)
+> A computer cluster consists of a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software [Wikipedia](https://en.wikipedia.org/wiki/Computer_cluster)
