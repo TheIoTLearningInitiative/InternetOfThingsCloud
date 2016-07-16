@@ -14,7 +14,7 @@
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [OpenStack](documentation/OpenStack.md)
-       * Application Programming Interface
+       * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
