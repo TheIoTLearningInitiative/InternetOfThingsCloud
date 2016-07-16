@@ -9,6 +9,7 @@
    * [OVH](documentation/Ovh.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [DreamHost](documentation/DreamHost.md)
+* [Digital Ocean](documentation/DigitalOcean.md)
 * [Intel](documentation/Intel.md)
 * [OpenStack](documentation/OpenStack.md)
    * [Getting Started](documentation/OpenStackGettingStarted.md)
@@ -19,7 +20,6 @@
 * Projects
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * Tbd
-* [Digital Ocean](documentation/DigitalOcean.md)
 * [Artik](documentation/Artik.md)
 * [Cluster](documentation/Cluster.md)
 * [Sandbox](documentation/Sandbox.md)
