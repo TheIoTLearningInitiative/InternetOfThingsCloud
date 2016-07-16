@@ -34,5 +34,4 @@
 
 # Edge Location, Edge Services
 
-- [](http://www.linuxnix.com/amazon-aws-regions-vs-availability-zones-vs-edge-locations-vs-data-centers/)
-
+- [](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
