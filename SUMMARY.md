@@ -32,6 +32,7 @@
    * Microsoft
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
+   * Hewlett Packard
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
