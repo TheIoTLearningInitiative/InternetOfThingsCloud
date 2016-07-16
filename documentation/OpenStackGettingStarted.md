@@ -1,6 +1,6 @@
 # Getting Started
 
-- [](https://www.openstack.org/software/start/)
+- [How To Get Started With OpenStack](https://www.openstack.org/software/start/)
 
 # DevStack - an OpenStack Community Production, Quick Start
 
