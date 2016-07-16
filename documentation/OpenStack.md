@@ -14,14 +14,9 @@
 
 # Components
 
-## Glance
-
-> Images
-
-## Nova
-
-> Compute
-
-## Swift
-
-> Storage
+- Compute (Nova)
+- Networking (Neutron)
+- Block Storage (Cinder)
+- Identity (Keystone)
+- Image (Glance)
+- Object Storage (Swift)
