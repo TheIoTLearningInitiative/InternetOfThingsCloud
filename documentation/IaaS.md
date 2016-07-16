@@ -1,6 +1,7 @@
 # IaaS
 
-Today IaaS/Cloud
+Today IaaS/Cloud:
+
 - vApps
 - vCloud
 - vCenter
