@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
        * [Infrastructure](documentation/ConceptsInfrastructure.md)
-       * Hardware
+       * [Hardware](documentation/ConceptsHardware.md)
        * Software
    * [Virtualization](documentation/Virtualization.md)
    * [IaaS](documentation/IaaS.md)
