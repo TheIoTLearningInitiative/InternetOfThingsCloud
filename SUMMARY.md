@@ -12,11 +12,11 @@
        * [Software](documentation/ConceptsSoftware.md)
        * [Infrastructure](documentation/ConceptsInfrastructure.md)
        * [Virtualization](documentation/Virtualization.md)
-   * [IaaS](documentation/IaaS.md)
    * [PaaS](documentation/PaaS.md)
    * [SaaS](documentation/SaaS.md)
    * Deployment Models
    * Service Models
+       * [IaaS](documentation/IaaS.md)
        * Tbd
 * Companies
    * [Amazon](documentation/Amazon.md)
