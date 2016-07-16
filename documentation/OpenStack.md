@@ -44,9 +44,10 @@
 
 ## Flow
 
-- Authentication
-- Flavors
-- Images
+1. Authentication
+2. Flavors
+3. Images
+4. Boot an Image
 
 # History
 
