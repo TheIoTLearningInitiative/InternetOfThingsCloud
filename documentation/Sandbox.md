@@ -1,5 +1,13 @@
 # Sandbox
 
+# Services
+
+- [HookIO](http://hook.io/)
+- https://www.hackster.io/krvarma/interacting-with-particle-device-using-slack-and-nlp-458714?ref=search&ref_id=wit.ai&offset=0
+- https://www.devicehub.net/
+- https://keen.io/
+
+
 # Sand
 - http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#402155b859d7
 - https://www.ibm.com/cloud-computing/what-is-cloud-computing
