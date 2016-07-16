@@ -33,6 +33,7 @@
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
+   * Hadoop
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
