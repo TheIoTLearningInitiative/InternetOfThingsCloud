@@ -21,7 +21,7 @@ Vendors:
 
 - Amazon
   - Amazon Machine Image
-  - 
+- Rackspace
 
 Types Of Sevices, 4 Categories:
 
