@@ -40,10 +40,10 @@
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * [Services](documentation/Services.md)
+* Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
    * Eucalyptus
    * Temp
    * SoftLayer
-* Wrap-Up
 
