@@ -28,3 +28,4 @@
 - Elastic Map Reduce (Sahara)
 - Bare Metal (Ironic)
 - Messaging (Zaqar)
+- Shared File System (Manila)
