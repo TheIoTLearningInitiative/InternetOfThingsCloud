@@ -2,7 +2,7 @@
 
 # Terminal Services
 
-[Terminal Server](https://en.wikipedia.org/wiki/Terminal_server)
+> A terminal server (also referred to as a serial server or console server network access server) enables organizations to connect devices with an RS-232, RS-422 or RS-485 serial interface to a local area network (LAN).  [Terminal Server](https://en.wikipedia.org/wiki/Terminal_server)
 
 # Web Applications
 
