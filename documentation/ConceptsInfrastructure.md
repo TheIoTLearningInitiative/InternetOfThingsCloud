@@ -2,7 +2,7 @@
 
 # Redundant Power Supply
 
-> Redundant power is a critical component in high availability systems. In the simplest solution, two power supplies can drive a load through diodes to OR their outputs together. In this way, the power supplies can either share the load or have one active and the other in standby. []()
+> Redundant power is a critical component in high availability systems. In the simplest solution, two power supplies can drive a load through diodes to OR their outputs together. In this way, the power supplies can either share the load or have one active and the other in standby. [](http://www.eetimes.com/document.asp?doc_id=1273185)
 
 # Compute Cluster
 
