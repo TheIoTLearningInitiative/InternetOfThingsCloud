@@ -1,5 +1,7 @@
 # IaaS
 
+> Allow users to run any applications they please on cloud hardware of their own choice
+
 Today IaaS/Cloud:
 
 - vApps
