@@ -2,7 +2,7 @@
 
 # Web Applications
 
->  [Wikipedia](https://en.wikipedia.org/wiki/Web_application)
+> In computing, a web application or web app is a client–server software application which the client (or user interface) runs in a web browser. [Wikipedia](https://en.wikipedia.org/wiki/Web_application)
 
 # Front & Back End
 
