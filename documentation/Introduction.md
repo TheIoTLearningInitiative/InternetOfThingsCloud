@@ -8,6 +8,8 @@
 
 # Public vs. Private Cloud
 
+
+
 ## Public Cloud
 
 - Amazon Web Services
