@@ -9,4 +9,4 @@
 
 - [Intel 10 Things to Know about Cloud: Cloud Computing Models](http://www.intel.com/content/www/us/en/cloud-computing/cloud-computing-top-10-frequently-asked-questions.html)
 - [Cloud Services Starter Guide: IT Infrastructure Strategy](http://www.intel.com/content/www/us/en/cloud-computing/cloud-services-starter-guide.html)
-
+- [Public Cloud vs. Private Cloud vs. Hybrid Cloud](http://www.intel.com/content/www/us/en/cloud-computing/cloud-101-video.html)
