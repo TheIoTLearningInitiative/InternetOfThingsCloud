@@ -10,7 +10,7 @@ root@jessie:~# visudo
 ...
 stack ALL=(ALL) NOPASSWD: ALL
 ...
-root@jessie:~# visudo
+root@jessie:~# 
 xe1gyq@jessie:~$ sudo apt-get remove python3
 xe1gyq@jessie:~$ sudo apt-get remove python
 xe1gyq@jessie:~$ sudo apt-get autoremove
