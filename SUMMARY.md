@@ -3,8 +3,8 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
-   * [IaaS](documentation/IaaS.md)
    * [Virtualization](documentation/Virtualization.md)
+* [IaaS](documentation/IaaS.md)
 * Companies
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
