@@ -23,7 +23,6 @@ stack@jessie:~$
 ```
 
 ```sh
-xe1gyq@jessie:~$ cd openstack/
 xe1gyq@jessie:~$ git clone git://github.com/openstack-dev/devstack.git
 Cloning into 'devstack'...
 remote: Counting objects: 33001, done.
