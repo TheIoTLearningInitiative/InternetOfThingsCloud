@@ -8,3 +8,5 @@ Today IaaS/Cloud:
 - Network
 - Storage
 
+- Computing Power
+- Storage Capacity
