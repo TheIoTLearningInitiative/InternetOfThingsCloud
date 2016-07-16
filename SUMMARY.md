@@ -4,7 +4,7 @@
 * [Summary](SUMMARY.md)
 * About This Training
    * [Objectives](documentation/Objectives.md)
-   * Skills
+   * [Skills](documentation/Skills.md)
    * Prerequisites
 * [Introduction](documentation/Introduction.md)
    * [Concepts](documentation/Concepts.md)
