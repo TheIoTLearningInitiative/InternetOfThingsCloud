@@ -12,7 +12,7 @@
        * [Software](documentation/ConceptsSoftware.md)
        * [Infrastructure](documentation/ConceptsInfrastructure.md)
        * [Virtualization](documentation/Virtualization.md)
-   * Deployment Models
+   * [Deployment Models](documentation/DeploymentModels.md)
    * Service Models
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
