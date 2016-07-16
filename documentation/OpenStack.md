@@ -39,7 +39,7 @@
 
 ## Scheduler
 
->  [OpenStack Scheduler Filters](https://wiki.openstack.org/wiki/Scheduler_Filters)
+> The nova scheduler has a bunch of filters [OpenStack Scheduler Filters](https://wiki.openstack.org/wiki/Scheduler_Filters)
 
 ## History
 
