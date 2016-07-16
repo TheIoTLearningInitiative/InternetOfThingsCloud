@@ -2,6 +2,9 @@
 
 > In the simplest terms, cloud computing means storing and accessing data and programs over the Internet instead of your computer's hard drive. The cloud is just a metaphor for the Internet. It goes back to the days of flowcharts and presentations that would represent the gigantic server-farm infrastructure of the Internet as nothing but a puffy, white cumulus cloud, accepting connections and doling out information as it floats. [PCMag What Is Cloud Computing?](http://www.pcmag.com/article2/0,2817,2372163,00.asp)
 
+
+>  [](https://en.wikipedia.org/wiki/Cloud_computing)
+
 - http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#402155b859d7
 - https://www.ibm.com/cloud-computing/what-is-cloud-computing
 - https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/
