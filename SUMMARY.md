@@ -20,7 +20,6 @@
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-       * Concepts
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
    * [Cluster](documentation/Cluster.md)
