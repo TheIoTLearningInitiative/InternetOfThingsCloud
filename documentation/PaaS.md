@@ -1,4 +1,4 @@
 # PaaS
 
-- Platform, Runtime Enviroment to create an deploy applications, org is responsaible for develop,ment, maintenand and management of the application
+- Platform, Runtime Enviroment to create an deploy applications, org is only responsaible for development, maintenance and management of the application
 - 
