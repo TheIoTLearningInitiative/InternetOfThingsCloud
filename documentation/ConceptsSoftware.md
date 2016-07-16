@@ -2,7 +2,7 @@
 
 # Terminal Services
 
-[Terminal server](https://en.wikipedia.org/wiki/Terminal_server)
+[Terminal Server](https://en.wikipedia.org/wiki/Terminal_server)
 
 # Web Applications
 
