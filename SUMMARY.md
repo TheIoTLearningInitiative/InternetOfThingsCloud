@@ -17,7 +17,6 @@
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
        * [SaaS](documentation/SaaS.md)
-       * Tbd
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
