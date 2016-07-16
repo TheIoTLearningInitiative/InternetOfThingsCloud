@@ -19,6 +19,7 @@
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [IBM](documentation/Ibm.md)
+   * [Cluster](documentation/Cluster.md)
    * [OpenStack](documentation/OpenStack.md)
        * Concepts
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
@@ -27,7 +28,6 @@
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-   * [Cluster](documentation/Cluster.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
 * [Services](documentation/Services.md)
 * [Sandbox](documentation/Sandbox.md)
