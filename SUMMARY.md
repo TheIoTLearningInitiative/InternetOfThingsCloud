@@ -16,6 +16,7 @@
    * [PaaS](documentation/PaaS.md)
    * [SaaS](documentation/SaaS.md)
 * Companies
+   * Amazon
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
@@ -23,7 +24,6 @@
    * [Intel](documentation/Intel.md)
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
-   * Amazon
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
