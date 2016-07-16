@@ -1,3 +1,3 @@
 # PaaS
 
-- Platform, Runtime Environemtn
+- Platform, Runtime Enviroment
