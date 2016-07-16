@@ -23,9 +23,9 @@
    * [DreamHost](documentation/DreamHost.md)
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
+   * KIO Networks
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
-   * KIO Networks
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
