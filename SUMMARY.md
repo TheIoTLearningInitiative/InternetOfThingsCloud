@@ -16,6 +16,7 @@
    * [PaaS](documentation/PaaS.md)
    * [SaaS](documentation/SaaS.md)
    * Deployment Models
+   * Service Models
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
