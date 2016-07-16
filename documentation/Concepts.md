@@ -17,3 +17,7 @@
 > Like a radio station!
 
 - [Message Queue](https://en.wikipedia.org/wiki/Message_queue)
+
+# Stubs
+
+> A stub is a small program routine that substitutes for a longer program, possibly to be loaded later or that is located remotely. For example, a program that uses Remote Procedure Calls ( RPC ) is compiled with stubs that substitute for the program that provides a requested procedure. []()
