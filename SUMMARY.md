@@ -23,11 +23,11 @@
    * [DreamHost](documentation/DreamHost.md)
    * [Intel](documentation/Intel.md)
    * [OVH](documentation/Ovh.md)
+   * [IBM](documentation/Ibm.md)
    * [Rackspace](documentation/Rackspace.md)
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
-       * [IBM](documentation/Ibm.md)
    * [Dockers](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
