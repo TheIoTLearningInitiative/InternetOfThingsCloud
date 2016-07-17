@@ -28,3 +28,8 @@ Core
 - PSTN Services
 - Collaboration
 - Additional Services
+
+Consumption Models
+
+- Do It Yourself
+- 
