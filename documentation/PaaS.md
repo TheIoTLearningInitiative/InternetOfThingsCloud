@@ -36,3 +36,8 @@ Consumption Models
 - API + Wrappers
 - End To end Solution
 - Licensing and White Label
+  - Application
+  - API
+  - Platform
+  - Infrastructure
+ 
