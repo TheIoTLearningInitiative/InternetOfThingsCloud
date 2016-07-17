@@ -12,4 +12,4 @@
 
 # Kandy
 
-https://www.genband.com/solutions/communications-service-providers/embedded-communications/kandy-platform-service-paas
+- [](https://www.genband.com/solutions/communications-service-providers/embedded-communications/kandy-platform-service-paas)
