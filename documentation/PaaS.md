@@ -8,6 +8,11 @@
 - Google App Engine
 - Force.com
 - IBM
+- Amazon Web Services
+- Google Cloud Platform
+- IBM Cloud
+- Joyent Cloud
+- Microsoft Azure
 
 # Kandy
 
