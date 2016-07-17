@@ -19,6 +19,7 @@
    * [Service Models](documentation/ServiceModels.md)
        * [IaaS](documentation/IaaS.md)
        * [PaaS](documentation/PaaS.md)
+           * Kandy
        * [SaaS](documentation/SaaS.md)
 * Companies
    * [Amazon](documentation/Amazon.md)
