@@ -9,3 +9,7 @@
 - Microsoft Azure Platform
 - Google App Engine
 - Force.com
+
+# Kandy
+
+https://www.genband.com/solutions/communications-service-providers/embedded-communications/kandy-platform-service-paas
