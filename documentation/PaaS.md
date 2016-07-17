@@ -21,3 +21,10 @@
 - [TeleMedCo Selects GENBAND’s Kandy Platform for Real Time Telehealth Collaboration Capabilities](http://www.prweb.com/releases/2016/05/prweb13383381.htm)
 - [Youtube Kandy Solution Enablement Training](https://www.youtube.com/watch?v=XldaK6AN0nk&list=PLC8FWy5GuodltloKMmHdUyCf6zwt9oDLs)
 
+Core
+
+- P2P Calls
+- P2P Messaging
+- PSTN Services
+- Collaboration
+- Additional Services
