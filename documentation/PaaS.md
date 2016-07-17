@@ -32,4 +32,7 @@ Core
 Consumption Models
 
 - Do It Yourself
+- API
+- API + Wrappers
+- End To end Solution
 - 
