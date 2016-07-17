@@ -11,3 +11,4 @@
 # Kandy
 
 - [Kandy Platform as a Service (PaaS)](https://www.genband.com/solutions/communications-service-providers/embedded-communications/kandy-platform-service-paas)
+- [TeleMedCo Selects GENBAND’s Kandy Platform for Real Time Telehealth Collaboration Capabilities](http://www.prweb.com/releases/2016/05/prweb13383381.htm)
