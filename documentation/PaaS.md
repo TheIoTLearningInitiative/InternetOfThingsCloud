@@ -35,4 +35,4 @@ Consumption Models
 - API
 - API + Wrappers
 - End To end Solution
-- 
+- Licensing and White Label
