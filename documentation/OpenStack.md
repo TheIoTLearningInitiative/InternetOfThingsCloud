@@ -10,7 +10,7 @@
 - [OpenStack Documentation](http://docs.openstack.org/)
 - [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [OpenStack Specifications](http://specs.openstack.org/)
-- [OpenStack github](https://github.com/openstack)
+- [OpenStack Github](https://github.com/openstack)
 - [Intel 01 Org OpenStack](https://01.org/openstack)
 
 ## Mission
