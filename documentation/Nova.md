@@ -265,7 +265,7 @@ We removed/dettached n-cpu so we needed to restart OpenStack in the node
 CTRL-A D
 ```
 
-# OpenStack Services Enable
+## OpenStack Services Enable
 
 ```sh
 stack@osic-devstack-36:~$ ls
