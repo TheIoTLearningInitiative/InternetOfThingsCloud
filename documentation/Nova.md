@@ -258,7 +258,9 @@ stack@osic-devstack-36:~$
   18 c-sch                                                                  $(L)
 ```
 
+```sh
 CTRL-A D
+```
 
 # OpenStack Services Enable
 
