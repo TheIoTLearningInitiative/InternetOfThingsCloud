@@ -310,4 +310,22 @@ stack@osic-devstack-36:~/devstack$
 stack@osic-devstack-36:~/devstack$ cd /etc/nova/
 stack@osic-devstack-36:/etc/nova$ nano nova.conf
 stack@osic-devstack-36:/etc/nova$
+stack@osic-devstack-36:/etc/nova$ screen -ls
+There is a screen on:
+        12067.stack     (07/19/2016 04:57:39 PM)        (Detached)
+1 Socket in /var/run/screen/S-stack.
+
+stack@osic-devstack-36:/etc/nova$
+
+stack@osic-devstack-36:~/devstack$ sudo tail -f /var/log/apache2/horizon_error.log & echo $! >/opt/stack/status/stack/horizon.pid; fg || echo "horizon failed to start" | tee "/opt/stack/status/stack/horizon.failure"
+[1] 8301
+sudo tail -f /var/log/apache2/horizon_error.log
+```
+
+```
+CTRL-A "
+```
+
+```
+
 ```
