@@ -166,3 +166,11 @@ api-paste.ini  nova-dhcpbridge.conf  rootwrap.conf
 nova.conf      policy.json           rootwrap.d
 stack@osic-devstack-36:/etc/nova$
 ```
+
+```
+[DEFAULT]
+vif_plugging_timeout = 300
+...
+transport_url = rabbit://stackrabbit:secure@192.168.50.62:5672/
+...
+```
