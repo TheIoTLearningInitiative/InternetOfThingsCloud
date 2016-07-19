@@ -277,5 +277,31 @@ stack@osic-devstack-36:~/devstack$ ./stack.sh
 ...
 After 5 minutes
 ...
+
+=========================
+DevStack Component Timing
+=========================
+Total runtime         527
+
+run_process            58
+test_with_retry         2
+apt-get-update          8
+pip_install            85
+restart_apache_server  10
+wait_for_service        9
+apt-get                 7
+=========================
+
+
+
+This is your host IP address: 192.168.50.62
+This is your host IPv6 address: ::1
+Horizon is now available at http://192.168.50.62/dashboard
+Keystone is serving at http://192.168.50.62/identity/
+The default users are: admin and demo
+The password: secure
+2016-07-19 17:04:26.872 | WARNING:
+2016-07-19 17:04:26.872 | Using lib/neutron-legacy is deprecated, and it will be removed in the future
+2016-07-19 17:04:26.872 | stack.sh completed in 527 seconds.
 stack@osic-devstack-36:~/devstack$ 
 ```
