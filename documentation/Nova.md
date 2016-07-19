@@ -260,7 +260,7 @@ stack@osic-devstack-36:~$
 
 CTRL-A D
 
-# eNABLE
+# OpenStack Services Enable
 
 ```sh
 stack@osic-devstack-36:~$ ls
