@@ -468,3 +468,4 @@ WARNING: Command image-list is deprecated and will be removed after Nova 15.0.0 
 +--------------------------------------+---------------------------------+--------+--------+
 stack@osic-devstack-27:~/devstack$ 
 ```
+
