@@ -167,6 +167,10 @@ nova.conf      policy.json           rootwrap.d
 stack@osic-devstack-36:/etc/nova$
 ```
 
+```sh
+stack@osic-devstack-36:/etc/nova$ nano nova.conf
+```
+
 ```
 [DEFAULT]
 vif_plugging_timeout = 300
