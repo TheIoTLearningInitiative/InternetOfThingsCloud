@@ -274,5 +274,8 @@ stack@osic-devstack-36:~$ cd devstack/
 stack@osic-devstack-36:~/devstack$ ./unstack.sh
 ...
 stack@osic-devstack-36:~/devstack$ ./stack.sh
-
+...
+After 5 minutes
+...
+stack@osic-devstack-36:~/devstack$ 
 ```
