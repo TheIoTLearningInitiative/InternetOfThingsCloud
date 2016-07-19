@@ -100,7 +100,6 @@ virbr0    Link encap:Ethernet  HWaddr c6:5a:f3:b5:be:2c
 stack@osic-devstack-27:~$ 
 ```
 
-
 # Compute
 
 ```sh
