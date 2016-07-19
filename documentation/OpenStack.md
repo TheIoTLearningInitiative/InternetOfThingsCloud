@@ -12,12 +12,6 @@
 - [OpenStack Specifications](http://specs.openstack.org/)
 - [Intel 01 Org OpenStack](https://01.org/openstack)
 
-# News
-
-- [Rackspace invented Openstack - Now We’re perfecting it](https://www.rackspace.com/cloud/openstack)
-- [Public vs Private, Amazon compared to OpenStack](http://redhatstackblog.redhat.com/2015/05/13/public-vs-private-amazon-compared-to-openstack/)
-- [How we scaled OpenStack to launch 168,000 Cloud instances](https://javacruft.wordpress.com/2014/06/18/168k-instances/)
-
 ## Mission
 
 > What is OpenStack? Well, our mission statement says this: To produce the ubiquitous OpenSource Cloud Computing platform that will meet the needs of public and private clouds regardless of size, by being simple to implement and massively scalable. [Introducing OpenStack](http://www.openstack.org/blog/2010/07/introducing-openstack/)
@@ -72,7 +66,10 @@
 
 # News
 
-[OpenStack and Kubernetes join forces for an Internet of Things platform](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
+- [OpenStack and Kubernetes join forces for an Internet of Things platform](http://superuser.openstack.org/articles/openstack-and-kubernetes-join-forces-for-an-internet-of-things-platform)
+- [Rackspace invented Openstack - Now We’re perfecting it](https://www.rackspace.com/cloud/openstack)
+- [Public vs Private, Amazon compared to OpenStack](http://redhatstackblog.redhat.com/2015/05/13/public-vs-private-amazon-compared-to-openstack/)
+- [How we scaled OpenStack to launch 168,000 Cloud instances](https://javacruft.wordpress.com/2014/06/18/168k-instances/)
 
 # Ideas
 
