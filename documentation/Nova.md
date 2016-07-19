@@ -484,5 +484,59 @@ stack@osic-devstack-27:~/devstack$
 
 ```sh
 stack@osic-devstack-27:~/devstack$ nova boot --flavor=1 --image=2b9c5e8d-4b27-460b-a179-160ae14b896d hellonova
++--------------------------------------+----------------------------------------------------------------+
+| Property                             | Value                                                          |
++--------------------------------------+----------------------------------------------------------------+
+| OS-DCF:diskConfig                    | MANUAL                                                         |
+| OS-EXT-AZ:availability_zone          |                                                                |
+| OS-EXT-SRV-ATTR:host                 | -                                                              |
+| OS-EXT-SRV-ATTR:hostname             | hellonova                                                      |
+| OS-EXT-SRV-ATTR:hypervisor_hostname  | -                                                              |
+| OS-EXT-SRV-ATTR:instance_name        | instance-00000001                                              |
+| OS-EXT-SRV-ATTR:kernel_id            | ed4ab703-50ee-4436-9a93-d45547788286                           |
+| OS-EXT-SRV-ATTR:launch_index         | 0                                                              |
+| OS-EXT-SRV-ATTR:ramdisk_id           | 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2                           |
+| OS-EXT-SRV-ATTR:reservation_id       | r-yagpgy7y                                                     |
+| OS-EXT-SRV-ATTR:root_device_name     | -                                                              |
+| OS-EXT-SRV-ATTR:user_data            | -                                                              |
+| OS-EXT-STS:power_state               | 0                                                              |
+| OS-EXT-STS:task_state                | scheduling                                                     |
+| OS-EXT-STS:vm_state                  | building                                                       |
+| OS-SRV-USG:launched_at               | -                                                              |
+| OS-SRV-USG:terminated_at             | -                                                              |
+| accessIPv4                           |                                                                |
+| accessIPv6                           |                                                                |
+| adminPass                            | F8vZXbb72JXz                                                   |
+| config_drive                         |                                                                |
+| created                              | 2016-07-19T17:42:29Z                                           |
+| description                          | -                                                              |
+| flavor                               | m1.tiny (1)                                                    |
+| hostId                               |                                                                |
+| host_status                          |                                                                |
+| id                                   | 83788f3c-2a20-4d7c-bae5-aea5b5615e34                           |
+| image                                | cirros-0.3.4-x86_64-uec (2b9c5e8d-4b27-460b-a179-160ae14b896d) |
+| key_name                             | -                                                              |
+| locked                               | False                                                          |
+| metadata                             | {}                                                             |
+| name                                 | hellonova                                                      |
+| os-extended-volumes:volumes_attached | []                                                             |
+| progress                             | 0                                                              |
+| security_groups                      | default                                                        |
+| status                               | BUILD                                                          |
+| tags                                 | []                                                             |
+| tenant_id                            | 6713353d509940fb8bd374ec5ead210f                               |
+| updated                              | 2016-07-19T17:42:29Z                                           |
+| user_id                              | f79037bbca0c42b39a99d9f0bacc4c38                               |
++--------------------------------------+----------------------------------------------------------------+
+```
+
+```sh
+stack@osic-devstack-27:~/devstack$ nova list
++--------------------------------------+-----------+--------+------------+-------------+--------------------------------+
+| ID                                   | Name      | Status | Task State | Power State | Networks                       |
++--------------------------------------+-----------+--------+------------+-------------+--------------------------------+
+| 83788f3c-2a20-4d7c-bae5-aea5b5615e34 | hellonova | ACTIVE | -          | Running     | public=2001:db8::8, 172.24.4.4 |
++--------------------------------------+-----------+--------+------------+-------------+--------------------------------+
+stack@osic-devstack-27:~/devstack$
 ```
 
