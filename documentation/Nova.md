@@ -343,5 +343,13 @@ then Ctrl-C
 ```sh
 n-cpu failed to start
 stack@osic-devstack-36:~/devstack$ sg libvirtd '/usr/local/bin/nova-compute --config-file /etc/nova/nova.conf' & echo $! >/opt/stack/status/stack/n-cpu.pid; fg || echo "n-cpu failed to start" | tee "/opt/stack/status/stack/n-cpu.failure"
+```
 
+```sh
+2016-07-19 17:09:52.765 WARNING nova.virt.libvirt.driver [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Running Nova with a QEMU version less than 1.5.3 is deprecated. The required minimum version of QEMU will be raised to 1.5.3 in the next release.
+2016-07-19 17:09:52.820 WARNING nova.compute.monitors [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Excluding nova.compute.monitors.cpu monitor virt_driver. Not in the list of enabled monitors (CONF.compute_monitors).
+2016-07-19 17:09:52.820 INFO nova.compute.resource_tracker [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Auditing locally available compute resources for node osic-devstack-36
+2016-07-19 17:09:52.941 INFO nova.compute.resource_tracker [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Total usable vcpus: 4, total allocated vcpus: 0
+2016-07-19 17:09:52.941 INFO nova.compute.resource_tracker [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Final resource view: name=osic-devstack-36 phys_ram=7985MB used_ram=512MB phys_disk=94GB used_disk=0GB total_vcpus=4 used_vcpus=0 pci_stats=[]
+2016-07-19 17:09:53.000 INFO nova.compute.resource_tracker [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Compute_service record updated for osic-devstack-36:osic-devstack-36
 ```
