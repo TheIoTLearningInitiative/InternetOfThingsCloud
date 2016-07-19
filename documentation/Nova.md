@@ -365,7 +365,9 @@ then Ctrl-A D
 stack@osic-devstack-36:/etc/nova$
 ```
 
-# Nova Commands
+# Controller
+
+## Nova Commands
 
 [localhost:8080/dashboard](localhost:8080/dashboard)
 
