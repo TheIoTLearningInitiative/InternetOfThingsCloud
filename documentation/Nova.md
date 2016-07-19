@@ -305,3 +305,9 @@ The password: secure
 2016-07-19 17:04:26.872 | stack.sh completed in 527 seconds.
 stack@osic-devstack-36:~/devstack$ 
 ```
+
+```sh
+stack@osic-devstack-36:~/devstack$ cd /etc/nova/
+stack@osic-devstack-36:/etc/nova$ nano nova.conf
+stack@osic-devstack-36:/etc/nova$
+```
