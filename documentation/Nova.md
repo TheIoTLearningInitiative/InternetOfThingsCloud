@@ -434,7 +434,7 @@ stack@osic-devstack-27:~/devstack$ nova flavor-list
 | d3 | ds2G      | 2048      | 10   | 0         |      | 2     | 1.0         | True      |
 | d4 | ds4G      | 4096      | 20   | 0         |      | 4     | 1.0         | True      |
 +----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
-stack@osic-devstack-27:~/devstack$
+stack@osic-devstack-27:~/devstack$ 
 ```
 
 ## Nova Image List
