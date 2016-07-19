@@ -232,6 +232,8 @@ There is no screen to be resumed.
 stack@osic-devstack-36:~$ 
 ```
 
+Somehow I removed service 16 n-cpu 
+
 [Cannot restart services on Devstack](https://ask.openstack.org/en/question/1916/cannot-restart-services-on-devstack/)
 
 
