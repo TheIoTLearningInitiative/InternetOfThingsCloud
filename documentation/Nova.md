@@ -337,3 +337,11 @@ Select 16 n-cpu then Enter
   17 c-api                                                                  $(L)
   18 c-sch                                                                  $(L)
 ```
+
+then Ctrl-C
+
+```sh
+n-cpu failed to start
+stack@osic-devstack-36:~/devstack$ sg libvirtd '/usr/local/bin/nova-compute --config-file /etc/nova/nova.conf' & echo $! >/opt/stack/status/stack/n-cpu.pid; fg || echo "n-cpu failed to start" | tee "/opt/stack/status/stack/n-cpu.failure"
+
+```
