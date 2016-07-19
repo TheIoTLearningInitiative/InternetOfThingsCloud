@@ -389,3 +389,9 @@ exercises    gate              Makefile         setup.py      unstack.sh
 exercise.sh  HACKING.rst       openrc           stackrc       userrc_early
 stack@osic-devstack-27:~/devstack$ source openrc admin admin
 ```
+
+```
+stack@osic-devstack-27:~/devstack$ source openrc admin admin
+WARNING: setting legacy OS_TENANT_NAME to support cli tools.
+stack@osic-devstack-27:~/devstack$
+```
