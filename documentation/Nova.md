@@ -50,6 +50,63 @@ nova.conf      policy.json           rootwr
 # Host Controller
 
 ```sh
+stack@osic-devstack-27:~$ ifconfig
+br-ex     Link encap:Ethernet  HWaddr 2e:99:7d:d9:93:48
+          inet addr:172.24.4.1  Bcast:0.0.0.0  Mask:255.255.255.0
+          inet6 addr: fe80::7c22:57ff:fedf:2fd1/64 Scope:Link
+          inet6 addr: 2001:db8::2/64 Scope:Global
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:23 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:13 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:1674 (1.6 KB)  TX bytes:1166 (1.1 KB)
+
+br-int    Link encap:Ethernet  HWaddr 9a:8b:6e:27:2e:45
+          inet6 addr: fe80::e8b0:5aff:feca:8cef/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:3682 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:10 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:433508 (433.5 KB)  TX bytes:828 (828.0 B)
+
+br-tun    Link encap:Ethernet  HWaddr a2:a5:35:e1:e5:43
+          inet6 addr: fe80::dc42:82ff:fe41:1b0f/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:10 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:0 (0.0 B)  TX bytes:828 (828.0 B)
+
+eth0      Link encap:Ethernet  HWaddr fa:16:3e:7e:21:e6
+          inet addr:192.168.50.61  Bcast:192.168.50.255  Mask:255.255.255.0
+          inet6 addr: fe80::f816:3eff:fe7e:21e6/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:532519 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:203187 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:780741335 (780.7 MB)  TX bytes:14509318 (14.5 MB)
+
+lo        Link encap:Local Loopback
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:8031481 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:8031481 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:2216847350 (2.2 GB)  TX bytes:2216847350 (2.2 GB)
+
+virbr0    Link encap:Ethernet  HWaddr c6:5a:f3:b5:be:2c
+          inet addr:192.168.122.1  Bcast:192.168.122.255  Mask:255.255.255.0
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+stack@osic-devstack-27:~$ 
+```
+
+```sh
 stack@osic-devstack-36:~$ ifconfig
 br-ex     Link encap:Ethernet  HWaddr 46:6b:1a:89:17:41
           inet addr:172.24.4.1  Bcast:0.0.0.0  Mask:255.255.255.0
