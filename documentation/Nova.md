@@ -438,3 +438,33 @@ stack@osic-devstack-27:~/devstack$
 ```
 
 ## Nova Image List
+
+```sh
+stack@osic-devstack-27:~/devstack$ nova flavor-list
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
+| ID | Name      | Memory_MB | Disk | Ephemeral | Swap | VCPUs | RXTX_Factor | Is_Public |
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
+| 1  | m1.tiny   | 512       | 1    | 0         |      | 1     | 1.0         | True      |
+| 2  | m1.small  | 2048      | 20   | 0         |      | 1     | 1.0         | True      |
+| 3  | m1.medium | 4096      | 40   | 0         |      | 2     | 1.0         | True      |
+| 4  | m1.large  | 8192      | 80   | 0         |      | 4     | 1.0         | True      |
+| 42 | m1.nano   | 64        | 0    | 0         |      | 1     | 1.0         | True      |
+| 5  | m1.xlarge | 16384     | 160  | 0         |      | 8     | 1.0         | True      |
+| 84 | m1.micro  | 128       | 0    | 0         |      | 1     | 1.0         | True      |
+| c1 | cirros256 | 256       | 0    | 0         |      | 1     | 1.0         | True      |
+| d1 | ds512M    | 512       | 5    | 0         |      | 1     | 1.0         | True      |
+| d2 | ds1G      | 1024      | 10   | 0         |      | 1     | 1.0         | True      |
+| d3 | ds2G      | 2048      | 10   | 0         |      | 2     | 1.0         | True      |
+| d4 | ds4G      | 4096      | 20   | 0         |      | 4     | 1.0         | True      |
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
+stack@osic-devstack-27:~/devstack$ nova image-list
+WARNING: Command image-list is deprecated and will be removed after Nova 15.0.0 is released. Use python-glanceclient or openstackclient instead.
++--------------------------------------+---------------------------------+--------+--------+
+| ID                                   | Name                            | Status | Server |
++--------------------------------------+---------------------------------+--------+--------+
+| 2b9c5e8d-4b27-460b-a179-160ae14b896d | cirros-0.3.4-x86_64-uec         | ACTIVE |        |
+| ed4ab703-50ee-4436-9a93-d45547788286 | cirros-0.3.4-x86_64-uec-kernel  | ACTIVE |        |
+| 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2 | cirros-0.3.4-x86_64-uec-ramdisk | ACTIVE |        |
++--------------------------------------+---------------------------------+--------+--------+
+stack@osic-devstack-27:~/devstack$ 
+```
