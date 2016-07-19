@@ -216,6 +216,14 @@ stack@osic-devstack-36:~$
 # Compute, Nova Setup Restart
 
 ```sh
-stack@osic-devstack-36:/etc/nova$ screen -ls
+stack@osic-devstack-36:~$ screen -ls
+There is a screen on:
+        21390.stack     (07/16/16 22:26:44)     (Attached)
+1 Socket in /var/run/screen/S-stack.
+
+stack@osic-devstack-36:~$
+```
+
+```sh
 stack@osic-devstack-36:/etc/nova$ screen -r
 ```
