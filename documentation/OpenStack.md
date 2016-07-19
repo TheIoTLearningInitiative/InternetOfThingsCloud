@@ -11,6 +11,7 @@
   - [Mitaka](http://docs.openstack.org/mitaka/)
 - [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [OpenStack Specifications](http://specs.openstack.org/)
+- [OpenStack Paste](http://paste.openstack.org/)
 - [OpenStack Github](https://github.com/openstack)
 - [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
   - Administrator Guide
