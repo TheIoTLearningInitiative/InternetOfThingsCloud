@@ -8,10 +8,10 @@
 - [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
 - [Install OpenStack from Source](https://developer.rackspace.com/blog/install-openstack-from-source/)
   -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
-  -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
-  -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
-  -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
-  -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
+  -  [Install OpenStack from Source Part3](https://developer.rackspace.com/blog/install-openstack-from-source3/)
+  -  [Install OpenStack from Source Part4](https://developer.rackspace.com/blog/install-openstack-from-source4/)
+  -  [Install OpenStack from Source Part5](https://developer.rackspace.com/blog/install-openstack-from-source5/)
+  -  [Install OpenStack from Source Part6](https://developer.rackspace.com/blog/install-openstack-from-source6/)
 
 # TryStack
 
