@@ -254,6 +254,7 @@ stack@osic-devstack-36:~$
   13 n-sch                                                                  $(L)
   14 n-novnc                                                                $(L)
   15 n-cauth                                                                $(L)
+  16 n-cpu [Removed]
   17 c-api                                                                  $(L)
   18 c-sch                                                                  $(L)
 ```
