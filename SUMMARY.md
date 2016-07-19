@@ -50,6 +50,7 @@
        * [Projects](documentation/OpenStackProjects.md)
        * Components
            * [Nova](documentation/Nova.md)
+           * Neutron
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
