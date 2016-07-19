@@ -40,7 +40,7 @@ Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 3.13.0-92-generic x86_64)
 
 
 Last login: Tue Jul 19 16:28:06 2016 from 192.168.50.15
-stack@osic-devstack-27:~$
+stack@osic-devstack-27:~$ 
 ```
 
 ```sh
