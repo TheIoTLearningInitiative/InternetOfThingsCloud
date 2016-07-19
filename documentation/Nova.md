@@ -231,3 +231,6 @@ There is a screen on:
 There is no screen to be resumed.
 stack@osic-devstack-36:~$ 
 ```
+
+[](https://ask.openstack.org/en/question/1916/cannot-restart-services-on-devstack/)
+
