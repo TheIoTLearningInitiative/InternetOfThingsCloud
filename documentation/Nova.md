@@ -232,5 +232,28 @@ There is no screen to be resumed.
 stack@osic-devstack-36:~$ 
 ```
 
-[](https://ask.openstack.org/en/question/1916/cannot-restart-services-on-devstack/)
+[Cannot restart services on Devstack](https://ask.openstack.org/en/question/1916/cannot-restart-services-on-devstack/)
 
+
+```sh
+ Num Name                                                                  Flags
+
+   0 shell                                                                     $
+   1 dstat                                                                  $(L)
+   2 key                                                                    $(L)
+   3 key-access                                                             $(L)
+   4 g-reg                                                                  $(L)
+   5 g-api                                                                  $(L)
+   6 n-api                                                                  $(L)
+   7 q-svc                                                                  $(L)
+   8 q-agt                                                                  $(L)
+   9 q-dhcp                                                                 $(L)
+  10 q-l3                                                                   $(L)
+  11 q-meta                                                                 $(L)
+  12 n-cond                                                                 $(L)
+  13 n-sch                                                                  $(L)
+  14 n-novnc                                                                $(L)
+  15 n-cauth                                                                $(L)
+  17 c-api                                                                  $(L)
+  18 c-sch                                                                  $(L)
+```
