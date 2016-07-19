@@ -208,3 +208,4 @@ vif_plugging_timeout = 300
 transport_url = rabbit://stackrabbit:secure@192.168.50.62:5672/
 ...
 ```
+
