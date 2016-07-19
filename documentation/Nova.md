@@ -436,3 +436,5 @@ stack@osic-devstack-27:~/devstack$ nova flavor-list
 +----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
 stack@osic-devstack-27:~/devstack$
 ```
+
+#
