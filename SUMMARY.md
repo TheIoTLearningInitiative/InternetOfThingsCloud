@@ -49,7 +49,7 @@
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
        * Components
-           * Nova
+           * [Nova](documentation/Nova.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
