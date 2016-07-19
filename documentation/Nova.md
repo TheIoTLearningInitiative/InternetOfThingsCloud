@@ -158,10 +158,11 @@ stack@osic-devstack-36:~$
 
 
 ```sh
-stack@osic-devstack-27:~$ ls
+stack@osic-devstack-36:~$ ls
 devstack  start.sh
-stack@osic-devstack-27:~$ cd /etc/nova/
-stack@osic-devstack-27:/etc/nova$ ls
+stack@osic-devstack-36:~$ cd /etc/nova/
+stack@osic-devstack-36:/etc/nova$ ls
 api-paste.ini  nova-dhcpbridge.conf  rootwrap.conf
-nova.conf      policy.json           rootwr
+nova.conf      policy.json           rootwrap.d
+stack@osic-devstack-36:/etc/nova$
 ```
