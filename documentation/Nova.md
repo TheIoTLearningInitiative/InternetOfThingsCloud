@@ -539,3 +539,21 @@ stack@osic-devstack-27:~/devstack$ nova list
 +--------------------------------------+-----------+--------+------------+-------------+--------------------------------+
 stack@osic-devstack-27:~/devstack$
 ```
+
+## Logs
+
+```sh
+stack@osic-devstack-27:~/devstack$ ls /opt/stack/logs/
+c-api.log                    g-reg.log                         n-cauth.log.2016-07-16-221640  q-agt.log.2016-07-16-221640
+c-api.log.2016-07-16-221640  g-reg.log.2016-07-16-221640       n-cond.log                     q-dhcp.log
+c-sch.log                    horizon.log                       n-cond.log.2016-07-16-221640   q-dhcp.log.2016-07-16-221640
+c-sch.log.2016-07-16-221640  horizon.log.2016-07-16-221640     n-cpu.log                      q-l3.log
+c-vol.log                    key-access.log                    n-cpu.log.2016-07-16-221640    q-l3.log.2016-07-16-221640
+c-vol.log.2016-07-16-221640  key-access.log.2016-07-16-221640  n-dhcp.log                     q-meta.log
+dstat-csv.log                key.log                           n-novnc.log                    q-meta.log.2016-07-16-221640
+dstat.log                    key.log.2016-07-16-221640         n-novnc.log.2016-07-16-221640  q-svc.log
+dstat.log.2016-07-16-221640  n-api.log                         n-sch.log                      q-svc.log.2016-07-16-221640
+g-api.log                    n-api.log.2016-07-16-221640       n-sch.log.2016-07-16-221640
+g-api.log.2016-07-16-221640  n-cauth.log                       q-agt.log
+stack@osic-devstack-27:~/devstack$
+```
