@@ -475,5 +475,5 @@ stack@osic-devstack-27:~/devstack$ nova list
 | ID | Name | Status | Task State | Power State | Networks |
 +----+------+--------+------------+-------------+----------+
 +----+------+--------+------------+-------------+----------+
-stack@osic-devstack-27:~/devstack$
+stack@osic-devstack-27:~/devstack$ 
 ```
