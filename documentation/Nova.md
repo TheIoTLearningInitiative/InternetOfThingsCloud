@@ -97,6 +97,10 @@ virbr0    Link encap:Ethernet  HWaddr c6:5a:f3:b5:be:2c
 stack@osic-devstack-27:~$ 
 ```
 
+
+# Compute
+
+
 ```sh
 stack@osic-devstack-36:~$ ifconfig
 br-ex     Link encap:Ethernet  HWaddr 46:6b:1a:89:17:41
@@ -153,9 +157,6 @@ virbr0    Link encap:Ethernet  HWaddr fa:dc:6c:00:f5:16
 
 stack@osic-devstack-36:~$ 
 ```
-
-# Compute
-
 
 ```sh
 stack@osic-devstack-36:~$ ls
