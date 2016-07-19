@@ -15,6 +15,35 @@
 # Host Controller
 
 ```sh
+$ ssh stack@192.168.50.61
+stack@192.168.50.61's password:
+Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 3.13.0-92-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Tue Jul 19 16:28:06 UTC 2016
+
+  System load:  0.18              Users logged in:       0
+  Usage of /:   3.4% of 94.46GB   IP address for eth0:   192.168.50.61
+  Memory usage: 42%               IP address for virbr0: 192.168.122.1
+  Swap usage:   0%                IP address for br-ex:  172.24.4.1
+  Processes:    213
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+3 packages can be updated.
+3 updates are security updates.
+
+
+Last login: Tue Jul 19 16:28:06 2016 from 192.168.50.15
+stack@osic-devstack-27:~$
+```
+
+```sh
 stack@osic-devstack-27:~$ ifconfig
 br-ex     Link encap:Ethernet  HWaddr 2e:99:7d:d9:93:48
           inet addr:172.24.4.1  Bcast:0.0.0.0  Mask:255.255.255.0
