@@ -257,3 +257,14 @@ stack@osic-devstack-36:~$
   17 c-api                                                                  $(L)
   18 c-sch                                                                  $(L)
 ```
+
+CTRL-A D
+
+# eNABLE
+
+```sh
+stack@osic-devstack-36:~$ ls
+devstack  start.sh
+stack@osic-devstack-36:~$ cd devstack/
+stack@osic-devstack-36:~/devstack$ ./stack.sh
+```
