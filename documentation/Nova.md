@@ -261,6 +261,8 @@ Somehow I removed service 16 n-cpu ... [Cannot restart services on Devstack](htt
 
 We removed "16 n-cpu" so we needed to restart OpenStack in the node 
 
+To dettach from the Console:
+
 ```sh
 CTRL-A D
 ```
