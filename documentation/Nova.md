@@ -398,6 +398,8 @@ WARNING: setting legacy OS_TENANT_NAME to support cli tools.
 stack@osic-devstack-27:~/devstack$
 ```
 
+## Nova Service List 
+
 ```sh
 stack@osic-devstack-27:~/devstack$ nova service-list
 +----+------------------+------------------+----------+---------+-------+----------------------------+-----------------+
@@ -409,5 +411,28 @@ stack@osic-devstack-27:~/devstack$ nova service-list
 | 9  | nova-compute     | osic-devstack-27 | nova     | enabled | up    | 2016-07-19T17:29:13.000000 | -               |
 | 10 | nova-compute     | osic-devstack-36 | nova     | enabled | up    | 2016-07-19T17:29:18.000000 | -               |
 +----+------------------+------------------+----------+---------+-------+----------------------------+-----------------+
+stack@osic-devstack-27:~/devstack$
+```
+
+## Nova Flavor List
+
+```sh
+stack@osic-devstack-27:~/devstack$ nova flavor-list
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
+| ID | Name      | Memory_MB | Disk | Ephemeral | Swap | VCPUs | RXTX_Factor | Is_Public |
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
+| 1  | m1.tiny   | 512       | 1    | 0         |      | 1     | 1.0         | True      |
+| 2  | m1.small  | 2048      | 20   | 0         |      | 1     | 1.0         | True      |
+| 3  | m1.medium | 4096      | 40   | 0         |      | 2     | 1.0         | True      |
+| 4  | m1.large  | 8192      | 80   | 0         |      | 4     | 1.0         | True      |
+| 42 | m1.nano   | 64        | 0    | 0         |      | 1     | 1.0         | True      |
+| 5  | m1.xlarge | 16384     | 160  | 0         |      | 8     | 1.0         | True      |
+| 84 | m1.micro  | 128       | 0    | 0         |      | 1     | 1.0         | True      |
+| c1 | cirros256 | 256       | 0    | 0         |      | 1     | 1.0         | True      |
+| d1 | ds512M    | 512       | 5    | 0         |      | 1     | 1.0         | True      |
+| d2 | ds1G      | 1024      | 10   | 0         |      | 1     | 1.0         | True      |
+| d3 | ds2G      | 2048      | 10   | 0         |      | 2     | 1.0         | True      |
+| d4 | ds4G      | 4096      | 20   | 0         |      | 4     | 1.0         | True      |
++----+-----------+-----------+------+-----------+------+-------+-------------+-----------+
 stack@osic-devstack-27:~/devstack$
 ```
