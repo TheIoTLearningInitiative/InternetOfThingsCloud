@@ -213,7 +213,7 @@ stack@osic-devstack-36:/etc/nova$ cd
 stack@osic-devstack-36:~$
 ```
 
-# Compute, Nova Setup Restart
+## Compute, Nova Setup Restart
 
 ```sh
 stack@osic-devstack-36:~$ screen -ls
