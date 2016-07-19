@@ -6,6 +6,7 @@
 - [OpenStack 101](https://youtu.be/qUVEkKG7HTM)
 - [Openstack Training](https://wiki.openstack.org/wiki/Documentation/training-labs)
 - [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
+- [Rackspace Openstack](http://training.rackspace.com/)
 
 # Installation
 
