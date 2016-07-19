@@ -208,7 +208,7 @@ transport_url = rabbit://stackrabbit:secure@192.168.50.62:5672/
 ...
 ```
 
-# Compute, Nova Setup
+# Compute, Nova Setup Restart
 
 ```sh
 stack@osic-devstack-36:/etc/nova$ screen -ls
