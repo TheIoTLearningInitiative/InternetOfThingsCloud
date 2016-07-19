@@ -11,6 +11,18 @@
 - [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [OpenStack Specifications](http://specs.openstack.org/)
 - [OpenStack Github](https://github.com/openstack)
+- [OpenStack Manuals]()
+  - Administrator Guide
+  - Architecture Design Guide
+  - Command-Line Interface Reference
+  - Configuration Reference
+  - Documentation Contributor Guide
+  - End User Guide
+  - High Availability Guide
+  - Installation Guide
+  - Networking Guide
+  - Operations Guide
+  - Virtual Machine Image Guide
 - [Intel 01 Org OpenStack](https://01.org/openstack)
 
 ## Mission
