@@ -259,6 +259,8 @@ stack@osic-devstack-36:~$
   18 c-sch                                                                  $(L)
 ```
 
+We removed/dettached n-cpu so we needed to restart OpenStack in the node 
+
 ```sh
 CTRL-A D
 ```
