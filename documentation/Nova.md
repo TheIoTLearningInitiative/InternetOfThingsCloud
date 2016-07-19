@@ -395,3 +395,17 @@ stack@osic-devstack-27:~/devstack$ source openrc admin admin
 WARNING: setting legacy OS_TENANT_NAME to support cli tools.
 stack@osic-devstack-27:~/devstack$
 ```
+
+```sh
+stack@osic-devstack-27:~/devstack$ nova service-list
++----+------------------+------------------+----------+---------+-------+----------------------------+-----------------+
+| Id | Binary           | Host             | Zone     | Status  | State | Updated_at                 | Disabled Reason |
++----+------------------+------------------+----------+---------+-------+----------------------------+-----------------+
+| 5  | nova-conductor   | osic-devstack-27 | internal | enabled | up    | 2016-07-19T17:29:16.000000 | -               |
+| 7  | nova-scheduler   | osic-devstack-27 | internal | enabled | up    | 2016-07-19T17:29:20.000000 | -               |
+| 8  | nova-consoleauth | osic-devstack-27 | internal | enabled | up    | 2016-07-19T17:29:20.000000 | -               |
+| 9  | nova-compute     | osic-devstack-27 | nova     | enabled | up    | 2016-07-19T17:29:13.000000 | -               |
+| 10 | nova-compute     | osic-devstack-36 | nova     | enabled | up    | 2016-07-19T17:29:18.000000 | -               |
++----+------------------+------------------+----------+---------+-------+----------------------------+-----------------+
+stack@osic-devstack-27:~/devstack$
+```
