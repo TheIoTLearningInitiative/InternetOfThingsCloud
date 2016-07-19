@@ -100,7 +100,6 @@ stack@osic-devstack-27:~$
 
 # Compute
 
-
 ```sh
 stack@osic-devstack-36:~$ ifconfig
 br-ex     Link encap:Ethernet  HWaddr 46:6b:1a:89:17:41
