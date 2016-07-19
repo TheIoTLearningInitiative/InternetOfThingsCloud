@@ -11,7 +11,7 @@
 - [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [OpenStack Specifications](http://specs.openstack.org/)
 - [OpenStack Github](https://github.com/openstack)
-- [OpenStack Manuals]()
+- [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
   - Administrator Guide
   - Architecture Design Guide
   - Command-Line Interface Reference
