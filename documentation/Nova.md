@@ -374,3 +374,18 @@ stack@osic-devstack-27:~$ nova flavor-list
 ERROR (CommandError): You must provide a username or user ID via --os-username, --os-user-id, env[OS_USERNAME] or env[OS_USER_ID]
 stack@osic-devstack-27:~$ nova boot --flavor=2 --image=0000000-0000-0000-0000-0000000000 test
 ```
+
+## Source Configuration
+
+```sh
+stack@osic-devstack-27:~$ cd devstack/
+stack@osic-devstack-27:~/devstack$ ls
+accrc        extras.d          inc              pkg           stack-screenrc
+clean.sh     files             lib              README.md     stack.sh
+data         functions         LICENSE          run_tests.sh  tests
+doc          functions-common  local.conf       samples       tools
+exerciserc   FUTURE.rst        MAINTAINERS.rst  setup.cfg     tox.ini
+exercises    gate              Makefile         setup.py      unstack.sh
+exercise.sh  HACKING.rst       openrc           stackrc       userrc_early
+stack@osic-devstack-27:~/devstack$ source openrc admin admin
+```
