@@ -50,7 +50,7 @@
        * [Projects](documentation/OpenStackProjects.md)
        * Components
            * [Nova](documentation/Nova.md)
-               * Logstach
+               * [Logstach](documentation/Logstach.md)
            * [Neutron](documentation/OpenStackNeutron.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
