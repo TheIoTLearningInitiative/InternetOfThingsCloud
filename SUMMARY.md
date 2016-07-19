@@ -51,6 +51,7 @@
        * Components
            * [Nova](documentation/Nova.md)
                * Tbd
+               * Logstach
            * [Neutron](documentation/OpenStackNeutron.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
