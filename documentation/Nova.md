@@ -480,3 +480,9 @@ stack@osic-devstack-27:~/devstack$ nova list
 stack@osic-devstack-27:~/devstack$ 
 ```
 
+# Nova Boot
+
+```sh
+stack@osic-devstack-27:~/devstack$ nova boot --flavor=1 --image=2b9c5e8d-4b27-460b-a179-160ae14b896d hellonova
+```
+
