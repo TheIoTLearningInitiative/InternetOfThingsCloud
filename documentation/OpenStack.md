@@ -8,7 +8,7 @@
 
 - [OpenStack Homepage](http://www.openstack.org/)
 - [OpenStack Documentation](http://docs.openstack.org/)
-  - [](http://docs.openstack.org/mitaka/)
+  - [Mitaka](http://docs.openstack.org/mitaka/)
 - [OpenStack Architecture](http://docs.openstack.org/ops-guide/architecture.html)
 - [OpenStack Specifications](http://specs.openstack.org/)
 - [OpenStack Github](https://github.com/openstack)
