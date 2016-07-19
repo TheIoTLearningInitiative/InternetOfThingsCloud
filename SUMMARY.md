@@ -48,7 +48,6 @@
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
-       * [Components](documentation/OpenStackComponents.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
