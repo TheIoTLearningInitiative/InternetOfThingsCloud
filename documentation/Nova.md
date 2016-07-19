@@ -41,6 +41,25 @@ nova.conf      policy.json           rootwr
 # Host 1
 
 ```sh
+stack@osic-devstack-36:~$ ifconfig
+br-ex     Link encap:Ethernet  HWaddr 46:6b:1a:89:17:41
+          inet addr:172.24.4.1  Bcast:0.0.0.0  Mask:255.255.255.0
+          inet6 addr: fe80::5cff:39ff:fe2d:4b5b/64 Scope:Link
+          inet6 addr: 2001:db8::2/64 Scope:Global
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:23 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:13 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:1674 (1.6 KB)  TX bytes:1166 (1.1 KB)
+
+br-int    Link encap:Ethernet  HWaddr 3a:24:ec:74:4c:43
+          inet6 addr: fe80::24bc:33ff:fe95:c53a/64 Scope:Link
+          UP BROADCAST RUNNING  MTU:1500  Metric:1
+          RX packets:3677 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:10 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:432918 (432.9 KB)  TX bytes:828 (828.0 B)
+
 br-tun    Link encap:Ethernet  HWaddr 5e:04:9c:38:9e:4c
           inet6 addr: fe80::a4c6:6ff:fe84:7498/64 Scope:Link
           UP BROADCAST RUNNING  MTU:1500  Metric:1
