@@ -51,6 +51,7 @@
        * Components
            * [Nova](documentation/Nova.md)
                * [Logstach](documentation/Logstach.md)
+               * Martin Fowler
            * [Neutron](documentation/OpenStackNeutron.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
