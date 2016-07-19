@@ -370,5 +370,5 @@ stack@osic-devstack-36:/etc/nova$
 ```sh
 stack@osic-devstack-27:~$ nova flavor-list
 ERROR (CommandError): You must provide a username or user ID via --os-username, --os-user-id, env[OS_USERNAME] or env[OS_USER_ID]
-stack@osic-devstack-27:~$
+stack@osic-devstack-27:~$ 
 ```
