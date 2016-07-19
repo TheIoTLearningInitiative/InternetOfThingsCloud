@@ -354,7 +354,7 @@ stack@osic-devstack-36:~/devstack$ sg libvirtd '/usr/local/bin/nova-compute --co
 2016-07-19 17:09:53.000 INFO nova.compute.resource_tracker [req-5e81b559-8336-46e2-874f-9d9ac5bbaf4c None None] Compute_service record updated for osic-devstack-36:osic-devstack-36
 ```
 
-the Ctrl-A D
+then Ctrl-A D
 
 ```sh
 [detached from 12067.stack]
