@@ -1,4 +1,4 @@
-# Training
+ # Training
 
 - [OpenStack Marketplace](http://www.openstack.org/marketplace/training)
 - [Linux Foundation OpenStack Training](https://training.linuxfoundation.org/linux-courses/system-administration-training/openstack-administration-fundamentals)
@@ -6,6 +6,9 @@
 - [OpenStack 101](https://youtu.be/qUVEkKG7HTM)
 - [Openstack Training](https://wiki.openstack.org/wiki/Documentation/training-labs)
 - [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
+
+# Installation
+
 - [Install OpenStack from Source](https://developer.rackspace.com/blog/install-openstack-from-source/)
   -  [Install OpenStack from Source Part2](https://developer.rackspace.com/blog/install-openstack-from-source2/)
   -  [Install OpenStack from Source Part3](https://developer.rackspace.com/blog/install-openstack-from-source3/)
