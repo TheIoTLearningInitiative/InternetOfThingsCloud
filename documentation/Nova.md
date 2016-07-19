@@ -269,6 +269,8 @@ CTRL-A D
 
 ## OpenStack Services Enable
 
+then we need to resinstall OpenStack using DevStack
+
 ```sh
 stack@osic-devstack-36:~$ ls
 devstack  start.sh
