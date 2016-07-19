@@ -367,7 +367,7 @@ stack@osic-devstack-36:/etc/nova$
 
 # Nova Commands
 
-localhost:8080/dashboard
+[localhost:8080/dashboard](localhost:8080/dashboard)
 
 ```sh
 stack@osic-devstack-27:~$ nova flavor-list
