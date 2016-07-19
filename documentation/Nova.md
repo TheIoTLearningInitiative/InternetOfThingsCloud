@@ -259,7 +259,7 @@ Somehow I removed service 16 n-cpu ... [Cannot restart services on Devstack](htt
   18 c-sch                                                                  $(L)
 ```
 
-We removed/dettached n-cpu so we needed to restart OpenStack in the node 
+We removed "16 n-cpu" so we needed to restart OpenStack in the node 
 
 ```sh
 CTRL-A D
