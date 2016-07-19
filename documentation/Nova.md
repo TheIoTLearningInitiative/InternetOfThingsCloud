@@ -229,5 +229,5 @@ stack@osic-devstack-36:~$ screen -r
 There is a screen on:
         21390.stack     (07/16/16 22:26:44)     (Attached)
 There is no screen to be resumed.
-stack@osic-devstack-36:~$
+stack@osic-devstack-36:~$ 
 ```
