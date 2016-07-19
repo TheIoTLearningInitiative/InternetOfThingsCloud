@@ -326,6 +326,12 @@ sudo tail -f /var/log/apache2/horizon_error.log
 CTRL-A "
 ```
 
-```
+Select 16 n-cpu then Enter
 
+```
+  14 n-novnc                                                                $(L)
+  15 n-cauth                                                                $(L)
+  16 n-cpu                                                                  $(L)
+  17 c-api                                                                  $(L)
+  18 c-sch                                                                  $(L)
 ```
