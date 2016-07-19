@@ -5,6 +5,7 @@
 - [Quora Where can I find best tutorials for openstack?](https://www.quora.com/Where-can-I-find-best-tutorials-for-openstack)
 - [OpenStack 101](https://youtu.be/qUVEkKG7HTM)
 - [Openstack Training](https://wiki.openstack.org/wiki/Documentation/training-labs)
+- [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
 
 # TryStack
 
