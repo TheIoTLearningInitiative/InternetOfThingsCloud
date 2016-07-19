@@ -555,5 +555,5 @@ dstat.log                    key.log.2016-07-16-221640         n-novnc.log.2016-
 dstat.log.2016-07-16-221640  n-api.log                         n-sch.log                      q-svc.log.2016-07-16-221640
 g-api.log                    n-api.log.2016-07-16-221640       n-sch.log.2016-07-16-221640
 g-api.log.2016-07-16-221640  n-cauth.log                       q-agt.log
-stack@osic-devstack-27:~/devstack$
+stack@osic-devstack-27:~/devstack$ 
 ```
