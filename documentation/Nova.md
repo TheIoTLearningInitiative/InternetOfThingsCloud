@@ -38,15 +38,6 @@ Last login: Tue Jul 19 16:29:34 2016 from 192.168.50.15
 stack@osic-devstack-36:~$ 
 ```
 
-```sh
-stack@osic-devstack-27:~$ ls
-devstack  start.sh
-stack@osic-devstack-27:~$ cd /etc/nova/
-stack@osic-devstack-27:/etc/nova$ ls
-api-paste.ini  nova-dhcpbridge.conf  rootwrap.conf
-nova.conf      policy.json           rootwr
-```
-
 # Host Controller
 
 ```sh
