@@ -2,6 +2,15 @@
 
 - [All About Nova-Agent (well, on linux that is)](http://www.syntheticworks.com/rackspace-cloud/linux-rackspace-cloud/all-about-nova-agent-linux/)
 
+# IPs
+
+```
+192.168.50.61 Abraham
+192.168.50.62 Abraham
+```
+
+# Log In
+
 ```sh
 Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 3.13.0-92-generic x86_64)
 
