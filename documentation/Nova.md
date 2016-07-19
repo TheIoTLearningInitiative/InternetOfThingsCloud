@@ -309,7 +309,9 @@ stack@osic-devstack-36:~/devstack$
 ```sh
 stack@osic-devstack-36:~/devstack$ cd /etc/nova/
 stack@osic-devstack-36:/etc/nova$ nano nova.conf
-stack@osic-devstack-36:/etc/nova$
+```
+
+```
 stack@osic-devstack-36:/etc/nova$ screen -ls
 There is a screen on:
         12067.stack     (07/19/2016 04:57:39 PM)        (Detached)
