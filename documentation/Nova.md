@@ -38,7 +38,7 @@ api-paste.ini  nova-dhcpbridge.conf  rootwrap.conf
 nova.conf      policy.json           rootwr
 ```
 
-# Host 1
+# Host Controller
 
 ```sh
 stack@osic-devstack-36:~$ ifconfig
