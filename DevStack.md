@@ -30,4 +30,6 @@ stack@osic-devstack-27:~/devstack$ nano openrc
 #   Set OS_PROJECT_NAME to override the default project 'demo'
 #   Set OS_USERNAME to override the default user name 'demo'
 #   Set ADMIN_PASSWORD to set the password for 'admin' and 'demo'
+...
+...
 ```
