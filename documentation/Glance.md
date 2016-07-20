@@ -25,3 +25,7 @@
   - ARI
   - OVF
 
+- Creating Nova Instance from an Image
+  - vda
+  - vdb
+  - vdc 
