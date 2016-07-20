@@ -72,3 +72,43 @@ stack@osic-devstack-27:~/devstack$ glance image-show 2b9c5e8d-4b27-460b-a179-160
 +------------------+--------------------------------------+
 stack@osic-devstack-27:~/devstack$ 
 ```
+
+```sh
+stack@osic-devstack-27:~/devstack$ glance help image-list
+usage: glance image-list [--limit <LIMIT>] [--page-size <SIZE>]
+                         [--visibility <VISIBILITY>]
+                         [--member-status <MEMBER_STATUS>] [--owner <OWNER>]
+                         [--property-filter <KEY=VALUE>]
+                         [--checksum <CHECKSUM>] [--tag <TAG>]
+                         [--sort-key {name,status,container_format,disk_format,size,id,created_at,updated_at}]
+                         [--sort-dir {asc,desc}] [--sort <key>[:<direction>]]
+
+List images you can access.
+
+Optional arguments:
+  --limit <LIMIT>       Maximum number of images to get.
+  --page-size <SIZE>    Number of images to request in each paginated request.
+  --visibility <VISIBILITY>
+                        The visibility of the images to display.
+  --member-status <MEMBER_STATUS>
+                        The status of images to display.
+  --owner <OWNER>       Display images owned by <OWNER>.
+  --property-filter <KEY=VALUE>
+                        Filter images by a user-defined image property.
+  --checksum <CHECKSUM>
+                        Displays images that match the checksum.
+  --tag <TAG>           Filter images by a user-defined tag.
+  --sort-key {name,status,container_format,disk_format,size,id,created_at,updated_at}
+                        Sort image list by specified fields. May be used
+                        multiple times.
+  --sort-dir {asc,desc}
+                        Sort image list in specified directions.
+  --sort <key>[:<direction>]
+                        Comma-separated list of sort keys and directions in
+                        the form of <key>[:<asc|desc>]. Valid keys: name,
+                        status, container_format, disk_format, size, id,
+                        created_at, updated_at. OPTIONAL.
+
+Run `glance --os-image-api-version 1 help image-list` for v1 help
+stack@osic-devstack-27:~/devstack$ 
+```
