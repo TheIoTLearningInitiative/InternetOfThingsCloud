@@ -234,7 +234,7 @@ stack@osic-devstack-27:/opt/stack/data/glance/images$ file 010ffd4a-df81-47bc-91
 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2: gzip compressed data, from Unix, last modified: Thu May  7 16:46:02 2015, max compression
 stack@osic-devstack-27:/opt/stack/data/glance/images$ file ed4ab703-50ee-4436-9a93-d45547788286
 ed4ab703-50ee-4436-9a93-d45547788286: x86 boot sector
-stack@osic-devstack-27:/opt/stack/data/glance/images$
+stack@osic-devstack-27:/opt/stack/data/glance/images$ 
 ```
 
 ```sh
