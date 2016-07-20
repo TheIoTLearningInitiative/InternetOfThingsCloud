@@ -21,4 +21,6 @@
   - VHD
   - VMDK
   - AKI
-  - AMI 
+  - AMI
+  - ARI
+  - OVF 
