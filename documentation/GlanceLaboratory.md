@@ -181,7 +181,6 @@ stack@osic-devstack-27:~/images$ glance image-create --name "HelloImage" --disk-
 ```
 
 ```sh
-
 +------------------+--------------------------------------+
 | Property         | Value                                |
 +------------------+--------------------------------------+
