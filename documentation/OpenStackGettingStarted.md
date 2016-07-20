@@ -73,6 +73,20 @@ The password:
 2016-03-23 18:07:45.192 | stack.sh completed in 2446 seconds.
 ```
 
+# Laboratory
+
+```sh
+stack@osic-devstack-27:~/devstack$ openstack help
+```
+
+```sh
+stack@osic-devstack-27:~/devstack$ ls /opt/
+stack
+stack@osic-devstack-27:~/devstack$ ls /opt/stack/
+cinder  data  devstack.subunit  glance  horizon  keystone  logs  neutron  noVNC  nova  requirements  status  tempest
+stack@osic-devstack-27:~/devstack$
+```
+
 ## DevStack - an OpenStack Community Production, Quick Start, Error
 
 ```sh
