@@ -36,4 +36,9 @@
   - Active
   - Killed
   - Deleted
-  - Pending_Delete 
+  - Pending_Delete
+
+- Image members and sharing concept
+  - public-images
+  - my-owned-images
+  - images-of-which-i-am-a-member 
