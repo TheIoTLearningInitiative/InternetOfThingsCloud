@@ -131,3 +131,9 @@ stack@osic-devstack-27:~/devstack$ glance image-list
 +--------------------------------------+---------------------------------+
 stack@osic-devstack-27:~/devstack$ 
 ```
+
+```sh
+stack@osic-devstack-27:~/devstack$ mkdir ~/images
+stack@osic-devstack-27:~/devstack$ cd ~/images
+stack@osic-devstack-27:~/images$ 
+```
