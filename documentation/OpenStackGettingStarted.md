@@ -112,3 +112,41 @@ xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ sudo python setup.py install
 xe1gyq@jessie:~/openstack/devstack/cffi-1.5.2$ cd ..
 
 ```
+
+```sh
+top - 17:37:28 up 3 days, 19:21,  1 user,  load average: 0.45, 0.38, 0.40
+Tasks: 214 total,   1 running, 213 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.2 us,  1.7 sy,  0.0 ni, 84.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem:   8176796 total,  7102060 used,  1074736 free,   163700 buffers
+KiB Swap:  2097148 total,        0 used,  2097148 free.  3005672 cached Mem
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+21697 stack     20   0   34392   7764   2812 S  19.5  0.1  68:14.94 dstat
+31449 stack     20   0  221884  70348   6376 S  13.0  0.9 558:58.23 neutron-openvsw
+31681 stack     20   0  207812  56280   6388 S  13.0  0.7 553:33.08 neutron-dhcp-ag
+31913 stack     20   0  208088  56580   6380 S  13.0  0.7 543:29.51 neutron-l3-agen
+    7 root      20   0       0      0      0 S   6.5  0.0  14:24.10 rcu_sched
+30749 stack     20   0  273624 114224   6584 S   6.5  1.4  30:18.54 nova-api
+31231 stack     20   0  257404  96116   2688 S   6.5  1.2  97:24.07 neutron-server
+    1 root      20   0   33596   2916   1476 S   0.0  0.0   0:00.97 init
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.04 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:01.79 ksoftirqd/0
+    4 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    8 root      20   0       0      0      0 S   0.0  0.0   2:07.14 rcuos/0
+    9 root      20   0       0      0      0 S   0.0  0.0   2:04.55 rcuos/1
+   10 root      20   0       0      0      0 S   0.0  0.0   1:58.19 rcuos/2
+   11 root      20   0       0      0      0 S   0.0  0.0   1:47.49 rcuos/3
+   12 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcu_bh
+   13 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcuob/0
+   14 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcuob/1
+   15 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcuob/2
+   16 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcuob/3
+   17 root      rt   0       0      0      0 S   0.0  0.0   0:01.35 migration/0
+   18 root      rt   0       0      0      0 S   0.0  0.0   0:01.13 watchdog/0
+   19 root      rt   0       0      0      0 S   0.0  0.0   0:01.04 watchdog/1
+   20 root      rt   0       0      0      0 S   0.0  0.0   0:01.54 migration/1
+   21 root      20   0       0      0      0 S   0.0  0.0   0:00.83 ksoftirqd/1
+   22 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kworker/1:0
+   23 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/1:0H
+```
