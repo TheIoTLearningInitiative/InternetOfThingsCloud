@@ -153,5 +153,5 @@ Saving to: 'cirros-0.3.3-x86_64-disk.img'
 
 2016-07-20 16:40:40 (2.70 MB/s) - 'cirros-0.3.3-x86_64-disk.img' saved [13200896/13200896]
 
-stack@osic-devstack-27:~/images$
+stack@osic-devstack-27:~/images$ 
 ```
