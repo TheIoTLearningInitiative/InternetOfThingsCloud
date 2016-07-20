@@ -1,3 +1,3 @@
 # Keystone
 
-> Keystone handles owner ID
+> Keystone handles Owner ID
