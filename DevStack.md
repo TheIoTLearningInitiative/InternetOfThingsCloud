@@ -13,6 +13,14 @@
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
 
 ```sh
+stack@osic-devstack-27:~/devstack$ ls
+FUTURE.rst       Makefile   data         exercises  functions-common  local.conf    samples         stack.sh  tox.ini
+HACKING.rst      README.md  doc          extras.d   gate              openrc        setup.cfg       stackrc   unstack.sh
+LICENSE          accrc      exercise.sh  files      inc               pkg           setup.py        tests     userrc_early
+MAINTAINERS.rst  clean.sh   exerciserc   functions  lib               run_tests.sh  stack-screenrc  tools
+stack@osic-devstack-27:~/devstack$ 
+```
+```sh
 #!/usr/bin/env bash
 #
 # source openrc [username] [projectname]
