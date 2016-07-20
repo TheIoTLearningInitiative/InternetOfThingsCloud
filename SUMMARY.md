@@ -58,6 +58,7 @@
            * Horizon
            * [Glance](documentation/Glance.md)
                * [Laboratory](documentation/GlanceLaboratory.md)
+                   * Invisble To Admin
            * [Keystone](documentation/ComponentsKeystone.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
