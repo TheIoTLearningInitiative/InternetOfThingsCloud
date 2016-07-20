@@ -260,7 +260,7 @@ stack@osic-devstack-27:~/images$ glance image-list
 stack@osic-devstack-27:~/images$ 
 ```
 
-# Image Delete
+## Image Delete
 
 ```sh
 stack@osic-devstack-27:~/images$ glance image-delete b73f674b-64cd-4fe8-a6b5-1642addb1a1f
