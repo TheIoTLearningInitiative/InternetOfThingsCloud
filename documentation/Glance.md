@@ -4,6 +4,9 @@
 
 > Glance handles image id
 
+
+- https://blueprints.launchpad.net/glance
+
 - Metadata
   - OS Type
   - Size
