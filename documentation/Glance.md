@@ -47,7 +47,7 @@
 
 > Going beyond storing just VM images
 > Based on Glance v2 API and supports different artifacts types, like containers, various templates, application packages, and not just VM images only
-> support for community App catalog
+> Support for community App catalog, Collection of Ready-to-use applications
 > > Murano Packages
 > > Heat Templates
 > Experimental Phase 
