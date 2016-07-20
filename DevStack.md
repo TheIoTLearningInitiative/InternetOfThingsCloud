@@ -11,3 +11,14 @@
 
 - [Open Stack Wiki](https://wiki.openstack.org/wiki/Getting_Started)
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
+
+```sh
+#!/usr/bin/env bash
+#
+# source openrc [username] [projectname]
+#
+# Configure a set of credentials for $PROJECT/$USERNAME:
+#   Set OS_PROJECT_NAME to override the default project 'demo'
+#   Set OS_USERNAME to override the default user name 'demo'
+#   Set ADMIN_PASSWORD to set the password for 'admin' and 'demo'
+```
