@@ -5,10 +5,11 @@
 > Glance handles image id
 
 
-- [](https://blueprints.launchpad.net/glance)
-- [](https://github.com/openstack/glance)
-- [](http://developer.openstack.org/api-ref-image-v2.html)
-- [](https://bugs.launchpad.net/glance/+bugs)
+- [Glance Blueprints](https://blueprints.launchpad.net/glance)
+- [Glance Source Code](https://github.com/openstack/glance)
+- [Glance API Documentation](http://developer.openstack.org/api-ref-image-v2.html)
+- [Glance Bugs](https://bugs.launchpad.net/glance/+bugs)
+- [Glance Code Review](
 
 - Metadata
   - OS Type
