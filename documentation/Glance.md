@@ -36,4 +36,4 @@
   - Active
   - Killed
   - Deleted
-  - Pending_delete 
+  - Pending_Delete 
