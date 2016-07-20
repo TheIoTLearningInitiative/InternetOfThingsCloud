@@ -138,6 +138,8 @@ stack@osic-devstack-27:~/devstack$ cd ~/images
 stack@osic-devstack-27:~/images$ 
 ```
 
+## Download Images
+
 http://download.cirros-cloud.net/0.3.3/
 
 ```sh
@@ -172,3 +174,4 @@ Saving to: 'cirros-0.3.3-i386-disk.img'
 stack@osic-devstack-27:~/images$
 ```
 
+## Upload Images
