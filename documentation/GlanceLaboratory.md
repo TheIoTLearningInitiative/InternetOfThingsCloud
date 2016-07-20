@@ -171,3 +171,4 @@ Saving to: 'cirros-0.3.3-i386-disk.img'
 
 stack@osic-devstack-27:~/images$
 ```
+
