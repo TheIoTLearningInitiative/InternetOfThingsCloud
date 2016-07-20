@@ -18,8 +18,9 @@ FUTURE.rst       Makefile   data         exercises  functions-common  local.conf
 HACKING.rst      README.md  doc          extras.d   gate              openrc        setup.cfg       stackrc   unstack.sh
 LICENSE          accrc      exercise.sh  files      inc               pkg           setup.py        tests     userrc_early
 MAINTAINERS.rst  clean.sh   exerciserc   functions  lib               run_tests.sh  stack-screenrc  tools
-stack@osic-devstack-27:~/devstack$ 
+stack@osic-devstack-27:~/devstack$ nano openrc
 ```
+
 ```sh
 #!/usr/bin/env bash
 #
