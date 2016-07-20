@@ -13,3 +13,10 @@
   - Database
   - Image Store
 
+- Image Formats
+  - ISO
+  - QCOW2
+  - Raw
+  - VDI
+  - VHD
+  - VMDK 
