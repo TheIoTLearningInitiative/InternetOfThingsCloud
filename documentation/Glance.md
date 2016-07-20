@@ -41,4 +41,5 @@
 - Image members and sharing concept
   - public-images
   - my-owned-images
-  - images-of-which-i-am-a-member 
+  - images-of-which-i-am-a-member
+
