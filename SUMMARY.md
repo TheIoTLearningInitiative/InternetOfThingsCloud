@@ -46,7 +46,7 @@
            * [Brokers](documentation/Brokers.md)
            * [DevStack](DevStack.md)
        * Companies
-           * RedHat
+           * [RedHat](documentation/OpenStackRedHat.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
