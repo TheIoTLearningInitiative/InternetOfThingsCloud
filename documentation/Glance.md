@@ -51,3 +51,14 @@
 > > Murano Packages
 > > Heat Templates
 > Experimental Phase 
+
+```sh
+stack@osic-devstack-27:~$ pgrep -l glance
+29903 glance-registry
+30033 glance-registry
+30034 glance-registry
+30073 glance-api
+30158 glance-api
+30159 glance-api
+stack@osic-devstack-27:~$
+```
