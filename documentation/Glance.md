@@ -1,7 +1,7 @@
 # Glance
 
-Metadata
-- OS Type
-- Size
-- Format
+- Metadata
+  - OS Type
+  - Size
+  - Format
 
