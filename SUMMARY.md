@@ -54,6 +54,7 @@
                * [Martin Fowler](documentation/MartinFowler.md)
            * [Neutron](documentation/OpenStackNeutron.md)
            * Horizon
+           * Keystone
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
