@@ -1,5 +1,7 @@
 # Sandbox
 
+https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/the-big-tent-a-look-at-the-new-openstack-projects-governance
+
 # RedFish
 
 http://redfish.dmtf.org/
