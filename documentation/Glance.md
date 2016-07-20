@@ -6,7 +6,6 @@
 
 > Glance handles image id
 
-
 - [Glance Blueprints](https://blueprints.launchpad.net/glance)
 - [Glance Source Code](https://github.com/openstack/glance)
 - [Glance API Documentation](http://developer.openstack.org/api-ref-image-v2.html)
