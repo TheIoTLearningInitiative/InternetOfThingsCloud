@@ -225,3 +225,18 @@ stack@osic-devstack-27:~/images$ glance image-create --name "HelloImagei386" --d
 +------------------+--------------------------------------+
 stack@osic-devstack-27:~/images$ 
 ```
+
+```sh
+stack@osic-devstack-27:~/images$ glance image-list
++--------------------------------------+---------------------------------+
+| ID                                   | Name                            |
++--------------------------------------+---------------------------------+
+| 2b9c5e8d-4b27-460b-a179-160ae14b896d | cirros-0.3.4-x86_64-uec         |
+| ed4ab703-50ee-4436-9a93-d45547788286 | cirros-0.3.4-x86_64-uec-kernel  |
+| 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2 | cirros-0.3.4-x86_64-uec-ramdisk |
+| b73f674b-64cd-4fe8-a6b5-1642addb1a1f | HelloImage                      |
+| 53a12410-468e-4c1d-a892-da1c0a5ca9e8 | HelloImagei386                  |
+| 1f09878c-8960-4cdc-8636-7d0f1e2d0060 | HelloImagex86_64                |
++--------------------------------------+---------------------------------+
+stack@osic-devstack-27:~/images$ 
+```
