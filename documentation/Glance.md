@@ -28,4 +28,12 @@
 - Creating Nova Instance from an Image
   - vda
   - vdb
-  - vdc 
+  - vdc
+
+- Image Status
+  - Queued
+  - Saving
+  - Active
+  - Killed
+  - Deleted
+  - Pending_delete 
