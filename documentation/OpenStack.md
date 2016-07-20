@@ -90,16 +90,3 @@
 
 Compute Fabric, Hypervisors, The code that makes Virtualization happen
 
-# Laboratory
-
-```sh
-stack@osic-devstack-27:~/devstack$ openstack help
-```
-
-```sh
-stack@osic-devstack-27:~/devstack$ ls /opt/
-stack
-stack@osic-devstack-27:~/devstack$ ls /opt/stack/
-cinder  data  devstack.subunit  glance  horizon  keystone  logs  neutron  noVNC  nova  requirements  status  tempest
-stack@osic-devstack-27:~/devstack$
-```
