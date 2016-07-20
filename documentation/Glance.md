@@ -7,3 +7,9 @@
   - Size
   - Format
 
+- Architecture
+  - glance-api
+  - glance-regustry
+  - Database
+  - Image Store
+
