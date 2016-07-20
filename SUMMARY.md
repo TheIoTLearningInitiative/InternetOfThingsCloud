@@ -53,9 +53,9 @@
                * [Logstach](documentation/Logstach.md)
                * [Martin Fowler](documentation/MartinFowler.md)
            * [Neutron](documentation/OpenStackNeutron.md)
+           * [Glance](documentation/Glance.md)
            * Horizon
            * Keystone
-           * [Glance](documentation/Glance.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
