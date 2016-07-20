@@ -179,3 +179,28 @@ stack@osic-devstack-27:~/images$
 ```sh
 stack@osic-devstack-27:~/images$ glance image-create --name "HelloImage" --disk-format qcow2 --container-format bare --file cirros-0.3.3-x86_64-disk.img
 ```
+
+```sh
+
++------------------+--------------------------------------+
+| Property         | Value                                |
++------------------+--------------------------------------+
+| checksum         | 133eae9fb1c98f45894a4e60d8736619     |
+| container_format | bare                                 |
+| created_at       | 2016-07-20T16:45:48Z                 |
+| disk_format      | qcow2                                |
+| id               | b73f674b-64cd-4fe8-a6b5-1642addb1a1f |
+| min_disk         | 0                                    |
+| min_ram          | 0                                    |
+| name             | HelloImage                           |
+| owner            | fa83e05659824363bc5bad90a0f0bdac     |
+| protected        | False                                |
+| size             | 13200896                             |
+| status           | active                               |
+| tags             | []                                   |
+| updated_at       | 2016-07-20T16:45:48Z                 |
+| virtual_size     | None                                 |
+| visibility       | private                              |
++------------------+--------------------------------------+
+stack@osic-devstack-27:~/images$ 
+```
