@@ -155,3 +155,19 @@ Saving to: 'cirros-0.3.3-x86_64-disk.img'
 
 stack@osic-devstack-27:~/images$ 
 ```
+
+```sh
+stack@osic-devstack-27:~/images$ wget http://download.cirros-cloud.net/0.3.3/cirros-0.3.3-i386-disk.img
+--2016-07-20 16:41:23--  http://download.cirros-cloud.net/0.3.3/cirros-0.3.3-i386-disk.img
+Resolving download.cirros-cloud.net (download.cirros-cloud.net)... 64.90.42.85
+Connecting to download.cirros-cloud.net (download.cirros-cloud.net)|64.90.42.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12268032 (12M) [text/plain]
+Saving to: 'cirros-0.3.3-i386-disk.img'
+
+100%[==============================================================================================================>] 12,268,032  4.61MB/s   in 2.5s
+
+2016-07-20 16:41:26 (4.61 MB/s) - 'cirros-0.3.3-i386-disk.img' saved [12268032/12268032]
+
+stack@osic-devstack-27:~/images$
+```
