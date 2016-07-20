@@ -4,7 +4,7 @@
 
 http://redfish.dmtf.org/
 
-# Mirantis, fuel
+# Mirantis, Fuel
 
 # Services
 
