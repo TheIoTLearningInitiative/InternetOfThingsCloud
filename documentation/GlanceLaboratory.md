@@ -181,23 +181,45 @@ stack@osic-devstack-27:~/images$ glance image-create --name "HelloImage" --disk-
 ```
 
 ```sh
+stack@osic-devstack-27:~/images$ glance image-create --name "HelloImagex86_64" --disk-format qcow2 --container-format bare --file cirros-0.3.3-x86_64-disk.img
 +------------------+--------------------------------------+
 | Property         | Value                                |
 +------------------+--------------------------------------+
 | checksum         | 133eae9fb1c98f45894a4e60d8736619     |
 | container_format | bare                                 |
-| created_at       | 2016-07-20T16:45:48Z                 |
+| created_at       | 2016-07-20T16:46:25Z                 |
 | disk_format      | qcow2                                |
-| id               | b73f674b-64cd-4fe8-a6b5-1642addb1a1f |
+| id               | 1f09878c-8960-4cdc-8636-7d0f1e2d0060 |
 | min_disk         | 0                                    |
 | min_ram          | 0                                    |
-| name             | HelloImage                           |
+| name             | HelloImagex86_64                     |
 | owner            | fa83e05659824363bc5bad90a0f0bdac     |
 | protected        | False                                |
 | size             | 13200896                             |
 | status           | active                               |
 | tags             | []                                   |
-| updated_at       | 2016-07-20T16:45:48Z                 |
+| updated_at       | 2016-07-20T16:46:25Z                 |
+| virtual_size     | None                                 |
+| visibility       | private                              |
++------------------+--------------------------------------+
+stack@osic-devstack-27:~/images$ glance image-create --name "HelloImagei386" --disk-format qcow2 --container-format bare --file cirros-0.3.3-i386-disk.img
++------------------+--------------------------------------+
+| Property         | Value                                |
++------------------+--------------------------------------+
+| checksum         | 283c77db6fc79b2d47c585ec241e7edc     |
+| container_format | bare                                 |
+| created_at       | 2016-07-20T16:47:13Z                 |
+| disk_format      | qcow2                                |
+| id               | 53a12410-468e-4c1d-a892-da1c0a5ca9e8 |
+| min_disk         | 0                                    |
+| min_ram          | 0                                    |
+| name             | HelloImagei386                       |
+| owner            | fa83e05659824363bc5bad90a0f0bdac     |
+| protected        | False                                |
+| size             | 12268032                             |
+| status           | active                               |
+| tags             | []                                   |
+| updated_at       | 2016-07-20T16:47:13Z                 |
 | virtual_size     | None                                 |
 | visibility       | private                              |
 +------------------+--------------------------------------+
