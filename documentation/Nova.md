@@ -1,6 +1,6 @@
 # Nova
 
-> Nova is an OpenStack project designed to provide power massively scalable, on demand, self service access to compute resources. [Nova]()
+> Nova is an OpenStack project designed to provide power massively scalable, on demand, self service access to compute resources. [Nova](http://docs.openstack.org/developer/nova/)
 
 - [All About Nova-Agent (well, on linux that is)](http://www.syntheticworks.com/rackspace-cloud/linux-rackspace-cloud/all-about-nova-agent-linux/)
 
