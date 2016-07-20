@@ -176,3 +176,6 @@ stack@osic-devstack-27:~/images$
 
 ## Upload Images
 
+```sh
+stack@osic-devstack-27:~/images$ glance image-create --name "HelloImage" --disk-format qcow2 --container-format bare --file cirros-0.3.3-x86_64-disk.img
+```
