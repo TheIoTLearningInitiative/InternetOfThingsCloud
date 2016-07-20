@@ -76,15 +76,15 @@ The password:
 # Laboratory
 
 ```sh
-stack@osic-devstack-27:~/devstack$ openstack help
+xe1gyq@jessie:~/openstack/devstack$ openstack help
 ```
 
 ```sh
-stack@osic-devstack-27:~/devstack$ ls /opt/
+xe1gyq@jessie:~/openstack/devstack$ ls /opt/
 stack
-stack@osic-devstack-27:~/devstack$ ls /opt/stack/
+xe1gyq@jessie:~/openstack/devstack$ ls /opt/stack/
 cinder  data  devstack.subunit  glance  horizon  keystone  logs  neutron  noVNC  nova  requirements  status  tempest
-stack@osic-devstack-27:~/devstack$
+xe1gyq@jessie:~/openstack/devstack$ 
 ```
 
 ## DevStack - an OpenStack Community Production, Quick Start, Error
