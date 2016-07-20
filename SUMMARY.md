@@ -57,6 +57,7 @@
            * [Glance](documentation/Glance.md)
                * [Laboratory](documentation/GlanceLaboratory.md)
            * [Keystone](documentation/ComponentsKeystone.md)
+       * Companies
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
