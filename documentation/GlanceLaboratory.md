@@ -294,3 +294,30 @@ stack@osic-devstack-27:~/devstack$ glance image-list
 +--------------------------------------+---------------------------------+
 stack@osic-devstack-27:~/devstack$ 
 ```
+
+## Image Properties Change
+
+```sh
+stack@osic-devstack-27:~/devstack$ glance image-update 53a12410-468e-4c1d-a892-da1c0a5ca9e8 --name HelloImagei386
++------------------+--------------------------------------+
+| Property         | Value                                |
++------------------+--------------------------------------+
+| checksum         | 283c77db6fc79b2d47c585ec241e7edc     |
+| container_format | bare                                 |
+| created_at       | 2016-07-20T16:47:13Z                 |
+| disk_format      | qcow2                                |
+| id               | 53a12410-468e-4c1d-a892-da1c0a5ca9e8 |
+| min_disk         | 0                                    |
+| min_ram          | 0                                    |
+| name             | HelloImagei386                       |
+| owner            | fa83e05659824363bc5bad90a0f0bdac     |
+| protected        | False                                |
+| size             | 12268032                             |
+| status           | active                               |
+| tags             | []                                   |
+| updated_at       | 2016-07-20T16:47:13Z                 |
+| virtual_size     | None                                 |
+| visibility       | private                              |
++------------------+--------------------------------------+
+stack@osic-devstack-27:~/devstack$ 
+```
