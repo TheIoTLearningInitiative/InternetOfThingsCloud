@@ -55,6 +55,7 @@
            * [Neutron](documentation/OpenStackNeutron.md)
            * Horizon
            * Keystone
+           * Glance
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
