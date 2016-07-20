@@ -74,6 +74,10 @@ stack@osic-devstack-27:~/devstack$
 ```
 
 ```sh
+stack@osic-devstack-27:~/devstack$ glance --help
+```
+
+```sh
 stack@osic-devstack-27:~/devstack$ glance help image-list
 usage: glance image-list [--limit <LIMIT>] [--page-size <SIZE>]
                          [--visibility <VISIBILITY>]
