@@ -234,6 +234,14 @@ stack@osic-devstack-27:/opt/stack/data/glance/images$
 ```
 
 ```sh
+stack@osic-devstack-27:/opt/stack/data/glance/images$ file 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2
+010ffd4a-df81-47bc-91a1-9c4f5ead3dc2: gzip compressed data, from Unix, last modified: Thu May  7 16:46:02 2015, max compression
+stack@osic-devstack-27:/opt/stack/data/glance/images$
+
+
+```
+
+```sh
 stack@osic-devstack-27:~/images$ glance image-list
 +--------------------------------------+---------------------------------+
 | ID                                   | Name                            |
