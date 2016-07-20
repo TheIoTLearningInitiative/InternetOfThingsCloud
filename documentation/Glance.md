@@ -60,5 +60,5 @@ stack@osic-devstack-27:~$ pgrep -l glance
 30073 glance-api
 30158 glance-api
 30159 glance-api
-stack@osic-devstack-27:~$
+stack@osic-devstack-27:~$ 
 ```
