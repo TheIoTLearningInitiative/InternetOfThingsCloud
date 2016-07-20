@@ -6,6 +6,8 @@
 
 
 - https://blueprints.launchpad.net/glance
+- https://github.com/openstack/glance
+- http://developer.openstack.org/api-ref-image-v2.html
 
 - Metadata
   - OS Type
