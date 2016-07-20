@@ -45,6 +45,7 @@
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
            * [Brokers](documentation/Brokers.md)
            * [DevStack](DevStack.md)
+       * Companies
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
@@ -57,7 +58,6 @@
            * [Glance](documentation/Glance.md)
                * [Laboratory](documentation/GlanceLaboratory.md)
            * [Keystone](documentation/ComponentsKeystone.md)
-       * Companies
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
