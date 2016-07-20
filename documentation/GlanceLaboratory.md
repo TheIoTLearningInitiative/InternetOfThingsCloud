@@ -137,3 +137,21 @@ stack@osic-devstack-27:~/devstack$ mkdir ~/images
 stack@osic-devstack-27:~/devstack$ cd ~/images
 stack@osic-devstack-27:~/images$ 
 ```
+
+http://download.cirros-cloud.net/0.3.3/
+
+```sh
+stack@osic-devstack-27:~/images$ wget http://download.cirros-cloud.net/0.3.3/cirros-0.3.3-x86_64-disk.img
+--2016-07-20 16:40:35--  http://download.cirros-cloud.net/0.3.3/cirros-0.3.3-x86_64-disk.img
+Resolving download.cirros-cloud.net (download.cirros-cloud.net)... 64.90.42.85
+Connecting to download.cirros-cloud.net (download.cirros-cloud.net)|64.90.42.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13200896 (13M) [text/plain]
+Saving to: 'cirros-0.3.3-x86_64-disk.img'
+
+100%[==============================================================================================================>] 13,200,896  3.14MB/s   in 4.7s
+
+2016-07-20 16:40:40 (2.70 MB/s) - 'cirros-0.3.3-x86_64-disk.img' saved [13200896/13200896]
+
+stack@osic-devstack-27:~/images$
+```
