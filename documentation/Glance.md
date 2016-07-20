@@ -19,4 +19,6 @@
   - Raw
   - VDI
   - VHD
-  - VMDK 
+  - VMDK
+  - AKI
+  - AMI 
