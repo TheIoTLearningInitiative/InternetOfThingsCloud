@@ -112,3 +112,4 @@ Optional arguments:
 Run `glance --os-image-api-version 1 help image-list` for v1 help
 stack@osic-devstack-27:~/devstack$ 
 ```
+
