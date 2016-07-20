@@ -230,6 +230,10 @@ stack@osic-devstack-27:~/images$
 stack@osic-devstack-27:/opt/stack/data/glance/images$ ls
 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2  2b9c5e8d-4b27-460b-a179-160ae14b896d  ed4ab703-50ee-4436-9a93-d45547788286
 1f09878c-8960-4cdc-8636-7d0f1e2d0060  53a12410-468e-4c1d-a892-da1c0a5ca9e8
+stack@osic-devstack-27:/opt/stack/data/glance/images$ file 010ffd4a-df81-47bc-91a1-9c4f5ead3dc2
+010ffd4a-df81-47bc-91a1-9c4f5ead3dc2: gzip compressed data, from Unix, last modified: Thu May  7 16:46:02 2015, max compression
+stack@osic-devstack-27:/opt/stack/data/glance/images$ file ed4ab703-50ee-4436-9a93-d45547788286
+ed4ab703-50ee-4436-9a93-d45547788286: x86 boot sector
 stack@osic-devstack-27:/opt/stack/data/glance/images$
 ```
 
