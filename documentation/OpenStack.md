@@ -26,7 +26,7 @@
   - Operations Guide
   - Virtual Machine Image Guide
 - [Intel 01 Org OpenStack](https://01.org/openstack)
-- [](https://www.openstacksv.com/2015-archive/2015-videos/)
+- [OpenStack as the Platform for Innovation 2015 Videos](https://www.openstacksv.com/2015-archive/2015-videos/)
 
 ## Mission
 
