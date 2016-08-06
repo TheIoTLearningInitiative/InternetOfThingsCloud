@@ -6,7 +6,8 @@
 
 # Getting Started
 
-## Pip Install
+
+## Apt-Get Install
 
 ```sh
 root@debiando:~# apt-get install python-pip python-dev python-requests
@@ -19,6 +20,8 @@ python-requests is already the newest version.
 0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
 root@debiando:~# 
 ```
+
+## Pip Install
 
 ```sh
    67  pip install shade
