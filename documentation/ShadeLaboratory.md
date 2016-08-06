@@ -884,6 +884,41 @@ image = conn.get_image(image_id)
 print(image)
 ```
 
+```json
+root@debiando:~# python helloshade.py
+Munch({
+  'status': u'active',
+  'properties': {
+    u'iweb__1__visible': u'1',
+    u'version': u'14.04',
+    u'architecture': u'x86_64',
+    u'bild_version': u'41',
+    u'os_type': u'linux',
+    u'virtual_size': u'10737418240',
+    u'distro': u'ubuntu'
+  },
+  'virtual_size': None,
+  'NME_ATTR': 'name',
+  'name': u'Ubuntu 14.04 LTS (Trusty Tahr)',
+  'deleted': False,
+  'checksum': u'9e4c544b79c41f64144b0436824abd2',
+  'created_at': u'2016-03-16T17:52:45.000000',
+  'disk_format': u'qcow2',
+  'updated_at': u'2016-03-16T17:57:04.000000',
+  'ownr': u'b89d3a2aafd74370a5ba516477ab18fb',
+  'human_id': None,
+  'min_disk': 10,
+  'protected': False,
+  'min_ram': 256,
+  'container_frmat': u'bare',
+  'id': u'3c76334f-9644-4666-ac3c-fa090f175655',
+  'is_public': True,
+  'deleted_at': None,
+  'HUMAN_ID': False,
+  'sze': 741267456
+})
+root@debiando:~#
+
 ###
 
 ```sh
