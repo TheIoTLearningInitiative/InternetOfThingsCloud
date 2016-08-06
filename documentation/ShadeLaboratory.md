@@ -24,8 +24,15 @@ root@debiando:~#
 ## Pip Install
 
 ```sh
-   67  pip install shade
-   69  pip install shade
+root@debiando:~# pip install -U pip setuptools requests
+Installing collected packages: pip, setuptools, requests
+Successfully installed pip setuptools requests
+Cleaning up...
+root@debiando:~#
+
+```
+
+```sh
    71  pip install shade
    78  pip install python-novaclient
    80  pip install os_client_config
