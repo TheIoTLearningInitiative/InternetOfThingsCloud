@@ -96,12 +96,8 @@ for image in images:
 
 ```
 
-```sh
+```json
 root@debiando:~# python helloshade.py
-Manager internapNYJ:nyj01 running task GlanceImageList
-DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task GlanceImageList
-Manager internapNYJ:nyj01 ran task GlanceImageList in 0.643980979919s
-DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task GlanceImageList in 0.643980979919s
 Munch({
   'status': u'active',
   'properties': {
