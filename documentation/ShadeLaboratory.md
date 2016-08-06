@@ -1090,6 +1090,51 @@ root@debiando:~# python helloshade.py
 root@debiando:~# 
 ```
 
+```python
+from shade import *
+
+simple_logging(debug=False)
+conn = openstack_cloud(cloud='internapAMS')
+
+#images = conn.list_images()
+#for image in images:
+#    print image
+
+#flavors =  conn.list_flavors()
+#for flavor in flavors:
+#    print(flavor)
+
+image_id = '3c76334f-9644-4666-ac3c-fa090f175655'
+image = conn.get_image(image_id)
+#print(image)
+
+flavor_id = 'A1.1'
+flavor = conn.get_flavor(flavor_id)
+#print(flavor)
+
+networks = conn.list_networks()
+#print networks
+nics=[{'net-id':'93ab6b4f-25e7-44ed-b1a4-671d70b25b69'},{'net-id': '30da5249-14be-4b53-81e6-9b9c1568df67'}]
+
+#instances = conn.list_servers()
+#for instance in instances:
+#    print(instance)
+
+instance_name = 'all-in-one'
+testing_instance = conn.create_server(wait=True,
+    name=instance_name,
+    image=image_id,
+    flavor=flavor_id,
+    nics=nics)
+    #network= network_id,
+    #key_name=keypair_name,
+    #security_groups=['default'],
+    #nics=nics )
+print(testing_instance)
+
+conn.delete_server(name_or_id='all-in-one')
+```
+
 ## T
 
 ```sh
