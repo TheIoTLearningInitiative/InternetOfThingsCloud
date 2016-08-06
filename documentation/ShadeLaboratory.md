@@ -1517,6 +1517,12 @@ else:
     conn.create_security_group_rule(sec_group_name, 80, 80, 'TCP')
     conn.create_security_group_rule(sec_group_name, 22, 22, 'TCP')
 
+ex_userdata = '''#!/usr/bin/env bash
+
+curl -L -s https://git.openstack.org/cgit/openstack/faafo/plain/contrib/install.sh | bash -s -- \
+-i faafo -i messaging -r api -r worker -r demo
+'''
+
 instance_name = 'all-in-one'
 testing_instance = conn.create_server(wait=True,
     name=instance_name,
