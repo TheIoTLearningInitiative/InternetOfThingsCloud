@@ -156,6 +156,7 @@ Munch({'name': u'B1.4', 'ram': 15360, 'ephemeral': 0, 'request_ids': [], 'vcpus'
 Munch({'name': u'B1.8', 'ram': 30720, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'1024000', u'quota:vif_outbound_average': u'1024000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.8', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 160})
 root@debiando:~# 
 ```
+
 ###
 
 ```sh
