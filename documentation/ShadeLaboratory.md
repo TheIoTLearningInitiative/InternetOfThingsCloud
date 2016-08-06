@@ -61,12 +61,19 @@ clouds:
       region_name: 
 ```
 
+```sh
+root@debiando:~# nano helloshade.py
+```
 
 ```python
 from shade import *
 
 simple_logging(debug=True)
 conn = openstack_cloud(cloud='helloshade')
+```
+
+```sh
+
 ```
 
 ```python
