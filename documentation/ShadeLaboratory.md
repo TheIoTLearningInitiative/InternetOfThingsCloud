@@ -77,6 +77,10 @@ root@debiando:~# python helloshade.py
 root@debiando:~# 
 ```
 
+## Flavors and images
+
+
+
 ```python
 ex_userdata = '''#!/usr/bin/env bash
 
