@@ -866,7 +866,7 @@ Munch({
 root@debiando:~# 
 ```
 
-### Images
+### Choose an Image
 
 ```json
   'name': u'Ubuntu 14.04 LTS (Trusty Tahr)',
@@ -921,7 +921,7 @@ Munch({
 root@debiando:~#
 ```
 
-### Flavors
+### Choose a Flavor
 
 ```json
 root@debiando:~# python helloshade.py
