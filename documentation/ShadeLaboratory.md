@@ -27,6 +27,7 @@ root@debiando:~# pip install python-designateclient decorator
 
 ## Credentials
 
+- [Public Clouds](http://git.openstack.org/cgit/openstack/os-client-config/tree/os_client_config/vendors)
 
 ```sh
 root@debiando:~# cat clouds.yaml
