@@ -62,6 +62,21 @@ for keypair in conn.list_keypairs():
 #    print('Security group already exists. Skipping creation.')
 #else:
 #    print('Creating security group.')
+#    conn.create_security_group(sec_group_name, 'network access for all-in-one application.')
+#    conn.create_security_group_rule(sec_group_name, 80, 80, 'TCP')
+#    conn.create_security_group_rule(sec_group_name, 22, 22, 'TCP')
+
+#print(conn.search_security_groups(sec_group_name))
+instance_name = 'all-in-one'
+testing_instance = conn.create_server(wait=True,
+    name=instance_name,
+    image=image_id,
+    flavor=flavor_id,
+    #network= network_id,
+    key_name=keypair_name,
+    security_groups=['default'],
+    nics=nics )
+print(testing_instance)
 
 
 ```
