@@ -1462,7 +1462,7 @@ Munch({
 root@debiando:~# 
 ```
 
-## Delete an Instance
+## Delete an Instance, Id
 
 ```json
 })Munch({
