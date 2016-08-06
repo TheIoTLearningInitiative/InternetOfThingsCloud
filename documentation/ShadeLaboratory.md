@@ -28,8 +28,7 @@ root@debiando:~# pip install -U pip setuptools requests
 Installing collected packages: pip, setuptools, requests
 Successfully installed pip setuptools requests
 Cleaning up...
-root@debiando:~#
-
+root@debiando:~# 
 ```
 
 ```sh
