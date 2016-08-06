@@ -931,6 +931,21 @@ Munch({
   'disk': 20
 ```
 
+```python
+from shade import *
+
+simple_logging(debug=False)
+conn = openstack_cloud(cloud='internapNYJ')
+
+#image_id = '3c76334f-9644-4666-ac3c-fa090f175655'
+#image = conn.get_image(image_id)
+#print(image)
+
+flavor_id = 'A1.1'
+flavor = conn.get_flavor(flavor_id)
+print(flavor)
+```
+
 ```json
 root@debiando:~# python helloshade.py
 Munch({
