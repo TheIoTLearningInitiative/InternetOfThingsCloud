@@ -974,16 +974,52 @@ Munch({
 })
 ```
 
-## Launch an Instance
-
+### Networks
 
 ```sh
 root@debiando:~# nano helloshade.py
 ```
 
+```python
+```
+
 ```sh
 root@debiando:~# python helloshade.py
-root@debiando:~# 
+[
+  {
+    u'status': u'ACTIVE',
+    u'subnets': [
+      u'04b7d789-ed78-48f6-8aed-7afd4b94c16e'
+    ],
+    u'name': u'inap-18085-LAN3216',
+    u'provider:physical_network': u'physnet0',
+    u'router:external': False,
+    u'tenant_id': u'52929a0acea0413d8c7c2df2445790fc',
+    u'admin_state_up': True,
+    u'mtu': 0,
+    u'shared': False,
+    u'provider:network_type': u'vlan',
+    u'id': u'30da5249-14be-4b53-81e6-9b9c1568df67',
+    u'provider:segmentation_id': 3216
+  },
+  {
+    u'status': u'ACTIVE',
+    u'subnets': [
+      u'5a98b90c-53ee-4005-a059-c3fa41747a10'
+    ],
+    u'name': u'inap-18085-WAN2229',
+    u'provider:physical_network': u'physnet0',
+    u'router:external': False,
+    u'tenant_id': u'52929a0acea0413d8c7c2df2445790fc',
+    u'admin_state_up': True,
+    u'mtu': 0,
+    u'shared': False,
+    u'provider:network_type': u'vlan',
+    u'id': u'93ab6b4f-25e7-44ed-b1a4-671d70b25b69',
+    u'provider:segmentation_id': 2229
+  }
+]
+root@debiando:~#
 ```
 
 ###
