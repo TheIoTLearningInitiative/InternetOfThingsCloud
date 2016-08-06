@@ -1369,10 +1369,6 @@ testing_instance = conn.create_server(wait=True,
     image=image_id,
     flavor=flavor_id,
     nics=nics)
-    #network= network_id,
-    #key_name=keypair_name,
-    #security_groups=['default'],
-    #nics=nics )
 print(testing_instance)
 
 conn.delete_server(name_or_id='all-in-one')
