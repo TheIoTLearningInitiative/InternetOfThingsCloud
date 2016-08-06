@@ -113,6 +113,119 @@ Munch({'status': u'active', 'properties': {u'iweb__1__visible': u'1', u'version'
 root@debiando:~# 
 ```
 
+
+
+```sh
+root@debiando:~# nano helloshade.py
+```
+
+```python
+
+```
+
+```
+root@debiando:~# python helloshade.py
+Manager internapNYJ:nyj01 running task FlavorList
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorList
+Manager internapNYJ:nyj01 ran task FlavorList in 1.67418909073s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorList in 1.67418909073s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.112635135651s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.112635135651s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.116094112396s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.116094112396s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.137079954147s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.137079954147s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125468969345s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125468969345s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.126094818115s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.126094818115s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125627994537s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125627994537s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.116523981094s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.116523981094s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.131273031235s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.131273031235s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.119714975357s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.119714975357s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.120121955872s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.120121955872s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.118479013443s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.118479013443s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.131708860397s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.131708860397s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.135468959808s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.135468959808s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.257896900177s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.257896900177s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.122370958328s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.122370958328s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125194072723s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.125194072723s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.183553934097s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.183553934097s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.12376999855s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.12376999855s
+Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 running task FlavorGetExtraSpecs
+Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.117234945297s
+DEBUG:shade.TaskManager:Manager internapNYJ:nyj01 ran task FlavorGetExtraSpecs in 0.117234945297s
+Munch({'name': u'A1.1', 'ram': 1024, 'ephemeral': 0, 'request_ids': [], 'vcpus': 1, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.1', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 20})
+Munch({'name': u'A1.16', 'ram': 16384, 'ephemeral': 0, 'request_ids': [], 'vcpus': 16, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.16', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 320})
+Munch({'name': u'A1.2', 'ram': 2048, 'ephemeral': 0, 'request_ids': [], 'vcpus': 2, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.2', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 40})
+Munch({'name': u'A1.4', 'ram': 4096, 'ephemeral': 0, 'request_ids': [], 'vcpus': 4, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.4', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 80})
+Munch({'name': u'A1.8', 'ram': 8192, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.8', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 160})
+Munch({'name': u'AS2.1xE3-1230v2.8GB.1x1TB.HDD.1GbE', 'ram': 8192, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'1', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'1000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'1000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.1xE3-1230v2.8GB.1x1TB.HDD.1GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 1000})
+Munch({'name': u'AS2.1xE3-1270v2.32GB.1x1TB.HDD.1GbE', 'ram': 32768, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'1', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'1000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'1000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.1xE3-1270v2.32GB.1x1TB.HDD.1GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 1000})
+Munch({'name': u'AS2.1xE5-1620v3.32GB.1x2TB.HDD.1GbE', 'ram': 32768, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'1', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'2000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'1000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.1xE5-1620v3.32GB.1x2TB.HDD.1GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 2000})
+Munch({'name': u'AS2.1xE5-1650v3.64GB.1x2TB.HDD.1GbE', 'ram': 65536, 'ephemeral': 0, 'request_ids': [], 'vcpus': 12, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'1', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'2000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'1000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.1xE5-1650v3.64GB.1x2TB.HDD.1GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 2000})
+Munch({'name': u'AS2.2xE5-2620v1.32GB.1x1TB.HDD.1GbE', 'ram': 32768, 'ephemeral': 0, 'request_ids': [], 'vcpus': 24, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'2', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'1000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'1000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.2xE5-2620v1.32GB.1x1TB.HDD.1GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 1000})
+Munch({'name': u'AS2.2xE5-2620v3.64GB.1x2TB.HDD.10GbE', 'ram': 65536, 'ephemeral': 0, 'request_ids': [], 'vcpus': 24, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'2', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'2000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'10000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.2xE5-2620v3.64GB.1x2TB.HDD.10GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 2000})
+Munch({'name': u'AS2.2xE5-2620v3.64GB.1x480GB.SSD.10GbE', 'ram': 65536, 'ephemeral': 0, 'request_ids': [], 'vcpus': 24, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'2', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'SSD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'480', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'10000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.2xE5-2620v3.64GB.1x480GB.SSD.10GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 480})
+Munch({'name': u'AS2.2xE5-2630v3.64GB.1x2TB.HDD.10GbE', 'ram': 65536, 'ephemeral': 0, 'request_ids': [], 'vcpus': 32, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'2', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'HDD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'2000', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'10000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.2xE5-2630v3.64GB.1x2TB.HDD.10GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 2000})
+Munch({'name': u'AS2.2xE5-2630v3.64GB.1x480GB.SSD.10GbE', 'ram': 65536, 'ephemeral': 0, 'request_ids': [], 'vcpus': 32, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'capabilities:hardware_cpu_count': u'2', u'network:supported_models': u'lacp,flat,active_passive', u'capabilities:hardware_storage_1_type': u'SSD', u'capabilities:network_model': u'<in> bond', u'capabilities:hardware_storage_1_size_gb': u'480', u'capabilities:hardware_storage_raid_controller': u'None', u'capabilities:hardware_cpu_model': u'Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz', u'capabilities:hardware_storage_count': u'1', u'class': u'metal', u'capabilities:hardware_network_link_speed_mbit': u'10000'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'AS2.2xE5-2630v3.64GB.1x480GB.SSD.10GbE', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 480})
+Munch({'name': u'B1.1', 'ram': 4096, 'ephemeral': 0, 'request_ids': [], 'vcpus': 1, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'507000', u'quota:vif_outbound_average': u'507000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.1', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 20})
+Munch({'name': u'B1.16', 'ram': 61440, 'ephemeral': 0, 'request_ids': [], 'vcpus': 16, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'1024000', u'quota:vif_outbound_average': u'1024000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.16', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 320})
+Munch({'name': u'B1.2', 'ram': 8192, 'ephemeral': 0, 'request_ids': [], 'vcpus': 2, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'507000', u'quota:vif_outbound_average': u'507000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.2', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 40})
+Munch({'name': u'B1.4', 'ram': 15360, 'ephemeral': 0, 'request_ids': [], 'vcpus': 4, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'1024000', u'quota:vif_outbound_average': u'1024000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.4', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 80})
+Munch({'name': u'B1.8', 'ram': 30720, 'ephemeral': 0, 'request_ids': [], 'vcpus': 8, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'1024000', u'quota:vif_outbound_average': u'1024000', u'cpu_allocation_ratio': u'1'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'B1.8', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 160})
+root@debiando:~# 
+```
 ###
 
 ```sh
