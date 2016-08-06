@@ -74,7 +74,7 @@ conn = openstack_cloud(cloud='')
 
 ```sh
 root@debiando:~# python helloshade.py
-root@debiando:~#
+root@debiando:~# 
 ```
 
 ```python
