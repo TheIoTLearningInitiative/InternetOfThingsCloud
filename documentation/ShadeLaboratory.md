@@ -866,6 +866,13 @@ Munch({
 root@debiando:~# 
 ```
 
+
+```json
+  'name': u'Ubuntu 14.04 LTS (Trusty Tahr)',
+  ...
+  'id': u'3c76334f-9644-4666-ac3c-fa090f175655',
+```
+
 ###
 
 ```sh
