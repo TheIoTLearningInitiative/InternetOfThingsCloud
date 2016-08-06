@@ -33,6 +33,16 @@ root@debiando:~# pip install python-designateclient decorator
 - [Public Clouds](http://git.openstack.org/cgit/openstack/os-client-config/tree/os_client_config/vendors)
 
 ```sh
+my-provider:
+    profile: $PROVIDER_NAME
+    auth:
+        username: $YOUR_USERNAME
+        password: $YOUR_PASSWORD
+        project_name: $YOUR_PROJECT
+    region_name: $REGION
+```
+
+```sh
 root@debiando:~# cat clouds.yaml
 clouds:
   internapNYJ:
