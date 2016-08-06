@@ -6,6 +6,38 @@
 
 # Getting Started
 
+## Pip Install
+
+```sh
+   67  pip install shade
+   69  pip install shade
+   71  pip install shade
+   78  pip install python-novaclient
+   80  pip install os_client_config
+   81  pip install setuptools
+   83  pip install utils
+   84  pip install -U pip setuptools
+   85  pip install -U requests pip setuptools
+   86  pip install distutils
+   91  pip install shade
+   95  pip install os_client_config
+   96  pip install os-client-config
+   99  pip install shade
+  100  pip install os-client-config
+  102  pip install ipaddress
+  104  pip install oslo-config
+  105  pip install oslo.config
+  107  pip install python-heatclient
+  110  pip install futures
+  112  pip install python-designaclient
+  113  pip install python-designateclient
+  115  pip install decorator
+  117  pip install ironicclient
+  118  pip install python-ironicclient
+  329  history | grep "pip install"
+```
+
+
 - [](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
 ```sh
