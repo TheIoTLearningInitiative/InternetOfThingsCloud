@@ -1725,7 +1725,7 @@ PING 172.27.107.78 (172.27.107.78) 56(84) bytes of data.
 --- 172.27.107.78 ping statistics ---
 8 packets transmitted, 0 received, 100% packet loss, time 7055ms
 
-root@debiando:~#
+root@debiando:~# 
 ```
 
 ## Delete an Instance, Id
