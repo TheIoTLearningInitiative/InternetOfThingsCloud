@@ -32,4 +32,36 @@ image = conn.get_image(image_id)
 flavor_id = 'A1.1'
 flavor = conn.get_flavor(flavor_id)
 #print(flavor)
+network= conn.list_networks()
+#network_id = '93ab6b4f-25e7-44ed-b1a4-671d70b25b69'
+nics=[{'net-id':'93ab6b4f-25e7-44ed-b1a4-671d70b25b69'},{'net-id': '30da5249-14be-4b53-81e6-9b9c1568df67'}]
+
+#print(network)
+
+
+# this is for delete an instance
+
+print('Checking for existing SSH keypair...')
+keypair_name = 'demokey'
+pub_key_file = '/root/.ssh/id_rsa.pub'
+
+if conn.search_keypairs(keypair_name):
+    print('Keypair already exists. Skipping import.')
+else:
+    print('Adding keypair...')
+    conn.create_keypair(keypair_name, open(pub_key_file, 'r').read().strip())
+
+for keypair in conn.list_keypairs():
+    print(keypair)
+
+#f_ip=conn.available_floating_ip()
+
+#print('Checking for existing security groups...')
+#sec_group_name = 'all-in-one'
+#if conn.search_security_groups(sec_group_name):
+#    print('Security group already exists. Skipping creation.')
+#else:
+#    print('Creating security group.')
+
+
 ```
