@@ -1333,11 +1333,6 @@ root@debiando:~#
 root@debiando:~# nano helloshade.py
 ```
 
-```sh
-root@debiando:~# python helloshade.py
-root@debiando:~# 
-```
-
 ```python
 from shade import *
 
@@ -1381,6 +1376,94 @@ testing_instance = conn.create_server(wait=True,
 print(testing_instance)
 
 conn.delete_server(name_or_id='all-in-one')
+```
+
+```json
+root@debiando:~# python helloshade.py
+Munch({
+  'OS-EXT-STS:task_state': None,
+  'addresses': {
+    u'inap-18085-WAN2229': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:6d:c8:fe',
+        u'version': 4,
+        u'addr': u'173.231.190.181',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ],
+    u'inap-18085-LAN3216': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:87:6b:ec',
+        u'version': 4,
+        u'addr': u'172.27.107.75',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ]
+  },
+  'image': {
+    u'id': u'3c76334f-9644-4666-ac3c-fa090f175655'
+  },
+  'OS-EXT-STS:vm_state': u'active',
+  'flavor': {
+    u'id': u'A1.1'
+  },
+  'networks': {
+    u'inap-18085-WAN2229': [
+      u'173.231.190.181'
+    ],
+    u'inap-18085-LAN3216': [
+      u'172.27.107.75'
+    ]
+  },
+  'security_groups': [
+    {
+      u'name': u'default'
+    },
+    {
+      u'name': u'default'
+    }
+  ],
+  'user_id': u'a0ddecadfeeb4a48ada185ada7768a60',
+  'id': u'65faf903-12bc-488c-ab56-7e56687c3dd1',
+  'accessIPv4': u'172.27.107.75',
+  'accessIPv6': '',
+  'cloud': 'internapNYJ',
+  'public_v4': u'172.27.107.75',
+  'progress': 0,
+  'OS-EXT-STS:power_state': 1,
+  'interface_ip': u'172.27.107.75',
+  'metadata': {
+    
+  },
+  'status': u'ACTIVE',
+  'updated': u'2016-08-06T21:40:17Z',
+  'hostId': u'b0f1c9271c85f8f97b0374b27d804296dab15ad4914b41d8e9ceee10',
+  'NAME_ATTR': 'name',
+  'key_name': None,
+  'public_v6': '',
+  'request_ids': [
+    
+  ],
+  'private_v4': '',
+  'name': u'all-in-one',
+  'created': u'2016-08-06T21:40:09Z',
+  'tenant_id': u'52929a0acea0413d8c7c2df2445790fc',
+  'region': 'nyj01',
+  'adminPass': u'Y2nvrzKySDf3',
+  'x_openstack_request_ids': [
+    
+  ],
+  'os-extended-volumes:volumes_attached': [
+    
+  ],
+  'volumes': [
+    
+  ],
+  'config_drive': u'True',
+  'human_id': u'all-in-one',
+  'HUMAN_ID': True
+})
+root@debiando:~# 
 ```
 
 ## Delete an Instance
