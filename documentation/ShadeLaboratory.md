@@ -1712,6 +1712,22 @@ Munch({
 root@debiando:~# 
 ```
 
+```sh
+root@debiando:~# ping 173.231.190.184
+PING 173.231.190.184 (173.231.190.184) 56(84) bytes of data.
+^C
+--- 173.231.190.184 ping statistics ---
+37 packets transmitted, 0 received, 100% packet loss, time 35999ms
+
+root@debiando:~# ping 172.27.107.78
+PING 172.27.107.78 (172.27.107.78) 56(84) bytes of data.
+^C
+--- 172.27.107.78 ping statistics ---
+8 packets transmitted, 0 received, 100% packet loss, time 7055ms
+
+root@debiando:~#
+```
+
 ## Delete an Instance, Id
 
 ```json
