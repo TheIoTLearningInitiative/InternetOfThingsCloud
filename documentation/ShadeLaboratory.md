@@ -932,7 +932,31 @@ Munch({
 ```
 
 ```json
-Munch({'name': u'A1.1', 'ram': 1024, 'ephemeral': 0, 'request_ids': [], 'vcpus': 1, 'x_openstack_request_ids': [], 'extra_specs': Munch({u'quota:vif_inbound_average': u'102400', u'quota:vif_outbound_average': u'102400', u'cpu_allocation_ratio': u'3'}), 'swap': u'', 'os-flavor-access:is_public': True, 'rxtx_factor': 1.0, 'id': u'A1.1', 'is_public': True, 'OS-FLV-EXT-DATA:ephemeral': 0, 'disk': 20})
+root@debiando:~# python helloshade.py
+Munch({
+  'name': u'A1.1',
+  'ram': 1024,
+  'ephemeral': 0,
+  'request_ids': [
+    
+  ],
+  'vcpus': 1,
+  'x_openstack_request_ids': [
+    
+  ],
+  'extra_specs': Munch({
+    u'quota:vif_inbound_average': u'102400',
+    u'quota:vif_outbound_average': u'102400',
+    u'cpu_allocation_ratio': u'3'
+  }),
+  'swap': u'',
+  'os-flavor-access:is_public': True,
+  'rxtx_factor': 1.0,
+  'id': u'A1.1',
+  'is_public': True,
+  'OS-FLV-EXT-DATA:ephemeral': 0,
+  'disk': 20
+})
 ```
 
 ###
