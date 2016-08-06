@@ -79,6 +79,11 @@ root@debiando:~#
 
 ## Flavors and images
 
+
+```sh
+root@debiando:~# nano helloshade.py
+```
+
 ```python
 from shade import *
 
@@ -90,6 +95,25 @@ for image in images:
     print(image)
 
 ```
+
+```sh
+root@debiando:~# python helloshade.py
+root@debiando:~# 
+```
+
+###
+
+```sh
+root@debiando:~# nano helloshade.py
+```
+
+```sh
+root@debiando:~# python helloshade.py
+root@debiando:~# 
+```
+
+```python
+
 
 ```python
 ex_userdata = '''#!/usr/bin/env bash
