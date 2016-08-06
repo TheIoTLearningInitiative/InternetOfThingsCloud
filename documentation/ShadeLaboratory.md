@@ -1280,6 +1280,10 @@ conn.delete_server(name_or_id='all-in-one')
   'metadata': {
 ```
 
+```python
+conn.delete_server(name_or_id='487a6b7e-c4f4-4097-a2fa-8a9399f9b76e')
+```
+
 ## T
 
 ```sh
@@ -1290,4 +1294,3 @@ root@debiando:~# nano helloshade.py
 root@debiando:~# python helloshade.py
 root@debiando:~# 
 ```
-
