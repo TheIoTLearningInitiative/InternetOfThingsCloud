@@ -873,6 +873,17 @@ root@debiando:~#
   'id': u'3c76334f-9644-4666-ac3c-fa090f175655',
 ```
 
+```python
+from shade import *
+
+simple_logging(debug=False)
+conn = openstack_cloud(cloud='internapNYJ')
+
+image_id = '3c76334f-9644-4666-ac3c-fa090f175655'
+image = conn.get_image(image_id)
+print(image)
+```
+
 ###
 
 ```sh
