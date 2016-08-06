@@ -974,7 +974,7 @@ Munch({
 })
 ```
 
-### Networks
+### Choose a Network
 
 ```sh
 root@debiando:~# nano helloshade.py
@@ -1034,6 +1034,21 @@ root@debiando:~# python helloshade.py
     u'provider:segmentation_id': 2229
   }
 ]
+root@debiando:~#
+```
+
+### Show an Instance
+
+```sh
+root@debiando:~# nano helloshade.py
+```
+
+```python
+
+```
+
+```sh
+root@debiando:~# python helloshade.py
 root@debiando:~#
 ```
 
