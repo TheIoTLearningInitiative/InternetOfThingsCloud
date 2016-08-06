@@ -1047,7 +1047,7 @@ root@debiando:~# nano helloshade.py
 from shade import *
 
 simple_logging(debug=False)
-conn = openstack_cloud(cloud='internapAMS')
+conn = openstack_cloud(cloud='internapNJY')
 
 #images = conn.list_images()
 #for image in images:
@@ -1094,7 +1094,7 @@ root@debiando:~#
 from shade import *
 
 simple_logging(debug=False)
-conn = openstack_cloud(cloud='internapAMS')
+conn = openstack_cloud(cloud='internapNYJ')
 
 #images = conn.list_images()
 #for image in images:
