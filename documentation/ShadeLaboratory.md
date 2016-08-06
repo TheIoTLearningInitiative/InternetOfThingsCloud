@@ -7,6 +7,7 @@
 # Getting Started
 
 - [Getting Started](http://developer.openstack.org/firstapp-shade/getting_started.html)
+- [Shade Documentation](http://docs.openstack.org/infra/shade/)
 
 ## Choose your OpenStack SDK
 
@@ -31,7 +32,6 @@ root@debiando:~# pip install python-designateclient decorator
 ## How you interact with OpenStack
 
 - [Public Clouds](http://git.openstack.org/cgit/openstack/os-client-config/tree/os_client_config/vendors)
-- [](http://docs.openstack.org/infra/shade/)
 
 ```sh
 my-provider:
