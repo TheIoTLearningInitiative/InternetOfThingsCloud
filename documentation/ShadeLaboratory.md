@@ -1534,6 +1534,90 @@ print(testing_instance)
 conn.delete_server(name_or_id='all-in-one')
 ```
 
+## Final
+
+```python
+from shade import *
+
+simple_logging(debug=False)
+conn = openstack_cloud(cloud='internapNYJ')
+
+#images = conn.list_images()
+#for image in images:
+#    print image
+
+#flavors =  conn.list_flavors()
+#for flavor in flavors:
+#    print(flavor)
+
+image_id = '3c76334f-9644-4666-ac3c-fa090f175655'
+image = conn.get_image(image_id)
+#print(image)
+
+flavor_id = 'A1.1'
+flavor = conn.get_flavor(flavor_id)
+#print(flavor)
+
+networks = conn.list_networks()
+#print networks
+nics=[{'net-id':'93ab6b4f-25e7-44ed-b1a4-671d70b25b69'},{'net-id': '30da5249-14be-4b53-81e6-9b9c1568df67'}]
+
+instances = conn.list_servers()
+for instance in instances:
+    print(instance)
+
+print('Checking for existing SSH keypair...')
+keypair_name = 'demokey'
+pub_key_file = '/home/username/.ssh/id_rsa.pub'
+
+if conn.search_keypairs(keypair_name):
+    print('Keypair already exists. Skipping import.')
+else:
+    print('Adding keypair...')
+    conn.create_keypair(keypair_name, open(pub_key_file, 'r').read().strip())
+
+for keypair in conn.list_keypairs():
+    print(keypair)
+
+print('Checking for existing security groups...')
+
+sec_group_name = 'all-in-one'
+if conn.search_security_groups(sec_group_name):
+    print('Security group already exists. Skipping creation.')
+else:
+    print('Creating security group.')
+    conn.create_security_group(sec_group_name, 'network access for all-in-one application.')
+    conn.create_security_group_rule(sec_group_name, 80, 80, 'TCP')
+    conn.create_security_group_rule(sec_group_name, 22, 22, 'TCP')
+
+conn.search_security_groups(sec_group_name)
+
+ex_userdata = '''#!/usr/bin/env bash
+
+curl -L -s https://git.openstack.org/cgit/openstack/faafo/plain/contrib/install.sh | bash -s -- \
+-i faafo -i messaging -r api -r worker -r demo
+
+instance_name = 'all-in-one'
+testing_instance = conn.create_server(wait=True, auto_ip=False,
+    name=instance_name,
+    image=image_id,
+    flavor=flavor_id,
+    nics=nics,
+    key_name=keypair_name,
+    security_groups=[sec_group_name],
+    userdata=ex_userdata)
+    #network= network_id,
+    #key_name=keypair_name,
+    #security_groups=['default'],
+    #nics=nics )
+print "--------------------------------------------------------------"
+print(testing_instance)
+
+conn.delete_server(name_or_id='all-in-one')
+#conn.delete_server(name_or_id='43493e1e-7c5f-4670-a30b-62ab6e92b4f2')
+#conn.delete_server(name_or_id='56a23e03-bffb-4df1-a76f-ba8a97e11f78')
+
+```
 
 ## Delete an Instance, Id
 
