@@ -4,6 +4,8 @@
 [Writing your first OpenStack application](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
 
+
+
 ```python
 ex_userdata = '''#!/usr/bin/env bash
 
