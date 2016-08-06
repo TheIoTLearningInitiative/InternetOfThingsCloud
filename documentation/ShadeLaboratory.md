@@ -17,22 +17,9 @@ root@debiando:~# apt-get install python-pip python-dev python-requests
 
 ```sh
 root@debiando:~# pip install -U pip setuptools requests
-```
-
-```sh
 root@debiando:~# pip install shade os-client-config ipaddress oslo.config python-heatclient futures
-```
-
-```sh
 root@debiando:~# pip install python-ironicclient
-```
-
-```sh
 root@debiando:~# pip install python-designateclient decorator
-Requirement already satisfied (use --upgrade to upgrade): python-designateclient in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): decorator in /usr/local/lib/python2.7/dist-packages
-Cleaning up...
-root@debiando:~#
 ```
 
 - [](http://developer.openstack.org/firstapp-shade/getting_started.html)
