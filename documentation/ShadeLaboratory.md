@@ -866,6 +866,7 @@ Munch({
 root@debiando:~# 
 ```
 
+### Images
 
 ```json
   'name': u'Ubuntu 14.04 LTS (Trusty Tahr)',
@@ -919,7 +920,6 @@ Munch({
 })
 root@debiando:~#
 ```
-
 
 ### Flavors
 
