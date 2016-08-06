@@ -924,12 +924,12 @@ root@debiando:~#
 ### Flavors
 
 ```json
+root@debiando:~# python helloshade.py
 Munch({
   'name': u'A1.1',
   'ram': 1024,
-  'ephemeral': 0,
-  'request_ids': [
-    
+  ...
+  'disk': 20
 ```
 ###
 
