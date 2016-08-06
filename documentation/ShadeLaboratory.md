@@ -1222,6 +1222,64 @@ print(testing_instance)
 conn.delete_server(name_or_id='all-in-one')
 ```
 
+## Delete an Instance
+
+```json
+})Munch({
+  'OS-EXT-STS:task_state': None,
+  'addresses': {
+    u'inap-18085-WAN2229': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:ad:4e:c8',
+        u'version': 4,
+        u'addr': u'173.231.190.188',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ],
+    u'inap-18085-LAN3216': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:01:c4:36',
+        u'version': 4,
+        u'addr': u'172.27.107.71',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ]
+  },
+  'image': {
+    u'id': u'3c76334f-9644-4666-ac3c-fa090f175655'
+  },
+  'OS-EXT-STS:vm_state': u'active',
+  'flavor': {
+    u'id': u'A1.1'
+  },
+  'networks': {
+    u'inap-18085-WAN2229': [
+      u'173.231.190.188'
+    ],
+    u'inap-18085-LAN3216': [
+      u'172.27.107.71'
+    ]
+  },
+  'security_groups': [
+    {
+      u'name': u'default'
+    },
+    {
+      u'name': u'default'
+    }
+  ],
+  'user_id': u'a0ddecadfeeb4a48ada185ada7768a60',
+  'id': u'487a6b7e-c4f4-4097-a2fa-8a9399f9b76e',
+  'accessIPv4': u'172.27.107.71',
+  'accessIPv6': '',
+  'cloud': 'internapNYJ',
+  'public_v4': u'172.27.107.71',
+  'progress': 0,
+  'OS-EXT-STS:power_state': 1,
+  'interface_ip': u'172.27.107.71',
+  'metadata': {
+```
+
 ## T
 
 ```sh
