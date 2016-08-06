@@ -974,7 +974,17 @@ Munch({
 })
 ```
 
-### 
+## Launch an Instance
+
+
+```sh
+root@debiando:~# nano helloshade.py
+```
+
+```sh
+root@debiando:~# python helloshade.py
+root@debiando:~# 
+```
 
 ###
 
