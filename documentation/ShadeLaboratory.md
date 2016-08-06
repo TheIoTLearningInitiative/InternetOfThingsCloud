@@ -69,11 +69,12 @@ root@debiando:~# nano helloshade.py
 from shade import *
 
 simple_logging(debug=True)
-conn = openstack_cloud(cloud='helloshade')
+conn = openstack_cloud(cloud='')
 ```
 
 ```sh
-
+root@debiando:~# python helloshade.py
+root@debiando:~#
 ```
 
 ```python
