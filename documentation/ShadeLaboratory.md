@@ -32,6 +32,18 @@ root@debiando:~#
 ```
 
 ```sh
+root@debiando:~# pip install shade os-client-config ipaddress oslo.config python-heatclient futures
+Requirement already satisfied (use --upgrade to upgrade): shade in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): os-client-config in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): ipaddress in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): oslo.config in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): python-heatclient in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): futures in /usr/local/lib/python2.7/dist-packages
+Cleaning up...
+root@debiando:~# 
+```
+
+```sh
    71  pip install shade
    78  pip install python-novaclient
    80  pip install os_client_config
