@@ -1076,6 +1076,88 @@ for instance in instances:
 
 ```sh
 root@debiando:~# python helloshade.py
+Munch({
+  'OS-EXT-STS:task_state': None,
+  'addresses': {
+    u'inap-18085-WAN2229': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:2b:1c:21',
+        u'version': 4,
+        u'addr': u'173.231.190.189',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ],
+    u'inap-18085-LAN3216': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:51:90:21',
+        u'version': 4,
+        u'addr': u'172.27.107.72',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ]
+  },
+  'image': {
+    u'id': u'3c76334f-9644-4666-ac3c-fa090f175655'
+  },
+  'OS-EXT-STS:vm_state': u'active',
+  'flavor': {
+    u'id': u'A1.1'
+  },
+  'networks': {
+    u'inap-18085-WAN2229': [
+      u'173.231.190.189'
+    ],
+    u'inap-18085-LAN3216': [
+      u'172.27.107.72'
+    ]
+  },
+  'security_groups': [
+    {
+      u'name': u'default'
+    },
+    {
+      u'name': u'default'
+    }
+  ],
+  'user_id': u'a0ddecadfeeb4a48ada185ada7768a60',
+  'id': u'9b7b32d7-e4be-4997-a60a-9693d89d3367',
+  'accessIPv4': u'172.27.107.72',
+  'accessIPv6': '',
+  'cloud': 'internapNYJ',
+  'public_v4': u'172.27.107.72',
+  'progress': 0,
+  'OS-EXT-STS:power_state': 1,
+  'interface_ip': u'172.27.107.72',
+  'metadata': {
+    
+  },
+  'status': u'ACTIVE',
+  'updated': u'2016-08-06T20:59:30Z',
+  'hostId': u'aaba26c78c05385a9c638dcc0be3ea6e55693c0dc89f247550a87952',
+  'NAME_ATTR': 'name',
+  'key_name': None,
+  'public_v6': '',
+  'request_ids': [
+    
+  ],
+  'private_v4': '',
+  'name': u'all-in-one',
+  'created': u'2016-08-06T20:59:21Z',
+  'tenant_id': u'52929a0acea0413d8c7c2df2445790fc',
+  'region': 'nyj01',
+  'x_openstack_request_ids': [
+    
+  ],
+  'os-extended-volumes:volumes_attached': [
+    
+  ],
+  'volumes': [
+    
+  ],
+  'config_drive': u'True',
+  'human_id': u'all-in-one',
+  'HUMAN_ID': True
+})
 root@debiando:~#
 ```
 
