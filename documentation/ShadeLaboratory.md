@@ -21,7 +21,7 @@ root@debiando:~# pip install -U pip setuptools requests
 root@debiando:~# pip install os-client-config ipaddress oslo.config python-heatclient futures
 root@debiando:~# pip install python-ironicclient
 root@debiando:~# pip install python-designateclient decorator
-root@debiando:~# pip install shade 
+root@debiando:~# pip install shade
 ```
 ## Credentials
 
