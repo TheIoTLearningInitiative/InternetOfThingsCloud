@@ -60,6 +60,7 @@
                * [Laboratory](documentation/GlanceLaboratory.md)
                    * [Invisble To Admin](documentation/GlanceInvisbleToAdmin.md)
            * [Keystone](documentation/ComponentsKeystone.md)
+           * Shade
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
