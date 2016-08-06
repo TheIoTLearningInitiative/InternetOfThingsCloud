@@ -1596,6 +1596,7 @@ ex_userdata = '''#!/usr/bin/env bash
 
 curl -L -s https://git.openstack.org/cgit/openstack/faafo/plain/contrib/install.sh | bash -s -- \
 -i faafo -i messaging -r api -r worker -r demo
+'''
 
 instance_name = 'all-in-one'
 testing_instance = conn.create_server(wait=True, auto_ip=False,
