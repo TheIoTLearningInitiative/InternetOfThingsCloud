@@ -120,7 +120,14 @@ root@debiando:~# nano helloshade.py
 ```
 
 ```python
+from shade import *
 
+simple_logging(debug=True)
+conn = openstack_cloud(cloud='internapNYJ')
+
+flavors =  conn.list_flavors()
+for flavor in flavors:
+    print(flavor)
 ```
 
 ```
