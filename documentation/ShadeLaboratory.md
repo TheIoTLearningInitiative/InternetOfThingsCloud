@@ -364,7 +364,7 @@ for flavor in flavors:
     print(flavor)
 ```
 
-```
+```json
 root@debiando:~# python helloshade.py
 Munch({
   'name': u'A1.1',
