@@ -5,3 +5,6 @@
 ```sh
 root@debiando:~# apt-get install gem
 ```
+
+[Authentication](https://cloud.digitalocean.com/settings/api/tokens)
+
