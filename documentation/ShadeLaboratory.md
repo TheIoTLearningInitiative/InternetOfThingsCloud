@@ -62,6 +62,12 @@ clouds:
 ```
 
 
+```python
+from shade import *
+
+simple_logging(debug=True)
+conn = openstack_cloud(cloud='helloshade')
+```
 
 ```python
 ex_userdata = '''#!/usr/bin/env bash
