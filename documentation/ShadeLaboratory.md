@@ -1791,7 +1791,7 @@ root@debiando:~#
 conn.delete_server(name_or_id='487a6b7e-c4f4-4097-a2fa-8a9399f9b76e')
 ```
 
-## T
+## Template
 
 ```sh
 root@debiando:~# nano helloshade.py
