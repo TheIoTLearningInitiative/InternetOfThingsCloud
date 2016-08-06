@@ -882,9 +882,6 @@ root@debiando:~#
 ```
 
 ```python
-
-
-```python
 ex_userdata = '''#!/usr/bin/env bash
 
 curl -L -s https://git.openstack.org/cgit/openstack/faafo/plain/contrib/install.sh | bash -s -- \
