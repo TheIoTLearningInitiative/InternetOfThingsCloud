@@ -1494,14 +1494,6 @@ nics=[{'net-id':'93ab6b4f-25e7-44ed-b1a4-671d70b25b69'},{'net-id': '30da5249-14b
 #for instance in instances:
 #    print(instance)
 
-instance_name = 'all-in-one'
-testing_instance = conn.create_server(wait=True,
-    name=instance_name,
-    image=image_id,
-    flavor=flavor_id,
-    nics=nics)
-print(testing_instance)
-
 print('Checking for existing SSH keypair...')
 keypair_name = 'demokey'
 pub_key_file = '/home/username/.ssh/id_rsa.pub'
@@ -1524,6 +1516,14 @@ else:
     conn.create_security_group(sec_group_name, 'network access for all-in-one application.')
     conn.create_security_group_rule(sec_group_name, 80, 80, 'TCP')
     conn.create_security_group_rule(sec_group_name, 22, 22, 'TCP')
+
+instance_name = 'all-in-one'
+testing_instance = conn.create_server(wait=True,
+    name=instance_name,
+    image=image_id,
+    flavor=flavor_id,
+    nics=nics)
+print(testing_instance)
 
 conn.delete_server(name_or_id='all-in-one')
 ```
