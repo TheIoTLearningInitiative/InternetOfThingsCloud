@@ -918,7 +918,19 @@ Munch({
   'sze': 741267456
 })
 root@debiando:~#
+```
 
+
+### Flavors
+
+```json
+Munch({
+  'name': u'A1.1',
+  'ram': 1024,
+  'ephemeral': 0,
+  'request_ids': [
+    
+```
 ###
 
 ```sh
