@@ -12,13 +12,15 @@
 
 Python!
 
-## Apt-Get Install
+## What you need
+
+### Apt-Get Install
 
 ```sh
 root@debiando:~# apt-get install python-pip python-dev python-requests
 ```
 
-## Pip Install
+### Pip Install
 
 ```sh
 root@debiando:~# pip install -U pip setuptools requests
