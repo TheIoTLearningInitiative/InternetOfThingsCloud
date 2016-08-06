@@ -79,7 +79,17 @@ root@debiando:~#
 
 ## Flavors and images
 
+```python
+from shade import *
 
+simple_logging(debug=True)
+conn = openstack_cloud(cloud='internapNYJ')
+
+images = conn.list_images()
+for image in images:
+    print(image)
+
+```
 
 ```python
 ex_userdata = '''#!/usr/bin/env bash
