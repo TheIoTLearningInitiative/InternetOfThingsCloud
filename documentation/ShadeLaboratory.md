@@ -11,43 +11,20 @@
 
 ```sh
 root@debiando:~# apt-get install python-pip python-dev python-requests
-Reading package lists... Done
-Building dependency tree
-Reading state information... Done
-python-dev is already the newest version.
-python-pip is already the newest version.
-python-requests is already the newest version.
-0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
-root@debiando:~# 
 ```
 
 ## Pip Install
 
 ```sh
 root@debiando:~# pip install -U pip setuptools requests
-Installing collected packages: pip, setuptools, requests
-Successfully installed pip setuptools requests
-Cleaning up...
-root@debiando:~# 
 ```
 
 ```sh
 root@debiando:~# pip install shade os-client-config ipaddress oslo.config python-heatclient futures
-Requirement already satisfied (use --upgrade to upgrade): shade in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): os-client-config in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): ipaddress in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): oslo.config in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): python-heatclient in /usr/local/lib/python2.7/dist-packages
-Requirement already satisfied (use --upgrade to upgrade): futures in /usr/local/lib/python2.7/dist-packages
-Cleaning up...
-root@debiando:~# 
 ```
 
 ```sh
 root@debiando:~# pip install python-ironicclient
-Requirement already satisfied (use --upgrade to upgrade): python-ironicclient in /usr/local/lib/python2.7/dist-packages
-Cleaning up...
-root@debiando:~#
 ```
 
 ```sh
