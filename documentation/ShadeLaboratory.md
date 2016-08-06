@@ -70,6 +70,13 @@ root@debiando:~#
   329  history | grep "pip install"
 ```
 
+```sh
+root@debiando:~# pip install python-designateclient decorator
+Requirement already satisfied (use --upgrade to upgrade): python-designateclient in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied (use --upgrade to upgrade): decorator in /usr/local/lib/python2.7/dist-packages
+Cleaning up...
+root@debiando:~#
+```
 
 - [](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
