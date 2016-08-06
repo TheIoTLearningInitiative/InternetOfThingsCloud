@@ -6,6 +6,7 @@
 
 # Getting Started
 
+- [Getting Started](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
 ## Apt-Get Install
 
@@ -21,10 +22,6 @@ root@debiando:~# pip install shade os-client-config ipaddress oslo.config python
 root@debiando:~# pip install python-ironicclient
 root@debiando:~# pip install python-designateclient decorator
 ```
-
-- [](http://developer.openstack.org/firstapp-shade/getting_started.html)
-
-
 ## Credentials
 
 - [Public Clouds](http://git.openstack.org/cgit/openstack/os-client-config/tree/os_client_config/vendors)
