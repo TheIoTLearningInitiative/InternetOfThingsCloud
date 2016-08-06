@@ -9,6 +9,10 @@
 ## Pip Install
 
 ```sh
+apt-get install python-pip python-dev python-requests
+```
+
+```sh
    67  pip install shade
    69  pip install shade
    71  pip install shade
