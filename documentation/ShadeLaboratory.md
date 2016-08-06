@@ -1628,7 +1628,89 @@ Munch({'public_key': u'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDj2OQMVCUFG8Msdu86F
 Checking for existing security groups...
 Security group already exists. Skipping creation.
 --------------------------------------------------------------
-Munch({'OS-EXT-STS:task_state': None, 'addresses': {u'inap-18085-WAN2229': [{u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:56:5c:96', u'version': 4, u'addr': u'173.231.190.184', u'OS-EXT-IPS:type': u'fixed'}], u'inap-18085-LAN3216': [{u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:3f:94:b6', u'version': 4, u'addr': u'172.27.107.78', u'OS-EXT-IPS:type': u'fixed'}]}, 'image': {u'id': u'3c76334f-9644-4666-ac3c-fa090f175655'}, 'OS-EXT-STS:vm_state': u'active', 'flavor': {u'id': u'A1.1'}, 'networks': {u'inap-18085-WAN2229': [u'173.231.190.184'], u'inap-18085-LAN3216': [u'172.27.107.78']}, 'security_groups': [{u'name': u'all-in-one'}, {u'name': u'all-in-one'}], 'user_id': u'a0ddecadfeeb4a48ada185ada7768a60', 'id': u'79e985af-b0c7-418b-9893-8b35791c03bc', 'accessIPv4': u'172.27.107.78', 'accessIPv6': '', 'cloud': 'internapNYJ', 'public_v4': u'172.27.107.78', 'progress': 0, 'OS-EXT-STS:power_state': 1, 'interface_ip': u'172.27.107.78', 'metadata': {}, 'status': u'ACTIVE', 'updated': u'2016-08-06T22:13:34Z', 'hostId': u'b0f1c9271c85f8f97b0374b27d804296dab15ad4914b41d8e9ceee10', 'NAME_ATTR': 'name', 'key_name': u'demokey', 'public_v6': '', 'request_ids': [], 'private_v4': '', 'name': u'all-in-one', 'created': u'2016-08-06T22:13:26Z', 'tenant_id': u'52929a0acea0413d8c7c2df2445790fc', 'region': 'nyj01', 'adminPass': u'zY5YnXLapJiG', 'x_openstack_request_ids': [], 'os-extended-volumes:volumes_attached': [], 'volumes': [], 'config_drive': u'True', 'human_id': u'all-in-one', 'HUMAN_ID': True})
+Munch({
+  'OS-EXT-STS:task_state': None,
+  'addresses': {
+    u'inap-18085-WAN2229': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:56:5c:96',
+        u'version': 4,
+        u'addr': u'173.231.190.184',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ],
+    u'inap-18085-LAN3216': [
+      {
+        u'OS-EXT-IPS-MAC:mac_addr': u'fa:16:3e:3f:94:b6',
+        u'version': 4,
+        u'addr': u'172.27.107.78',
+        u'OS-EXT-IPS:type': u'fixed'
+      }
+    ]
+  },
+  'image': {
+    u'id': u'3c76334f-9644-4666-ac3c-fa090f175655'
+  },
+  'OS-EXT-STS:vm_state': u'active',
+  'flavor': {
+    u'id': u'A1.1'
+  },
+  'networks': {
+    u'inap-18085-WAN2229': [
+      u'173.231.190.184'
+    ],
+    u'inap-18085-LAN3216': [
+      u'172.27.107.78'
+    ]
+  },
+  'security_groups': [
+    {
+      u'name': u'all-in-one'
+    },
+    {
+      u'name': u'all-in-one'
+    }
+  ],
+  'user_id': u'a0ddecadfeeb4a48ada185ada7768a60',
+  'id': u'79e985af-b0c7-418b-9893-8b35791c03bc',
+  'accessIPv4': u'172.27.107.78',
+  'accessIPv6': '',
+  'cloud': 'internapNYJ',
+  'public_v4': u'172.27.107.78',
+  'progress': 0,
+  'OS-EXT-STS:power_state': 1,
+  'interface_ip': u'172.27.107.78',
+  'metadata': {
+    
+  },
+  'status': u'ACTIVE',
+  'updated': u'2016-08-06T22:13:34Z',
+  'hostId': u'b0f1c9271c85f8f97b0374b27d804296dab15ad4914b41d8e9ceee10',
+  'NAME_ATTR': 'name',
+  'key_name': u'demokey',
+  'public_v6': '',
+  'request_ids': [
+    
+  ],
+  'private_v4': '',
+  'name': u'all-in-one',
+  'created': u'2016-08-06T22:13:26Z',
+  'tenant_id': u'52929a0acea0413d8c7c2df2445790fc',
+  'region': 'nyj01',
+  'adminPass': u'zY5YnXLapJiG',
+  'x_openstack_request_ids': [
+    
+  ],
+  'os-extended-volumes:volumes_attached': [
+    
+  ],
+  'volumes': [
+    
+  ],
+  'config_drive': u'True',
+  'human_id': u'all-in-one',
+  'HUMAN_ID': True
+})
 root@debiando:~# 
 ```
 
