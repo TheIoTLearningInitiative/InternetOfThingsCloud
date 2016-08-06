@@ -45,6 +45,8 @@ clouds:
       region_name: 
 ```
 
+
+
 ```python
 ex_userdata = '''#!/usr/bin/env bash
 
