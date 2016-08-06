@@ -8,6 +8,10 @@
 
 - [Getting Started](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
+## Choose your OpenStack SDK
+
+Python!
+
 ## Apt-Get Install
 
 ```sh
