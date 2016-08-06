@@ -77,6 +77,7 @@ testing_instance = conn.create_server(wait=True,
     security_groups=['default'],
     nics=nics )
 print(testing_instance)
+
 instances = conn.list_servers()
 #for instance in instances:
 #    print(instance)
