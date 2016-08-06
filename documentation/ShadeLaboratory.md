@@ -25,6 +25,28 @@ root@debiando:~# pip install python-designateclient decorator
 - [](http://developer.openstack.org/firstapp-shade/getting_started.html)
 
 
+## Credentials
+
+
+```sh
+root@debiando:~# cat clouds.yaml
+clouds:
+  internapNYJ:
+      profile: 
+      auth:
+        project_name: 
+        username: 
+        password: 
+      region_name: 
+  internapAMS:
+      profile: 
+      auth:
+        project_name: 
+        username: 
+        password: 
+      region_name: 
+```
+
 ```python
 ex_userdata = '''#!/usr/bin/env bash
 
