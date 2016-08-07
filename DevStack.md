@@ -48,7 +48,6 @@ exercises   functions-common  lib          pkg              setup.py      tox.in
 xe1gyq@openstackiando:~/devstack$ 
 ```
 
-
 ```sh
 xe1gyq@openstackiando:~$ cd devstack/
 xe1gyq@openstackiando:~/devstack$ ./stack.sh
