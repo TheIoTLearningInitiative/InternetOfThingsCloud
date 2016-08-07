@@ -241,3 +241,17 @@ root@openstackiando:/opt/stack/cinder# cd -
 /root
 root@openstackiando:~# 
 ```
+
+Error!
+
+```sh
+root@openstackiando:~# cd /opt/stack/neutron/
+root@openstackiando:/opt/stack/neutron# git checkout -b stable/kilo
+Switched to a new branch 'stable/kilo'
+root@openstackiando:/opt/stack/neutron# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@openstackiando:/opt/stack/neutron# cd -
+/root
+root@openstackiando:~# 
+```
