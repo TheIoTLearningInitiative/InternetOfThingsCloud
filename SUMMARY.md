@@ -47,7 +47,7 @@
            * [Brokers](documentation/Brokers.md)
            * [DevStack](DevStack.md)
                * [DataDogHq](documentation/Datadoghq.md)
-               * DataDogHq Fedora
+               * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
