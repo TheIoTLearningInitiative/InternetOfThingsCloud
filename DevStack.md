@@ -12,6 +12,15 @@
 - [Open Stack Wiki](https://wiki.openstack.org/wiki/Getting_Started)
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
 
+```
+root@openstackiando:~# sudo adduser xe1gyq sudo
+Adding user `xe1gyq' to group `sudo' ...
+Adding user xe1gyq to group sudo
+Done.
+root@openstackiando:~# su xe1gyq
+xe1gyq@openstackiando:/root$ 
+```
+
 ```sh
 stack@osic-devstack-27:~/devstack$ ls
 FUTURE.rst       Makefile   data         exercises  functions-common  local.conf    samples         stack.sh  tox.ini
