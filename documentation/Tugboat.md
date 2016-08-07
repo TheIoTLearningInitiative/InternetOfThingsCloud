@@ -107,3 +107,10 @@ Enter your default for IPv6 (optional, defaults to false):
 Authentication with DigitalOcean was successful.
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# tugboat droplets
+debiando (ip: 198.199.98.143, status: active, region: sfo1, id: 17616175)
+openstackiando (ip: 138.68.52.41, status: active, region: sfo2, id: 21792922)
+root@debiando:~# 
+```
