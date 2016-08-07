@@ -48,7 +48,7 @@
            * [DevStack](DevStack.md)
                * [DataDogHq](documentation/Datadoghq.md)
                * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
-               * i386
+               * [i386](documentation/Datadoghqi386.md)
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
            * [Intel](documentation/OpenStackIntel.md)
