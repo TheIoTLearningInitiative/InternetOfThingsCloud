@@ -195,3 +195,5 @@ root@openstackiando:~# sudo -iu stack bash /usr/local/src/devstack/stack.sh
 ...
 ```
 
+```sh
+```
