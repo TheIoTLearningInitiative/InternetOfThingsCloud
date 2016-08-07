@@ -121,3 +121,19 @@ Enter your default for IPv6 (optional, defaults to false):
 Authentication with DigitalOcean was successful.
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# wget https://raw.githubusercontent.com/DataDog/the-monitor/master/openstack/devstack/deploy_droplet.py
+--2016-08-06 23:30:00--  https://raw.githubusercontent.com/DataDog/the-monitor/master/openstack/devstack/deploy_droplet.py
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.40.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.40.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1410 (1.4K) [text/plain]
+Saving to: ‘deploy_droplet.py’
+
+deploy_droplet.py         100%[======================================>]   1.38K  --.-KB/s   in 0s     
+
+2016-08-06 23:30:01 (12.6 MB/s) - ‘deploy_droplet.py’ saved [1410/1410]
+
+root@debiando:~# 
+```
