@@ -214,3 +214,19 @@ Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
 root@openstackiando:/opt/stack/keystone# 
 ```
+
+Error!
+
+```sh
+root@openstackiando:~# cd /opt/stack/glance
+root@openstackiando:/opt/stack/glance# git checkout -b stable/kilo
+Switched to a new branch 'stable/kilo'
+root@openstackiando:/opt/stack/glance# git branch master
+fatal: A branch named 'master' already exists.
+root@openstackiando:/opt/stack/glance# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@openstackiando:/opt/stack/glance# cd -
+/root
+root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
+```
