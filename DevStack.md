@@ -22,9 +22,6 @@ xe1gyq@openstackiando:/root$
 ```
 
 ```sh
-root@openstackiando:~# su xe1gyq
-xe1gyq@openstackiando:/root$ su xe1gyq
-Password: 
 xe1gyq@openstackiando:/root$ cd
 xe1gyq@openstackiando:~$ ls
 xe1gyq@openstackiando:~$ 
