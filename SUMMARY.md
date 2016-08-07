@@ -26,6 +26,7 @@
    * [Artik](documentation/Artik.md)
    * [Blue Box Cloud](documentation/BlueBoxCloud.md)
    * [Digital Ocean](documentation/DigitalOcean.md)
+       * Tugboat
    * [DreamHost](documentation/DreamHost.md)
    * Hewlett-Packard
    * [IBM](documentation/Ibm.md)
