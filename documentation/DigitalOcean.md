@@ -66,7 +66,7 @@ tmpfs           248M     0  248M   0% /sys/fs/cgroup
 root@debiando:~# 
 ```
 
-# TugBoat
+# Tugboat
 
 > A command line tool for interacting with your DigitalOcean droplets [Homepage](https://github.com/pearkes/tugboat)
 
