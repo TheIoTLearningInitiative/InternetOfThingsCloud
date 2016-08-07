@@ -2,6 +2,8 @@
 
 > New Intel code contributions enable high-throughput packet switching in an OpenStack cloud.  Intel has created patches for the Openstack project to enable the Intel® Data Plane Development Kit (DPDK) vSwitch to be used within an Openstack cloud, deployed with Devstack.  Get the patches and documentation [OpenStack](https://01.org/openstack)
 
+- [Intel and Cisco Bring Simplified Openstack Cloud Deployment](http://www.intel.com/content/www/us/en/cloud-computing/simplify-openstack-cloud-deployment-brief.html)
+
 # ClearLinux
 
 > Clear Linux OS for Intel Architecture is focused on the Cloud. Our aim was not to make yet another general-purpose Linux distribution; sometimes lean-and-fast is better than big-and-universal [Homepage](https://clearlinux.org/)
