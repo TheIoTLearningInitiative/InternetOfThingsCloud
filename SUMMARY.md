@@ -46,7 +46,7 @@
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
            * [Brokers](documentation/Brokers.md)
            * [DevStack](DevStack.md)
-               * [DataDogHq](documentation/Datadoghq.md)
+               * [DataDogHq Ubuntu](documentation/Datadoghq.md)
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
