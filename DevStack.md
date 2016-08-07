@@ -28,6 +28,15 @@ xe1gyq@openstackiando:~$
 ```
 
 ```sh
+xe1gyq@openstackiando:~$ git clone https://git.openstack.org/openstack-dev/devstack
+Cloning into 'devstack'...
+remote: Counting objects: 34873, done.
+remote: Compressing objects: 100% (16534/16534), done.
+remote: Total 34873 (delta 24748), reused 27603 (delta 17864)
+Receiving objects: 100% (34873/34873), 6.71 MiB | 4.69 MiB/s, done.
+Resolving deltas: 100% (24748/24748), done.
+Checking connectivity... done.
+xe1gyq@openstackiando:~$ 
 ```
 
 ```sh
