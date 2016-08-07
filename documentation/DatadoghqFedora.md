@@ -51,18 +51,3 @@ exercises   functions-common  lib          pkg              setup.py      tox.in
 ```sh
 [root@openstackiando ~]# devstack/tools/create-stack-user.sh
 ```
-
-```sh
-```
-
-```sh
-```
-
-```sh
-```
-
-```sh
-```
-
-```sh
-```
