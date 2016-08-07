@@ -46,3 +46,9 @@ applicable law.
 
 ubuntu@ubuntu:~$ 
 ```
+
+```sh
+ubuntu@ubuntu:~$ uname -a
+Linux ubuntu 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+ubuntu@ubuntu:~$ 
+```
