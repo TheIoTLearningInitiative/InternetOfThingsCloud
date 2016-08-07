@@ -166,6 +166,6 @@ stack_setup.sh            100%[======================================>]   1.31K 
 root@debiando:~# 
 ```
 
-
+```sh
 root@debiando:~# ssh root@138.68.60.179 'bash -s' < stack_setup.sh
 ```
