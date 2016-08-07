@@ -6,6 +6,8 @@
 
 > Clear Linux OS for Intel Architecture is focused on the Cloud. Our aim was not to make yet another general-purpose Linux distribution; sometimes lean-and-fast is better than big-and-universal [Homepage](https://clearlinux.org/)
 
+- [OpenStack. Open Source. Open Mind.](https://blogs.intel.com/evangelists/2016/04/26/openstack-open-source-open-mind/)
+
 ## Cloud Integrated Advanced Orchestrator
 
 > Cloud Integrated Advanced Orchestrator (ciao) is a new workload scheduler designed to address limitations in current cloud OS projects. Ciao provides a lightweight, fully TLS-based, minimal Config, workload-agnostic, easily updateable, optimized-for-speed scheduler, currently optimized for Openstack [Ciao](https://clearlinux.org/ciao)
