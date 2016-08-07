@@ -187,4 +187,9 @@ individual files in /usr/share/doc/*/copyright.
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
 Last login: Sat Aug  6 23:42:06 2016
+root@openstackiando:~# 
+```
+
+```sh
+root@openstackiando:~# sudo -iu stack bash /usr/local/src/devstack/stack.sh
 ```
