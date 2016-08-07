@@ -2,6 +2,8 @@
 
 > Simple Cloud Computing, Built for Developers [Homepage](https://www.digitalocean.com/)
 
+- [How to setup a Mosquitto MQTT Server and receive data from OwnTracks](https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks)
+
 # Getting Started
 
 ```
@@ -68,5 +70,3 @@ root@debiando:~#
 
 > A command line tool for interacting with your DigitalOcean droplets [Homepage](https://github.com/pearkes/tugboat)
 
-
-- [How to setup a Mosquitto MQTT Server and receive data from OwnTracks](https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks)
