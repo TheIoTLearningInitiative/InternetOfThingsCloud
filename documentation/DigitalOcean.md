@@ -2,13 +2,6 @@
 
 > Simple Cloud Computing, Built for Developers [Homepage](https://www.digitalocean.com/)
 
-# TugBoat
-
-> A command line tool for interacting with your DigitalOcean droplets [Homepage](https://github.com/pearkes/tugboat)
-
-- [How to setup a Mosquitto MQTT Server and receive data from OwnTracks](https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks)
-
-
 # Getting Started
 
 ```
@@ -70,3 +63,10 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 tmpfs           248M     0  248M   0% /sys/fs/cgroup
 root@debiando:~# 
 ```
+
+# TugBoat
+
+> A command line tool for interacting with your DigitalOcean droplets [Homepage](https://github.com/pearkes/tugboat)
+
+
+- [How to setup a Mosquitto MQTT Server and receive data from OwnTracks](https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks)
