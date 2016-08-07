@@ -239,7 +239,7 @@ Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
 root@openstackiando:/opt/stack/cinder# cd -
 /root
-root@openstackiando:~# 
+root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
 ```
 
 Error!
@@ -253,5 +253,5 @@ Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
 root@openstackiando:/opt/stack/neutron# cd -
 /root
-root@openstackiando:~# 
+root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
 ```
