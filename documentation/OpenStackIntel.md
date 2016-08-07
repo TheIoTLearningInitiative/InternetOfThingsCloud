@@ -6,4 +6,4 @@
 
 ## Cloud Integrated Advanced Orchestrator
 
-> Cloud Integrated Advanced Orchestrator (ciao) is a new workload scheduler designed to address limitations in current cloud OS projects. Ciao provides a lightweight, fully TLS-based, minimal Config, workload-agnostic, easily updateable, optimized-for-speed scheduler, currently optimized for Openstack [Ciao Homepage](https://clearlinux.org/ciao)
+> Cloud Integrated Advanced Orchestrator (ciao) is a new workload scheduler designed to address limitations in current cloud OS projects. Ciao provides a lightweight, fully TLS-based, minimal Config, workload-agnostic, easily updateable, optimized-for-speed scheduler, currently optimized for Openstack [Ciao](https://clearlinux.org/ciao)
