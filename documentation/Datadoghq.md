@@ -193,3 +193,16 @@ root@openstackiando:~#
 ```sh
 root@openstackiando:~# sudo -iu stack bash /usr/local/src/devstack/stack.sh
 ```
+
+```sh
+
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
