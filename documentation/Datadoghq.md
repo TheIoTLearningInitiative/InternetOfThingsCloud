@@ -40,5 +40,20 @@ root@debiando:~# gem -v
 root@debiando:~# 
 ```
 
+```sh
+root@debiando:~# gem update --system
+Updating rubygems-update
+Fetching: rubygems-update-2.6.6.gem (100%)
+Successfully installed rubygems-update-2.6.6
+Parsing documentation for rubygems-update-2.6.6
+Installing ri documentation for rubygems-update-2.6.6
+Installing darkfish documentation for rubygems-update-2.6.6
+Done installing documentation for rubygems-update after 53 seconds
+Parsing documentation for rubygems-update-2.6.6
+Done installing documentation for rubygems-update after 0 seconds
+Installing RubyGems 2.6.6
+root@debiando:~# 
+```
+
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
 
