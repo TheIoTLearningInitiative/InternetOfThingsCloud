@@ -175,3 +175,16 @@ Creating a user called stack
 Giving stack user passwordless sudo privileges
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# ssh root@138.68.60.179
+root@138.68.60.179's password: 
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sat Aug  6 23:42:06 2016
+```
