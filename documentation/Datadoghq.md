@@ -229,3 +229,17 @@ root@openstackiando:/opt/stack/glance# cd -
 /root
 root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
 ```
+
+Error!
+
+```sh
+root@openstackiando:~# cd /opt/stack/cinder
+root@openstackiando:/opt/stack/cinder# git checkout -b stable/kilo
+Switched to a new branch 'stable/kilo'
+root@openstackiando:/opt/stack/cinder# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@openstackiando:/opt/stack/cinder# cd -
+/root
+root@openstackiando:~# 
+```
