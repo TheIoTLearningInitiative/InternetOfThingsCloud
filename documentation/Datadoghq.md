@@ -163,6 +163,9 @@ Saving to: ‘stack_setup.sh’
 stack_setup.sh            100%[======================================>]   1.31K  --.-KB/s   in 0s     
 
 2016-08-06 23:45:09 (22.4 MB/s) - ‘stack_setup.sh’ saved [1337/1337]
+root@debiando:~# 
+```
+
 
 root@debiando:~# ssh root@138.68.60.179 'bash -s' < stack_setup.sh
 ```
