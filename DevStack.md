@@ -28,6 +28,16 @@ xe1gyq@openstackiando:~$
 ```
 
 ```sh
+xe1gyq@openstackiando:~$ cd devstack/
+xe1gyq@openstackiando:~/devstack$ ./stack.sh
++ unset GREP_OPTIONS
+...
+ENTER A PASSWORD TO USE FOR THE DATABASE.
+ENTER A PASSWORD TO USE FOR RABBIT.
+ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
+```
+
+```sh
 stack@osic-devstack-27:~/devstack$ ls
 FUTURE.rst       Makefile   data         exercises  functions-common  local.conf    samples         stack.sh  tox.ini
 HACKING.rst      README.md  doc          extras.d   gate              openrc        setup.cfg       stackrc   unstack.sh
