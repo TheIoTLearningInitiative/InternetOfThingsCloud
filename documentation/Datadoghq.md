@@ -168,4 +168,10 @@ root@debiando:~#
 
 ```sh
 root@debiando:~# ssh root@138.68.60.179 'bash -s' < stack_setup.sh
+...
+Cloning into 'devstack'...
+Creating a group called stack
+Creating a user called stack
+Giving stack user passwordless sudo privileges
+root@debiando:~# 
 ```
