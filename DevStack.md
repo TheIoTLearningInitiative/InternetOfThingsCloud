@@ -39,12 +39,13 @@ ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ```
 
 ```sh
-stack@osic-devstack-27:~/devstack$ ls
-FUTURE.rst       Makefile   data         exercises  functions-common  local.conf    samples         stack.sh  tox.ini
-HACKING.rst      README.md  doc          extras.d   gate              openrc        setup.cfg       stackrc   unstack.sh
-LICENSE          accrc      exercise.sh  files      inc               pkg           setup.py        tests     userrc_early
-MAINTAINERS.rst  clean.sh   exerciserc   functions  lib               run_tests.sh  stack-screenrc  tools
-stack@osic-devstack-27:~/devstack$ nano openrc
+xe1gyq@openstackiando:~/devstack$ ls
+clean.sh    exercise.sh       FUTURE.rst   LICENSE          README.md     stackrc   unstack.sh
+data        extras.d          gate         MAINTAINERS.rst  run_tests.sh  stack.sh
+doc         files             HACKING.rst  Makefile         samples       tests
+exerciserc  functions         inc          openrc           setup.cfg     tools
+exercises   functions-common  lib          pkg              setup.py      tox.ini
+xe1gyq@openstackiando:~/devstack$ 
 ```
 
 ```sh
