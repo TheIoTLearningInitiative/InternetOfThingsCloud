@@ -55,6 +55,7 @@
            * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
            * [i386](documentation/Datadoghqi386.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
+           * TryStack
        * Components
            * [Nova](documentation/Nova.md)
                * [Logstach](documentation/Logstach.md)
