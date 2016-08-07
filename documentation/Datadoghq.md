@@ -34,4 +34,10 @@ root@debiando:~# rvm install ruby
 root@debiando:~# rvm --default use ruby-2.3.1
 ```
 
+```sh
+root@debiando:~# gem -v
+2.5.1
+root@debiando:~# 
+```
+
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
