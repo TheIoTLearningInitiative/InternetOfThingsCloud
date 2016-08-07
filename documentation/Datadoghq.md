@@ -99,3 +99,25 @@ root@debiando:~#
 
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
 
+```sh
+root@debiando:~# tugboat authorize
+Note: You can get your Access Token from https://cloud.digitalocean.com/settings/tokens/new
+
+Enter your access token: dd155002f6e12f5c5806a0ca9636308f855727ed286fc6e74cf63ca12b4b238e
+Enter your SSH key path (optional, defaults to ~/.ssh/id_rsa): 
+Enter your SSH user (optional, defaults to root): root
+Enter your SSH port number (optional, defaults to 22): 22
+
+To retrieve region, image, size and key ID's, you can use the corresponding tugboat command, such as `tugboat images`.
+Defaults can be changed at any time in your ~/.tugboat configuration file.
+
+Enter your default region (optional, defaults to nyc1): 
+Enter your default image ID or image slug (optional, defaults to ubuntu-14-04-x64): 
+Enter your default size (optional, defaults to 512mb)): 
+Enter your default ssh key IDs (optional, defaults to none, array of IDs of ssh keys eg. ['1234']): 
+Enter your default for private networking (optional, defaults to false): 
+Enter your default for enabling backups (optional, defaults to false): 
+Enter your default for IPv6 (optional, defaults to false): 
+Authentication with DigitalOcean was successful.
+root@debiando:~# 
+```
