@@ -4,8 +4,7 @@
 
 # ClearLinux
 
-> Clear Linux OS for Intel Architecture is focused on the Cloud. Our aim was not to make yet another general-purpose Linux distribution; sometimes lean-and-fast is better than big-and-universal [Homepage]()
-
+> Clear Linux OS for Intel Architecture is focused on the Cloud. Our aim was not to make yet another general-purpose Linux distribution; sometimes lean-and-fast is better than big-and-universal [Homepage](https://clearlinux.org/)
 
 ## Cloud Integrated Advanced Orchestrator
 
