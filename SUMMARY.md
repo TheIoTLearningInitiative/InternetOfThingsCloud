@@ -42,6 +42,7 @@
    * [Dockers](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
+       * [Training](documentation/OpenStackTraining.md)
        * Concepts
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
            * [Brokers](documentation/Brokers.md)
