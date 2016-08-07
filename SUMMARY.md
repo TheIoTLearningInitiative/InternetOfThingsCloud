@@ -42,14 +42,14 @@
    * [Dockers](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
+       * Concepts
+           * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
+           * [Brokers](documentation/Brokers.md)
        * [Training](documentation/OpenStackTraining.md)
        * [DevStack](DevStack.md)
            * [DataDogHq](documentation/Datadoghq.md)
            * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
            * [i386](documentation/Datadoghqi386.md)
-       * Concepts
-           * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
-           * [Brokers](documentation/Brokers.md)
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
            * [Intel](documentation/OpenStackIntel.md)
