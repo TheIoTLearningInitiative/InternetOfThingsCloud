@@ -35,3 +35,32 @@ Resolving deltas: 100% (24744/24744), done.
 Checking connectivity... done.
 [root@openstackiando ~]# 
 ```
+
+```sh
+[root@openstackiando ~]# cd devstack/
+[root@openstackiando devstack]# ls
+clean.sh    exercise.sh       FUTURE.rst   LICENSE          README.md     stackrc   unstack.sh
+data        extras.d          gate         MAINTAINERS.rst  run_tests.sh  stack.sh
+doc         files             HACKING.rst  Makefile         samples       tests
+exerciserc  functions         inc          openrc           setup.cfg     tools
+exercises   functions-common  lib          pkg              setup.py      tox.ini
+[root@openstackiando devstack]# 
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
