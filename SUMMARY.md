@@ -45,6 +45,7 @@
        * Concepts
            * [Application Programming Interface](documentation/OpenstackApplicationProgrammingInterface.md)
            * [Brokers](documentation/Brokers.md)
+           * [Training](documentation/OpenStackTraining.md)
            * [DevStack](DevStack.md)
                * [DataDogHq](documentation/Datadoghq.md)
                * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
@@ -53,7 +54,6 @@
            * [RedHat](documentation/OpenStackRedHat.md)
            * [Intel](documentation/OpenStackIntel.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
-       * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
        * Components
            * [Nova](documentation/Nova.md)
