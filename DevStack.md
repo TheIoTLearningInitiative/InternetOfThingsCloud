@@ -58,16 +58,3 @@ ENTER A PASSWORD TO USE FOR RABBIT.
 ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
 ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ```
-
-```sh
-#!/usr/bin/env bash
-#
-# source openrc [username] [projectname]
-#
-# Configure a set of credentials for $PROJECT/$USERNAME:
-#   Set OS_PROJECT_NAME to override the default project 'demo'
-#   Set OS_USERNAME to override the default user name 'demo'
-#   Set ADMIN_PASSWORD to set the password for 'admin' and 'demo'
-...
-...
-```
