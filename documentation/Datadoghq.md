@@ -28,4 +28,10 @@ gpg:               imported: 1  (RSA: 1)
 root@debiando:~# 
 ```
 
+```sh
+root@debiando:~# rvm get stable --autolibs=enable
+root@debiando:~# rvm install ruby
+root@debiando:~# rvm --default use ruby-2.3.1
+```
+
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
