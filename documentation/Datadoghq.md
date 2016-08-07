@@ -143,7 +143,7 @@ root@debiando:~# ./deploy_droplet.py openstackiando
 Queueing creation of droplet 'openstackiando'...Failed to create Droplet: You specified an invalid image for Droplet creation.
 Droplet fuzzy name provided. Finding droplet ID...done, 21790805 (openstackiando)
 Waiting for droplet to become active..done (0s)
-IP: 138.68.60.177
+IP: 138.37.31.176
 Run the following (in order): 
 ssh root@138.68.60.177 'bash -s' < stack_setup.sh
 ssh root@138.68.60.177
