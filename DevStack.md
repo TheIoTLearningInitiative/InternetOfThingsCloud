@@ -39,6 +39,7 @@ xe1gyq@openstackiando:~$
 ```
 
 ```sh
+xe1gyq@openstackiando:~$ cd devstack/
 xe1gyq@openstackiando:~/devstack$ ls
 clean.sh    exercise.sh       FUTURE.rst   LICENSE          README.md     stackrc   unstack.sh
 data        extras.d          gate         MAINTAINERS.rst  run_tests.sh  stack.sh
@@ -49,7 +50,6 @@ xe1gyq@openstackiando:~/devstack$
 ```
 
 ```sh
-xe1gyq@openstackiando:~$ cd devstack/
 xe1gyq@openstackiando:~/devstack$ ./stack.sh
 + unset GREP_OPTIONS
 ...
