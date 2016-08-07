@@ -163,19 +163,30 @@ root@debiando:~#
 ```
 
 ```sh
-root@debiando:~# ssh root@138.68.60.67
-root@138.68.60.67's password: 
-Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-31-generic x86_64)
+root@debiando:~# ssh root@138.68.52.41
+root@138.68.52.41's password: 
+Welcome to Ubuntu 14.04.5 LTS (GNU/Linux 4.4.0-31-generic x86_64)
 
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
+ * Documentation:  https://help.ubuntu.com/
 
-5 packages can be updated.
+  System information as of Sun Aug  7 04:23:10 UTC 2016
+
+  System load:  0.06              Processes:           107
+  Usage of /:   4.4% of 29.40GB   Users logged in:     0
+  Memory usage: 6%                IP address for eth0: 138.68.52.41
+  Swap usage:   0%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+0 packages can be updated.
 0 updates are security updates.
 
+New release '16.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
 
-Last login: Sun Aug  7 04:14:42 2016 from 187.201.32.249
+
+Last login: Sun Aug  7 04:22:34 2016 from 187.201.32.249
 root@openstackiando:~# 
 ```
 
