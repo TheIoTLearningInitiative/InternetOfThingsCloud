@@ -44,10 +44,12 @@ data        extras.d          gate         MAINTAINERS.rst  run_tests.sh  stack.
 doc         files             HACKING.rst  Makefile         samples       tests
 exerciserc  functions         inc          openrc           setup.cfg     tools
 exercises   functions-common  lib          pkg              setup.py      tox.ini
-[root@openstackiando devstack]# 
+[root@openstackiando devstack]# cd ..
+[root@openstackiando ~]# 
 ```
 
 ```sh
+[root@openstackiando ~]# devstack/tools/create-stack-user.sh
 ```
 
 ```sh
