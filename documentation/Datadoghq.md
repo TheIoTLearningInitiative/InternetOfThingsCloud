@@ -150,3 +150,19 @@ ssh root@138.68.60.177
 sudo -iu stack /usr/local/src/devstack/stack.sh
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# wget https://raw.githubusercontent.com/DataDog/the-monitor/master/openstack/devstack/stack_setup.sh
+--2016-08-06 23:45:09--  https://raw.githubusercontent.com/DataDog/the-monitor/master/openstack/devstack/stack_setup.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.40.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.40.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1337 (1.3K) [text/plain]
+Saving to: ‘stack_setup.sh’
+
+stack_setup.sh            100%[======================================>]   1.31K  --.-KB/s   in 0s     
+
+2016-08-06 23:45:09 (22.4 MB/s) - ‘stack_setup.sh’ saved [1337/1337]
+
+root@debiando:~# ssh root@138.68.60.179 'bash -s' < stack_setup.sh
+```
