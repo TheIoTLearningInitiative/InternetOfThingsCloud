@@ -169,6 +169,8 @@ root@debiando:~#
 ```sh
 root@debiando:~# ssh root@138.68.60.179 'bash -s' < stack_setup.sh
 ...
+git is already the newest version (1:2.7.4-0ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 5 not upgraded.
 Cloning into 'devstack'...
 Creating a group called stack
 Creating a user called stack
