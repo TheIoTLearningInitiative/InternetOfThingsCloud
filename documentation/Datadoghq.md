@@ -195,6 +195,8 @@ root@openstackiando:~# sudo -iu stack bash /usr/local/src/devstack/stack.sh
 ...
 ```
 
+Error!
+
 ```sh
 root@openstackiando:~# cd /opt/stack/keystone
 root@openstackiando:/opt/stack/keystone# git branch -a
