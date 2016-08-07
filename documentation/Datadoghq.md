@@ -194,8 +194,10 @@ root@openstackiando:~#
 root@openstackiando:~# sudo -iu stack bash /usr/local/src/devstack/stack.sh
 ```
 
-```sh
+Error!
 
+```sh
+root@openstackiando:~# cd /usr/local/src/devstack
 ```
 
 ```sh
