@@ -1,6 +1,6 @@
 # DataDogHq
 
-- [](https://www.datadoghq.com/blog/install-openstack-in-two-commands/)
+- [Install OpenStack in two commands for dev and test](https://www.datadoghq.com/blog/install-openstack-in-two-commands/)
 
 @ Digital Ocean Ubuntu 8.1
 
