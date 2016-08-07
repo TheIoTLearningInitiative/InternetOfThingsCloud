@@ -2,10 +2,14 @@
 
 > Simple Cloud Computing, Built for Developers [Homepage](https://www.digitalocean.com/)
 
-- [A command line tool for interacting with your DigitalOcean droplets](https://github.com/pearkes/tugboat)
+# TugBoat
+
+> A command line tool for interacting with your DigitalOcean droplets [Homepage](https://github.com/pearkes/tugboat)
+
 - [How to setup a Mosquitto MQTT Server and receive data from OwnTracks](https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks)
 
-# Gettis Started
+
+# Getting Started
 
 ```
 xe1gyq@jessie:~$ ssh root@188.179.78.13
