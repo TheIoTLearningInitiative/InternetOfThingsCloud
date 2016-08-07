@@ -114,3 +114,32 @@ debiando (ip: 198.199.98.143, status: active, region: sfo1, id: 17616175)
 openstackiando (ip: 138.68.52.41, status: active, region: sfo2, id: 21792922)
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# tugboat info debiando
+Droplet fuzzy name provided. Finding droplet ID...done, 17616175 (debiando)
+
+Name:             debiando
+ID:               17616175
+Status:           active
+IP4:              198.199.98.143
+Region:           San Francisco 1 - sfo1
+Image:            17785567 - 8.5 x64
+Size:             512MB
+Backups Active:   false
+```
+
+```sh
+root@debiando:~# tugboat info openstackiando
+Droplet fuzzy name provided. Finding droplet ID...done, 21792922 (openstackiando)
+
+Name:             openstackiando
+ID:               21792922
+Status:           active
+IP4:              138.68.52.41
+Region:           San Francisco 2 - sfo2
+Image:            18867443 - ubuntu-14-04-x64
+Size:             1GB
+Backups Active:   false
+root@debiando:~# 
+```
