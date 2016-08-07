@@ -22,6 +22,15 @@ xe1gyq@openstackiando:/root$
 ```
 
 ```sh
+root@openstackiando:~# su xe1gyq
+xe1gyq@openstackiando:/root$ su xe1gyq
+Password: 
+xe1gyq@openstackiando:/root$ cd
+xe1gyq@openstackiando:~$ ls
+xe1gyq@openstackiando:~$ 
+```
+
+```sh
 stack@osic-devstack-27:~/devstack$ ls
 FUTURE.rst       Makefile   data         exercises  functions-common  local.conf    samples         stack.sh  tox.ini
 HACKING.rst      README.md  doc          extras.d   gate              openrc        setup.cfg       stackrc   unstack.sh
