@@ -202,6 +202,7 @@ root@openstackiando:~# cd /usr/local/src/devstack
 
 ```sh
 root@openstackiando:~/usr/local/src/devstack# ./stack
+root@openstackiando:~/usr/local/src/devstack# 
 ```
 
 ```sh
