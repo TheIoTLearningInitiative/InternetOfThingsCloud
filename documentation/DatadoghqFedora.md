@@ -19,3 +19,8 @@ root@138.68.60.125's password:
 Last login: Sun Aug  7 05:21:56 2016 from 198.199.98.143
 [root@openstackiando ~]# 
 ```
+
+```sh
+[root@openstackiando ~]# yum install git
+```
+
