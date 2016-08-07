@@ -24,3 +24,14 @@ Last login: Sun Aug  7 05:21:56 2016 from 198.199.98.143
 [root@openstackiando ~]# yum install git
 ```
 
+```sh
+[root@openstackiando ~]# git clone https://git.openstack.org/openstack-dev/devstack
+Cloning into 'devstack'...
+remote: Counting objects: 34873, done.
+remote: Compressing objects: 100% (16528/16528), done.
+remote: Total 34873 (delta 24744), reused 27611 (delta 17870)
+Receiving objects: 100% (34873/34873), 6.77 MiB | 9.82 MiB/s, done.
+Resolving deltas: 100% (24744/24744), done.
+Checking connectivity... done.
+[root@openstackiando ~]# 
+```
