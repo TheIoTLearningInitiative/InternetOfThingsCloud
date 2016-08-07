@@ -212,7 +212,8 @@ Already on 'stable/kilo'
 root@openstackiando:/opt/stack/keystone# git checkout master
 Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
-root@openstackiando:/opt/stack/keystone# 
+root@openstackiando:/opt/stack/keystone# cd -
+root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
 ```
 
 Error!
