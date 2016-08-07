@@ -56,7 +56,45 @@ root@debiando:~#
 ```
 
 ```sh
-
+root@debiando:~# gem install tugboat
+Fetching: thor-0.18.1.gem (100%)
+Successfully installed thor-0.18.1
+Fetching: multipart-post-2.0.0.gem (100%)
+Successfully installed multipart-post-2.0.0
+Fetching: faraday-0.9.2.gem (100%)
+Successfully installed faraday-0.9.2
+Fetching: faraday_middleware-0.10.0.gem (100%)
+Successfully installed faraday_middleware-0.10.0
+Fetching: hashie-3.4.4.gem (100%)
+Successfully installed hashie-3.4.4
+Fetching: barge-0.12.0.gem (100%)
+Successfully installed barge-0.12.0
+Fetching: middleware-0.1.0.gem (100%)
+Successfully installed middleware-0.1.0
+Fetching: tugboat-2.2.2.gem (100%)
+***************************************
+Successfully installed tugboat-2.2.2
+Parsing documentation for thor-0.18.1
+Installing ri documentation for thor-0.18.1
+invalid options: -SHN
+(invalid options are ignored)
+Parsing documentation for multipart-post-2.0.0
+Installing ri documentation for multipart-post-2.0.0
+Parsing documentation for faraday-0.9.2
+Installing ri documentation for faraday-0.9.2
+Parsing documentation for faraday_middleware-0.10.0
+Installing ri documentation for faraday_middleware-0.10.0
+Parsing documentation for hashie-3.4.4
+Installing ri documentation for hashie-3.4.4
+Parsing documentation for barge-0.12.0
+Installing ri documentation for barge-0.12.0
+Parsing documentation for middleware-0.1.0
+Installing ri documentation for middleware-0.1.0
+Parsing documentation for tugboat-2.2.2
+Installing ri documentation for tugboat-2.2.2
+Done installing documentation for thor, multipart-post, faraday, faraday_middleware, hashie, barge, middleware, tugboat after 5 seconds
+8 gems installed
+root@debiando:~# 
 ```
 
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
