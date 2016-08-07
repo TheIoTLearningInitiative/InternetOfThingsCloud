@@ -207,8 +207,6 @@ root@openstackiando:/opt/stack/keystone# git branch -a
   remotes/origin/stable/mitaka
 root@openstackiando:/opt/stack/keystone# git checkout -b stable/kilo
 Switched to a new branch 'stable/kilo'
-root@openstackiando:/opt/stack/keystone# git checkout stable/kilo
-Already on 'stable/kilo'
 root@openstackiando:/opt/stack/keystone# git checkout master
 Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
