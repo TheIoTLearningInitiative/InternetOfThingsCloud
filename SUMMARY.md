@@ -50,7 +50,7 @@
                * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
-           * Intel
+           * [Intel](documentation/OpenStackIntel.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
        * [Training](documentation/OpenStackTraining.md)
        * [Projects](documentation/OpenStackProjects.md)
