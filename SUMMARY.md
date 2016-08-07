@@ -50,7 +50,7 @@
            * [Intel](documentation/OpenStackIntel.md)
            * [Suse](documentation/OpenStackSuse.md)
        * [Training](documentation/OpenStackTraining.md)
-       * [DevStack](DevStack.md)
+       * [DevStack](documentation/DevStack.md)
            * [DataDogHq](documentation/Datadoghq.md)
            * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
            * [i386](documentation/Datadoghqi386.md)
