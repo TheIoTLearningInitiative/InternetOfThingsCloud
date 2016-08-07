@@ -10,6 +10,7 @@
 
 - [Open Stack Wiki](https://wiki.openstack.org/wiki/Getting_Started)
 - [Open Stack Homepage How To Get Started](https://www.openstack.org/software/start/)
+- [TryStack.org – A Sandbox for OpenStack!](http://www.openstack.org/blog/2012/02/trystack-org-a-sandbox-for-openstack/)
 
 ```
 root@openstackiando:~# sudo adduser xe1gyq sudo
