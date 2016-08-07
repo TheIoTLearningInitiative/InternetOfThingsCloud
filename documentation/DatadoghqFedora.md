@@ -12,3 +12,10 @@ ssh root@138.68.60.125
 sudo -iu stack /usr/local/src/devstack/stack.sh
 root@debiando:~# 
 ```
+
+```sh
+root@debiando:~# ssh root@138.68.60.125
+root@138.68.60.125's password: 
+Last login: Sun Aug  7 05:21:56 2016 from 198.199.98.143
+[root@openstackiando ~]# 
+```
