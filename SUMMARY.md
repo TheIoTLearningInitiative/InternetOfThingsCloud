@@ -31,11 +31,11 @@
    * Hewlett-Packard
    * [IBM](documentation/Ibm.md)
    * [Intel](documentation/Intel.md)
+   * Internap
    * [KIO Networks](documentation/KioNetworks.md)
    * Microsoft
    * [OVH](documentation/Ovh.md)
    * [Rackspace](documentation/Rackspace.md)
-   * Internap
 * Projects
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
