@@ -179,16 +179,19 @@ root@debiando:~#
 ```
 
 ```sh
-root@debiando:~# ssh root@138.68.60.179
-root@138.68.60.179's password: 
+root@debiando:~# ssh root@138.68.60.67
+root@138.68.60.67's password: 
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-31-generic x86_64)
 
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
 
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Aug  6 23:42:06 2016
+5 packages can be updated.
+0 updates are security updates.
+
+
+Last login: Sun Aug  7 04:14:42 2016 from 187.201.32.249
 root@openstackiando:~# 
 ```
 
