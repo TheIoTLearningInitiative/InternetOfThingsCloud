@@ -28,14 +28,6 @@ xe1gyq@openstackiando:~$
 ```
 
 ```sh
-xe1gyq@openstackiando:~$ cd devstack/
-xe1gyq@openstackiando:~/devstack$ ./stack.sh
-+ unset GREP_OPTIONS
-...
-ENTER A PASSWORD TO USE FOR THE DATABASE.
-ENTER A PASSWORD TO USE FOR RABBIT.
-ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
-ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ```
 
 ```sh
@@ -46,6 +38,18 @@ doc         files             HACKING.rst  Makefile         samples       tests
 exerciserc  functions         inc          openrc           setup.cfg     tools
 exercises   functions-common  lib          pkg              setup.py      tox.ini
 xe1gyq@openstackiando:~/devstack$ 
+```
+
+
+```sh
+xe1gyq@openstackiando:~$ cd devstack/
+xe1gyq@openstackiando:~/devstack$ ./stack.sh
++ unset GREP_OPTIONS
+...
+ENTER A PASSWORD TO USE FOR THE DATABASE.
+ENTER A PASSWORD TO USE FOR RABBIT.
+ENTER A SERVICE_PASSWORD TO USE FOR THE SERVICE AUTHENTICATION.
+ENTER A PASSWORD TO USE FOR HORIZON AND KEYSTONE (20 CHARS OR LESS).
 ```
 
 ```sh
