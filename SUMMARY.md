@@ -48,6 +48,7 @@
        * Companies
            * [RedHat](documentation/OpenStackRedHat.md)
            * [Intel](documentation/OpenStackIntel.md)
+           * Suse
        * [Training](documentation/OpenStackTraining.md)
        * [DevStack](DevStack.md)
            * [DataDogHq](documentation/Datadoghq.md)
