@@ -4,7 +4,7 @@
 
 - [Intel and Cisco Bring Simplified Openstack Cloud Deployment](http://www.intel.com/content/www/us/en/cloud-computing/simplify-openstack-cloud-deployment-brief.html)
 - [OpenStack* Cloud Platform on Intel® Architecture](http://www.intel.com/content/www/us/en/cloud-computing/openstack-cloud-platform-paper.html)
-
+- [Three reasons why developers should care about OpenStack](http://blogs.intel.com/evangelists/2016/07/18/three-reasons-developers-care-open-stack/)
 # ClearLinux
 
 > Clear Linux OS for Intel Architecture is focused on the Cloud. Our aim was not to make yet another general-purpose Linux distribution; sometimes lean-and-fast is better than big-and-universal [Homepage](https://clearlinux.org/)
