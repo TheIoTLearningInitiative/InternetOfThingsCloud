@@ -269,3 +269,17 @@ root@openstackiando:/opt/stack/nova# cd -
 /root
 root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
 ```
+
+Error!
+
+```sh
+root@openstackiando:~# cd /opt/stack/horizon
+root@openstackiando:/opt/stack/horizon# git checkout -b stable/kilo
+Switched to a new branch 'stable/kilo'
+root@openstackiando:/opt/stack/horizon# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@openstackiando:/opt/stack/horizon# cd -
+/root
+root@openstackiando:~# sudo -iu stack /usr/local/src/devstack/stack.sh
+```
