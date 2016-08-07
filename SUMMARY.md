@@ -54,7 +54,6 @@
            * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
            * [i386](documentation/Datadoghqi386.md)
        * [Getting Started](documentation/OpenStackGettingStarted.md)
-       * [Projects](documentation/OpenStackProjects.md)
        * Components
            * [Nova](documentation/Nova.md)
                * [Logstach](documentation/Logstach.md)
@@ -67,6 +66,7 @@
            * [Keystone](documentation/ComponentsKeystone.md)
            * [Shade](documentation/ComponentsShade.md)
                * [Laboratory](documentation/ShadeLaboratory.md)
+       * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
 * Wrap-Up
