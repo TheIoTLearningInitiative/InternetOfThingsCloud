@@ -55,5 +55,9 @@ Installing RubyGems 2.6.6
 root@debiando:~# 
 ```
 
+```sh
+
+```
+
 [Authentication](https://cloud.digitalocean.com/settings/api/tokens)
 
