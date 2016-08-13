@@ -8,12 +8,6 @@
 - [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
 - [Rackspace OpenStack](http://training.rackspace.com/)
 
-```
-cloud1.osic.org
-cesar.lara
-Intel$123
-```
-
 # Installation
 
 - [Install OpenStack from Source](https://developer.rackspace.com/blog/install-openstack-from-source/)
@@ -26,3 +20,12 @@ Intel$123
 # TryStack
 
 > The Easiest Way To Try Out OpenStack. We've set up a large, growing cluster of hardware running OpenStack on x86. The best part? It's totally free for you to try & test your apps—thanks to our generous individual and corporate contributors. [TryStack](http://trystack.org/)
+
+
+# Open Cloud
+
+```
+cloud1.osic.org
+cesar.lara
+Intel$123
+```
