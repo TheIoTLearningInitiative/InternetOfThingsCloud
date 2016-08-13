@@ -16,6 +16,7 @@
    -  Finalize and create
      - How many droplets: 1
      - Choose a hostname: openstackme     
-2. 
+
+# Install Openstack Python Libraries
 
 - [Openstack Hackathon](https://github.com/openstack-hackathon/training-shade-sdk)
