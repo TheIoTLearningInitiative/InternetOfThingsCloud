@@ -8,6 +8,10 @@
 - [Rackspace Cloud Guide to Core Infrastructure Services](https://developer.rackspace.com/docs/user-guides/infrastructure/)
 - [Rackspace OpenStack](http://training.rackspace.com/)
 
+http://cloud1.osic.org/
+cesar.lara
+Intel$123
+
 # Installation
 
 - [Install OpenStack from Source](https://developer.rackspace.com/blog/install-openstack-from-source/)
