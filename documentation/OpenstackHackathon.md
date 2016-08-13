@@ -1,6 +1,6 @@
 # Openstack Hackathon
 
-## Digital Ocean
+# Digital Ocean
 
 1. [Create Droplet](https://cloud.digitalocean.com/droplets )
    - __Choose an Image__ Distribution: Ubuntu 14.04.5 
