@@ -51,7 +51,7 @@
            * [Intel](documentation/OpenStackIntel.md)
            * [Suse](documentation/OpenStackSuse.md)
        * [Training](documentation/OpenStackTraining.md)
-           * Openstack Hackathon
+           * [Openstack Hackathon](documentation/OpenstackHackathon.md)
        * [DevStack](documentation/DevStack.md)
            * [DataDogHq](documentation/Datadoghq.md)
            * [DataDogHq Fedora](documentation/DatadoghqFedora.md)
