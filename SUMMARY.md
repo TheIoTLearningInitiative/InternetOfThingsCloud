@@ -82,4 +82,5 @@
    * Eucalyptus
    * Temp
    * SoftLayer
+* Services
 
