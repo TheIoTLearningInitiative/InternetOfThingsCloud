@@ -73,6 +73,7 @@
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
+   * Containers
 * Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
