@@ -13,3 +13,4 @@ Examples:
 - Salesforce
 - Box
 - Dropbox
+- Workday, Concur, Citrix GoToMeeting, Cisco WebEx
