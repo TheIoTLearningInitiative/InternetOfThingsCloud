@@ -69,7 +69,7 @@
            * [Keystone](documentation/ComponentsKeystone.md)
            * [Shade](documentation/ComponentsShade.md)
                * [Laboratory](documentation/ShadeLaboratory.md)
-           * Fuel
+           * [Fuel](documentation/Fuel.md)
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
    * Hadoop
