@@ -25,6 +25,7 @@ Vendors:
   - Amazon Machine Image
 - Rackspace
 - GoGrid
+- [ComputeNext](https://www.computenext.com/)
 
 Types Of Sevices, 4 Categories:
 
