@@ -40,7 +40,6 @@
    * [Apache Mesos](documentation/ApacheMesos.md)
    * [Cloud Foundry](documentation/CloudFoundry.md)
        * [Laboratory](documentation/Laboratory.md)
-   * [Docker](documentation/Docker.md)
    * [Open Compute Project](documentation/OpenComputeProject.md)
    * [OpenStack](documentation/OpenStack.md)
        * Concepts
@@ -72,6 +71,7 @@
                * [Laboratory](documentation/ShadeLaboratory.md)
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
+   * [Docker](documentation/Docker.md)
    * Hadoop
    * Containers
        * Tbd
