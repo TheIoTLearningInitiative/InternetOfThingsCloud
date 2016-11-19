@@ -1,7 +1,3 @@
 # Platforms
 
- > OpenShift Online has been completely rewritten, enabling you to rapidly build and deploy Docker images and manage them on a robust, scalable platform.
-
-SIGN UP FOR FREE
-
- [Homepage](https://www.openshift.com/)
+ > Based on top of Docker containers and the Kubernetes container cluster manager, OpenShift 3 adds developer and operational centric tools to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams and applications [Homepage](https://www.openshift.com/)
