@@ -11,3 +11,5 @@ Examples:
 
 - Google Documents
 - Salesforce
+- Box
+- Dropbox
