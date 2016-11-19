@@ -71,9 +71,9 @@
                * [Laboratory](documentation/ShadeLaboratory.md)
        * [Projects](documentation/OpenStackProjects.md)
    * [Embedded](documentation/Embedded.md)
-   * [Docker](documentation/Docker.md)
    * Hadoop
    * Containers
+       * [Docker](documentation/Docker.md)
        * Tbd
 * Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
