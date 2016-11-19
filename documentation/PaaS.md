@@ -13,4 +13,6 @@
 - IBM Cloud
 - Joyent Cloud
 - Microsoft Azure
+- Heroku
+- Red Hat’s OpenShift.
 
