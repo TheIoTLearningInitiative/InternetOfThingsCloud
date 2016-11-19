@@ -14,5 +14,5 @@
 - Joyent Cloud
 - Microsoft Azure
 - Heroku
-- Red Hat’s OpenShift.
+- Red Hat’s OpenShift
 
