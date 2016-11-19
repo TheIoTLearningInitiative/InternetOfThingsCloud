@@ -24,6 +24,7 @@
 * Services
    * IaaS
    * PaaS
+   * SaaS
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
