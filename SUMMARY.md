@@ -21,10 +21,6 @@
        * [PaaS](documentation/PaaS.md)
            * [Kandy](documentation/Kandy.md)
        * [SaaS](documentation/SaaS.md)
-* Services
-   * IaaS
-   * PaaS
-   * SaaS
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
