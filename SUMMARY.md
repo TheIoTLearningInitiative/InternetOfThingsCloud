@@ -21,6 +21,7 @@
        * [PaaS](documentation/PaaS.md)
            * [Kandy](documentation/Kandy.md)
        * [SaaS](documentation/SaaS.md)
+* Services
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
@@ -82,5 +83,4 @@
    * Eucalyptus
    * Temp
    * SoftLayer
-* Services
 
