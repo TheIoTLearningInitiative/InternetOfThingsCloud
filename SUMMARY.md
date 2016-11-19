@@ -75,7 +75,7 @@
    * Containers
        * [Docker](documentation/Docker.md)
        * [Kubernetes](documentation/Kubernetes.md)
-       * Platforms
+       * [Platforms](Platforms.md)
 * Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
    * CloudStack
