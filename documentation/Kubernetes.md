@@ -1,3 +1,3 @@
 # Kubernetes
 
-> Production-Grade Container Orchestration. Automated container deployment, scaling, and management
+> Production-Grade Container Orchestration. Automated container deployment, scaling, and management []()
