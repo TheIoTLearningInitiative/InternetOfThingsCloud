@@ -22,6 +22,7 @@
            * [Kandy](documentation/Kandy.md)
        * [SaaS](documentation/SaaS.md)
 * Services
+   * IaaS
 * Companies
    * [Amazon](documentation/Amazon.md)
    * [Artik](documentation/Artik.md)
