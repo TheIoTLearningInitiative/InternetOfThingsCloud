@@ -78,7 +78,6 @@
     * [Docker](documentation/Docker.md)
     * [Kubernetes](documentation/Kubernetes.md)
     * [Platforms](documentation/Platforms.md)
-  * [Artificial Intelligence](documentation/ArtificialIntelligence.md)
 * Wrap-Up
 * [Sandbox](documentation/Sandbox.md)
   * CloudStack
